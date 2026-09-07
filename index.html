@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gairaigo Guess</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <a class="brand" href="."><span class="mark">外</span><span><strong>Gairaigo</strong><em>Guess</em></span></a>
+      <div class="meta"><span id="round">ROUND 01</span><b><i></i><span id="score">0</span> pts</b></div>
+    </header>
+    <section class="intro">
+      <div><p class="eyebrow">Borrowed words, new meanings</p><h1>What does it mean<br><span>in Japanese?</span></h1></div>
+      <div class="progress"><small><span id="current">1</span> / <span id="total">414</span></small><div><b id="bar"></b></div></div>
+    </section>
+    <section class="card">
+      <div class="card-head"><span>GAIRAIGO / 和製英語</span><button id="skip" type="button">Skip <b>→</b></button></div>
+      <div class="term"><div id="japanese">読み込み中</div><p id="romaji">Loading quiz data...</p></div>
+      <div class="rule"><span>Guess the meaning</span></div>
+      <div class="answers" id="answers"></div>
+      <div class="feedback" id="feedback" role="status" aria-live="polite"></div>
+      <button class="next" id="next" type="button" disabled>Next word <b>→</b></button>
+    </section>
+    <footer><span>415 Japanese loanwords</span><span>Choose an answer to continue</span></footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

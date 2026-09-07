@@ -1,10 +1,10 @@
-.PHONY: install dev deploy
-db-init-local db-init-remote
-db-tables-local db-tables-remote
-db-stats-local db-stats-remote
-db-count-responses-local db-count-responses-remote
-db-clear-local db-clear-remote
-clean
+.PHONY: install dev deploy \
+        db-init-local db-init-remote \
+        db-tables-local db-tables-remote \
+        db-stats-local db-stats-remote \
+        db-count-responses-local db-count-responses-remote \
+        db-clear-local db-clear-remote \
+        clean
 
 # ----------------------------------------------------------------------
 

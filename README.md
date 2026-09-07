@@ -1,1 +1,1 @@
-# japanese_anglicism_quiz
+# Gairaigo Guess

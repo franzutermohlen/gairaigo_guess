@@ -1,0 +1,418 @@
+id,japanese,romaji,origin,correct,fake1,fake2,fake3
+1,アフレコ,afu-reko,af(ter) + recor(ding),"postrecording, dubbing",a personal preference,a small item related to af recor,the material known as af recor
+2,アフターサービス,afutā sābisu,after service,"customer service, user support, after-care, service",a bus stop,help provided to a customer,a scheduled maintenance visit
+3,アイドル,aidoru,idol,"(teen) idol, pop star",a religious statue,a religious statue,a worshiped image
+4,"アイス, アイスクリーム","aisu, aisu kurīmu","ice/Eis, ice cream",ice; ice cream,a social custom,a specialized place related to ice eis ice cream,the product known as ice eis ice cream
+5,アイスキャンディー,aisu-kyandī,ice + candy,"popsicle, ice lolly",a financial charge,a portable person related to ice candy,the facility known as ice candy
+6,アーカイブ,ākaibu,archive,archive,a historical record collection,a historical record collection,a storage file
+7,アメフト,amefuto,Ame(rican) foot(ball),American football,a winning score,a household event related to ame foot,the process known as ame foot
+8,アメリカンドッグ,amerikan doggu,American dog,corn dog,a type of opportunity,a professional material related to american dog,the category known as american dog
+9,アニメ,anime,"anima(tion), anime","animation, animated cartoons or films (although anime has been reborrowed into English with a meaning of 'Japanese animation', in Japanese the term refers to all animation)",a traffic signal,a public activity related to anima anime,the tool known as anima anime
+10,アニソン,anison,ani(me) + son(g),"an anime song, most often the theme",a movie trailer,a commercial expression related to ani son,the document known as ani son
+11,アンジェル,anjeru,angel,angel,a public announcement,a personal product related to angel,the performance known as angel
+12,アンサー,ansā,answer,"reply to a question, solution to a problem",to exchange an item,a seasonal facility related to answer,the vehicle known as answer
+13,アンチ,anchi,anti-,"hater, anti-fan",a knitted scarf,a electronic custom related to anti,the building known as anti
+14,アパート,apāto,apart(ment),"apartment (US), flat (UK), though apāto are usually in small two-story wood-structure buildings, not multistory complexes as in the US usage",a public library,a printed process related to apart,the item known as apart
+15,アポ,apo,appo(intment),appointment,a website account,a decorative category related to appo,the practice known as appo
+16,アップル,appuru,apple,apple,a programming command,a temporary tool related to apple,the service known as apple
+17,〜アップ,-appu,up(grade),"to upgrade or improve (something). Coupled with English or pseudo-English nouns that indicate what that something is; e.g., version-up: upgrade (software), buy the next-better version or model of something, improve the appearance of something; image-up: improve the image of, improve one's outward appearance; 'weight-up': to gain weight; manner-up: improve one's manners, learn (proper/better) manners or etiquette; power-up: an object that instantly benefits or adds extra abilities to a video game character; base-up, level-up: take to the next or a higher (basic) level of quality; also base-up (frequently abbreviated bea): to raise the base wage of the workers",a pair of sandals,not hard to the touch,gentle treatment
+18,アプリ,apuri,app(lication),"software application, app (for smartphones and tablets)",a mobile phone setting,clever and quick to learn,fashionably well dressed
+19,アールブイ,ārubui,RV,"truck, van, SUV, recreational vehicle",a railway ticket,a premium vehicle related to rv,the device known as rv
+20,アルコール,arukōru,"alcohol, álcool","alcohol, alcoholic beverage",a fruit cocktail,a local building related to alcohol lcool,the event known as alcohol lcool
+21,アウトコース,autokōsu,out-course,outside,a financial charge,a small item related to out-course,the material known as out-course
+22,バッド,baddo,bad,bad,a legal dispute,a traditional practice related to bad,the activity known as bad
+23,バーゲン,bāgen,bargain,a sale at a store,a roadside restaurant,a modern service related to bargain,the expression known as bargain
+24,バイキング,baikingu,viking,"smorgasbord, buffet. (Supposedly named after the restaurant 'Imperial Viking' in the Imperial Hotel, the first restaurant in Japan to serve buffet-style meals and named after the US film The Vikings)",a spicy soup,a distinctive way of doing something,a manner of presentation
+25,バイク,baiku,bike,"a motorcycle, but not a bicycle",a bicycle,a bicycle,a bicycle ride
+26,ブルー,burū,blue,blue,a business agreement,a formal device related to blue,the custom known as blue
+27,ブックカバー,bukku kabā,book cover,dust jacket,a necktie,a household event related to book cover,the process known as book cover
+28,バックミラー,bakku mirā,back mirror,rear-view mirror,a social custom,a professional material related to back mirror,the category known as back mirror
+29,バックナンバー,bakku nanbā,back number,"back issue (US), back number (UK)",a financial charge,a public activity related to back number,the tool known as back number
+30,バックネット,bakku netto,back net,a backstop (in baseball),a boxing match,a commercial expression related to back net,the document known as back net
+31,バンパー,banpā,bumper,a horizontal bar fixed across the front or back of a motor vehicle to reduce damage in a collision or as a trim,a motorcycle helmet,a personal product related to bumper,the performance known as bumper
+32,バリアフリー,baria furī,barrier-free,accessible facilities for handicapped persons,a rain jacket,a seasonal facility related to barrier-free,the vehicle known as barrier-free
+33,バスジャック,basu jakku,bus (hi)jack,a bus hijacking (possibly based on the English term 'carjack'),a parking garage,a electronic custom related to bus jack,the building known as bus jack
+34,バター,batā,butter,"butter, sometimes used on food packaging for margarine",a type of bread,a printed process related to butter,the item known as butter
+35,バッティング,battingu,batting or butting,"Swing the bat in baseball; or, to project forward or propose competitively on business or others by two or more parties, like 'butting heads' by animals.",a rental bicycle,a decorative category related to batting or butting,the practice known as batting or butting
+36,ベビーカー,bebī kā,baby car,"stroller (US), pushchair or pram (UK)",a traffic signal,a temporary tool related to baby car,the service known as baby car
+37,ベッドタウン,beddo taun,bed town,"bedroom suburbs, bedroom community, dormitory suburb, commuter town",a department store,a official document related to bed town,the place known as bed town
+38,ベジタリアン,bejitarian,vegetarian,vegetarian,a legal dispute,a ordinary performance related to vegetarian,the person known as vegetarian
+39,ビジネスホテル,bijinesu hoteru,business hotel,budget hotel,a compact car,a premium vehicle related to business hotel,the device known as business hotel
+40,ビル,biru,buil(ding),building (especially modern steel-and-concrete buildings),a concert venue,a local building related to buil,the event known as buil
+41,ボールペン,bōru pen,ball(point) pen,a ballpoint pen,a soccer penalty,a small item related to ball pen,the material known as ball pen
+42,ブラセラ/ブルセラ,burasera/burusera,bloo(mer) sailor,"panty fetishism, especially with teenage girls wearing school outfits ('sailor suits') and bloomers.",a handbag,a traditional practice related to bloo sailor,the activity known as bloo sailor
+43,ブレザー,burezā,blazer,"blazer, or a Japanese school uniform that includes that garment. It usually has buttons down the front and a vest under it with a white collared shirt.",a sports jersey,the color white,a pale-colored object
+44,ブルマ,buruma,bloomers,"short pants worn for exercise by girls, usually in PE class in high school",a pair of sandals,a specialized place related to bloomers,the product known as bloomers
+45,キャビンアテンダント,,cabin attendant,A flight attendant,a traffic signal,the facility known as cabin attendant,an example of cabin attendant in everyday use
+46,チャージ,chāji,charge,"to top up, to add value, used for e-payment",a fee added to a bill,a fee added to a bill,an accusation of wrongdoing
+47,チャレンジ,charenji,challenge,"duel, contest, competition",a difficult task,a difficult task,an invitation to compete
+48,チェンジレバー,chenji-rebā,change + lever,"gearshift, gear lever, gear stick",to repeat an action,a professional material related to change lever,the category known as change lever
+49,チェリーボーイ,cherī bōi,cherry boy,a male virgin,a personal preference,a public activity related to cherry boy,the tool known as cherry boy
+50,"チアガール, チアマン, チアリーダー","chia gāru, chia man, chia rīdā","cheer girl, cheer man, cheerleader","(female), (male) cheerleader",a company executive,a commercial expression related to cheer girl cheer man cheerleader,the document known as cheer girl cheer man cheerleader
+51,コラボ,korabo,collab(orations),collaboration; crossover,a public announcement,a personal product related to collab,the performance known as collab
+52,コンピューター/コンピュータ,konpyūtā/konpyūta,computer,computer,a digital camera,a seasonal facility related to computer,the vehicle known as computer
+53,ダブル (noun)/ダブる (verb),daburu,double,"(noun and adjective) double; double-breasted (jacket), or turn-ups (cuffs) on trousers; (verb) to be redundant or doubled",a pair of sandals,a change in direction,an opportunity to act
+54,ダンス,dansu,dance,dance,a legal dispute,a printed process related to dance,the item known as dance
+55,ダンプカー,danpu kā,dump car,"dump truck (US), dumper (UK)",a railway ticket,a decorative category related to dump car,the practice known as dump car
+56,ダストボックス,dasuto bokkusu,dust box,"rubbish bin (UK), garbage can (US)",a type of opportunity,a temporary tool related to dust box,the service known as dust box
+57,ダストシュート,dasuto shūto,dust chute,garbage chute,a personal preference,a official document related to dust chute,the place known as dust chute
+58,ダッチワイフ,datchi-waifu,Dutch + wife,sex doll,a medical examination,a ordinary performance related to dutch wife,the person known as dutch wife
+59,ダウンロードオンリーメンバー,daunrōdo onrī menbā,download-only member,a computing leech,a software update,a premium vehicle related to download-only member,the device known as download-only member
+60,〜ティック/〜⁠チック,-tikku/-chikku,"'-tic', as in (roman)tic, (drama)tic","-esque, attached to a noun. For example, a product with cute character illustrations may be considered 'Akihabara-chikku'.",a music performance,a local building related to tic as in tic tic,the event known as tic as in tic tic
+61,デッドボール,deddo bōru,dead ball,hit by a pitch,a golf club,a small item related to dead ball,the material known as dead ball
+62,デフォルト,deforuto,default,ordinary option,a legal dispute,a traditional practice related to default,the activity known as default
+63,デコレーションケーキ,dekorēshon kēki,decoration cake,a fancy cake,a packaged snack,a modern service related to decoration cake,the expression known as decoration cake
+64,電子レンジ/レンジ,denshi renji or renji,"電子 (denshi, electronic) + range",a microwave oven,a programming command,a specialized place related to range,the product known as range
+65,デパート,depāto,depart(ment store),department store,a neighborhood shopping street,a portable person related to depart,the facility known as depart
+66,デパ地下,depa chika,"depa(rtment store) + 地下 (chika, underground)","a shopping area, often focused on food and located adjacent to train stations, found in major cities in Japan",a grilled seafood dish,a formal device related to depa,the custom known as depa
+67,デリバリーヘルス,deribarī herusu,delivery health,"a form of prostitution, essentially a call girl or escort service",a skin condition,help provided to a customer,a scheduled maintenance visit
+68,デスク,desuku,desk,"an editor for a certain section of a publication. (Derived from desk’s meaning as a division of specialization in a newsroom, e.g., 'the sports desk'.) A desk.",a swimming race,a professional material related to desk,the category known as desk
+69,ドアカット,doakatto,door + cut,selective door operation,a financial charge,a public activity related to door cut,the tool known as door cut
+70,ドクター ストップ,dokutā sutoppu,doctor stop,"a doctor's order / advice / recommendation to a patient to cease doing something (e.g., smoking or drinking alcohol)",a coffee-based dessert,a commercial expression related to doctor stop,the document known as doctor stop
+71,ドンマイ,donmai,don('t) mi(nd),"'don't worry about it', 'don't pay (that) any mind', 'it's/I'm OK', 'no problem'. Used when something goes wrong.",a pair of sandals,a personal product related to don mi,the performance known as don mi
+72,ドライバー,doraibā,driver,a screwdriver; motor vehicle driver,a person who operates a vehicle,a person who operates a vehicle,a software device controller
+73,ドライブイン,doraibuin,drive in,"rest area, motor lodge, drive-in",a personal preference,a electronic custom related to drive in,the building known as drive in
+74,ドラマ,dorama,drama,"TV drama, soap opera",a movie trailer,a printed process related to drama,the item known as drama
+75,ドリフト,dorifuto,drift,drifting (when a car is in a controlled skid),a compact car,a decorative category related to drift,the practice known as drift
+76,エアコン,eakon,air con(ditioning) / con(ditioner),air conditioning or air conditioner (may refer to both heating and cooling functions),to exchange an item,a temporary tool related to air con con,the service known as air con con
+77,AV,ēbui/ēvui,AV,adult video; audiovisual (audio-video),a comic-book character,a official document related to av,the place known as av
+78,エンスト,ensuto,en(gine) sto(p),stall (as in an automobile engine),a legal dispute,a ordinary performance related to en sto,the person known as en sto
+79,NG,enu-jī,n(ot) + g(ood),"not good or no good, acronym",a change of policy,a premium vehicle related to n g,the device known as n g
+80,エレベーター,erebētā,elevator,"elevator (US), lift (UK)",a type of opportunity,a local building related to elevator,the event known as elevator
+81,エロ,ero,ero(s),erotic,a personal preference,a small item related to ero,the material known as ero
+82,エログ,erogu,ero(tic) + (b)log,"erotic blog, adult-oriented blog",a business agreement,a traditional practice related to ero log,the activity known as ero log
+83,エログロ,eroguro,ero(tic) gro(tesque),an artistic movement featuring 'erotic grotesque nonsense' that emerged in Japan in the early 20th century,formal shoes,a modern service related to ero gro,the expression known as ero gro
+84,エール,ēru,yell,(1) to cheer on a player in a sports competition; (2) to express support for a candidate in an election,a swimming race,a specialized place related to yell,the product known as yell
+85,LLC,eruerushī,acronym for 'long-life coolant',antifreeze coolants,a financial charge,a portable person related to acronym for long-life coolant,the facility known as acronym for long-life coolant
+86,エスケープ,esukēpu,escape,run away,a rain jacket,a formal device related to escape,the custom known as escape
+87,ファイナル,fainaru,final,last,a change of policy,a household event related to final,the process known as final
+88,ファイト,faito,fight,often used to mean 'Do your best!' or 'I'll do my best.',to repeat an action,a professional material related to fight,the category known as fight
+89,ファミコン,"famikon, Famicom",fami(ly) com(puter),"the Nintendo Entertainment System, known as the Family Computer in Japan. Also a catch-all term by the older generation for any gaming console.",a computer password,a public activity related to fami com,the tool known as fami com
+90,ファンタジック,fantajikku,fantasy + -ic,fantastic,a business agreement,a commercial expression related to fantasy -ic,the document known as fantasy -ic
+91,ファッションヘルス,fasshon herusu,fashion health,a form of brothel,a winter coat,a personal product related to fashion health,the performance known as fashion health
+92,フェッチ,fetchi,fetch,(computer jargon) To fetch an instruction from main memory when a microprocessor executes a command,a digital camera,a seasonal facility related to fetch,the vehicle known as fetch
+93,～フェチ,fechi,feti(sh),fetish (a sexual fetish or just a distinctive preference),a dental procedure,a electronic custom related to feti,the building known as feti
+94,フィリピンパブ,firipin-pabu,Philippines + pub,a bar with Filipino staff,a legal dispute,a printed process related to philippines pub,the item known as philippines pub
+95,フォアボール,foabōru,four ball,base on balls (baseball term),a winning score,a decorative category related to four ball,the practice known as four ball
+96,フライ,furai,fly,fly ball (baseball term),a practice drill,a temporary tool related to fly,the service known as fly
+97,フライ,furai,fry,deep frying,a personal preference,a official document related to fry,the place known as fry
+98,フライパン,furaipan,fry + pan,frying pan,a business agreement,a ordinary performance related to fry pan,the person known as fry pan
+99,フライドポテト,furaido poteto,fried potato,"french fries (US), chips (UK)",a packaged snack,a premium vehicle related to fried potato,the device known as fried potato
+100,フライング(スタート),furaingu (sutāto),flying (start),"premature start, breakaway",a social custom,a local building related to flying,the event known as flying
+101,フライングゲット,furaingu getto,flying get,to purchase an item before its official release date,to make a reservation,a small item related to flying get,the material known as flying get
+102,フラクタル,furakutaru,fractal,fractal,a legal dispute,a traditional practice related to fractal,the activity known as fractal
+103,フリーダイアル/フリーダイヤル/フリーコール,furī daiaru/furī daiyaru/furī kōru,free dial/free call,toll-free call,a change of policy,a modern service related to free dial free call,the expression known as free dial free call
+104,フリーサイズ,furī saizu,free size,one-size-fits-all,a type of opportunity,a specialized place related to free size,the product known as free size
+105,フリーター,furītā,free Arbeiter ('worker')or: free time,"underemployed young adults, people who opt to work (a series of) part-time jobs rather than engage in permanent employment",a schoolteacher,a portable person related to free arbeiter or free time,the facility known as free arbeiter or free time
+106,フロント,furonto,front (desk),"the reception desk, e.g. at a hotel or a sentō",a railway station,a formal device related to front,the custom known as front
+107,フロントガラス,furonto garasu,front glass,"windshield (US), windscreen (UK)",a public announcement,a transparent material,a drinking vessel
+108,フルベース,furu bēsu,full base,bases loaded,a social custom,a professional material related to full base,the category known as full base
+109,ガードマン,gādo man,guard man,"a (private) security guard, a person who directs traffic around work sites",a railway ticket,a public activity related to guard man,the tool known as guard man
+110,ガラス,garasu,glass,glass (material),a transparent material,a transparent material,a drinking vessel
+111,ガソリンスタンド,gasorin sutando,gasoline stand,"gas station (US), petrol station (UK)",a roadside restaurant,a personal product related to gasoline stand,the performance known as gasoline stand
+112,ガタパーチャ,gata pācha,getah perca or gutta percha,a hard tough thermoplastic substance which is the coagulated latex of certain Malaysian trees,a type of opportunity,a seasonal facility related to getah perca or gutta percha,the vehicle known as getah perca or gutta percha
+113,ガッツポーズ,gattsu pōzu,guts pose,"fist pump, victory pose, named for boxer Guts Ishimatsu",a personal preference,a electronic custom related to guts pose,the building known as guts pose
+114,ゲームクリエーター,gēmu kuriētā,game creator,game developer,a tennis serve,a printed process related to game creator,the item known as game creator
+115,ゲームセンター/ゲーセン,gēmu sentā/gēsen,game centre,video arcade,a baseball pitcher,a decorative category related to game centre,the practice known as game centre
+116,ゲームセット,gēmu setto,"Game, set(, match)","announcement for the conclusion of a competition. Used in sports, as well as some video games (such as Super Smash Bros.)",a swimming race,a temporary tool related to game set,the service known as game set
+117,ギブ(アップ),gibu(appu),give (up),to give up,to make a reservation,a official document related to give,the place known as give
+118,ゴールデンアワー/ゴールデンタイム,gōruden awā/gōruden taimu,golden hour/golden time,prime time in Japanese television,a radio broadcast,a ordinary performance related to golden hour golden time,the person known as golden hour golden time
+119,ゴールデンウィーク/ゴールデンウイーク,gōruden wīku/gōruden uīku,golden week,"A week of holidays in Japan, Golden Week.",a change of policy,a premium vehicle related to golden week,the device known as golden week
+120,ググる,guguru,Goog(le) + -ru (Japanese verb ending),"to google (i.e., to search online using a search engine)",a programming command,a local building related to goog -ru,the event known as goog -ru
+121,グラビア,gurabia,gravure,glamour photography,a television news program,a small item related to gravure,the material known as gravure
+122,グラス,gurasu,glass,drinking glass,bottled mineral water,a transparent material,a drinking vessel
+123,グロ,guro,gro(tesque),grotesque,a public announcement,a modern service related to gro,the expression known as gro
+124,ギャラリー,gyararī,gallery,"an art gallery, audience, or a pool of celebrities on a program.",a music performance,a specialized place related to gallery,the product known as gallery
+125,ギャル,gyaru,gal,a young woman who belongs to the gyaru subculture,to make a reservation,a portable person related to gal,the facility known as gal
+126,ハイカラ,haikara,high colla(r),"(1920s slang) a person who was devoted to Western fashions, trends and values. E.g., manga/anime Haikara-san ga Tōru ('Here Comes Miss High-Collar').",a necktie,a formal device related to high colla,the custom known as high colla
+127,ハイネック,hainekku,high neck,A turtleneck style shirt or sweater,a winter coat,a distinctive way of doing something,a manner of presentation
+128,ハイオク,haioku,high octane,high-octane gasoline,a type of opportunity,a professional material related to high octane,the category known as high octane
+129,ハイタッチ,haitatchi,high touch,high five,a personal preference,a public activity related to high touch,the tool known as high touch
+130,ハッカー,hakkā,hacker,refers specifically to a computer black hat,a knitted scarf,a commercial expression related to hacker,the document known as hacker
+131,ハモる,hamoru,harmo(ny) + -ru (Japanese verb ending),to harmonize (when singing),to cancel an order,a personal product related to harmo -ru,the performance known as harmo -ru
+132,ハンバーグ,hanbāgu,hamburg(er steak),Salisbury steak (culinary term),a fruit cocktail,a seasonal facility related to hamburg,the vehicle known as hamburg
+133,ハンチング帽,hanchingu-bō,"hunting + 帽 (bō, hat, cap)","deerstalker cap, hunting cap",a sports jersey,a electronic custom related to hunting,the building known as hunting
+134,ハンドル,handoru,handle,steering wheel or bicycle handlebars,a part used for gripping,a part used for gripping,a nickname used online
+135,ハンドルキーパー,handoru kīpā,handle keeper,designated driver,a traffic signal,a person who operates a vehicle,a software device controller
+136,ハンドルネーム,handoru nēmu,handle name,"handle, screen name",a type of opportunity,a part used for gripping,a nickname used online
+137,ハンカチ,hankachi,han(d)kerchie(f),handkerchief,a personal preference,a official document related to hankerchie,the place known as hankerchie
+138,ハンスト,hansuto,hun(ger) st(rike),hunger strike,a business agreement,a ordinary performance related to hun st,the person known as hun st
+139,ハッピーエンド,happī endo,happy end,a happy ending,a software update,a premium vehicle related to happy end,the device known as happy end
+140,ハウス (ビニールハウス),hausu (binīru hausu),house (vinyl house),greenhouse or glasshouse,a hotel lobby,a transparent material,a drinking vessel
+141,ハザードランプ,hazādo ranpu,hazard lamp,hazard flashers or hazard lights,a financial charge,a small item related to hazard lamp,the material known as hazard lamp
+142,ヘアピンカーブ,heapin kābu,hairpin curve,hairpin turn,a legal dispute,a change in direction,an opportunity to act
+143,ヘルスメーター,herusu mētā,health meter,"bathroom scales, scales",a body posture,a modern service related to health meter,the expression known as health meter
+144,ヒップ,hippu,Hips,"buttocks, butt",a sleep disorder,a specialized place related to hips,the product known as hips
+145,ヒップホップ,hippuhoppu,hiphop,hiphop,a personal preference,a portable person related to hiphop,the facility known as hiphop
+146,ヒーリング,hīringu,healing,healing (psychological process),a medical examination,a formal device related to healing,the custom known as healing
+147,ホッチキス,hotchikisu,Hotchkiss,"stapler (a genericized trademark of the E. H. Hotchkiss company, also used in Korea)",a public announcement,a household event related to hotchkiss,the process known as hotchkiss
+148,ホテヘルス,hote-herusu,hote(l) + health,erotic massage provided in a hotel room,a fitness measurement,a professional material related to hote health,the category known as hote health
+149,ホテトル,hote-toru,hote(l) + Tur(kish bath),sexual services provided in a hotel room,a dental procedure,help provided to a customer,a scheduled maintenance visit
+150,ホットケーキ,hotto kēki,hotcake,"a pancake, hotcake",a spicy soup,a commercial expression related to hotcake,the document known as hotcake
+151,ホーム,hōmu,(plat)form,a railway platform,a place where someone lives,a personal product related to form,the performance known as form
+152,ホワイトデー,howaito dē,White + Day,"White Day, a month after Valentine's Day",a type of opportunity,the color white,a pale-colored object
+153,イエスー,iesū,yes,yes,a personal preference,a electronic custom related to yes,the building known as yes
+154,イメージ,imēji,image,"an image, often used to indicate an artist's rendering or a graphic intended to provide a conceptual image of a situation; especially in advertising and design, a conceptual description intended to conjure a mental image of an abstract situation; (the public's) impression or perception of an entity.",to repair a machine,a printed process related to image,the item known as image
+155,イメージクラブ,imēji-kurabu,image + club,"a type of brothel in which the staff dress in costumes (schoolgirl, nurse, etc.)",formal shoes,a decorative category related to image club,the practice known as image club
+156,インスタ,insuta,Insta(gram),Instagram,a social custom,a temporary tool related to insta,the service known as insta
+157,インフレ,infure,infla(tion),inflation,a financial charge,a official document related to infla,the place known as infla
+158,イン・キー,in kī,in key,locking one's car keys inside of one's car,a highway toll gate,a ordinary performance related to in key,the person known as in key
+159,イラスト,irasuto,illust(ration),an illustration,a stage performance,a premium vehicle related to illust,the device known as illust
+160,インターネット,intānetto,internet,internet,a programming command,a local building related to internet,the event known as internet
+161,イヤー・オブ・ザ・コーチ,iyā obu za kōchi,year of the coach,coach of the year (a title given to coaches by Asahi Shimbun and the High School Baseball Federation from 2003 to 2005),a soccer penalty,a small item related to year of the coach,the material known as year of the coach
+162,ジャンパー,janpā,jumper,"jacket, jumper (ski jumping athlete)",a necktie,a traditional practice related to jumper,the activity known as jumper
+163,ジャンプ,janpu,jump,jump,a public announcement,a modern service related to jump,the expression known as jump
+164,ジェンダーフリー,jendā furī,gender free,"gender equality, gender blind",a social custom,a specialized place related to gender free,the product known as gender free
+165,ジェットコースター,jetto kōsutā,jet coaster,roller coaster,a financial charge,a portable person related to jet coaster,the facility known as jet coaster
+166,ジングルベル,jinguruberu,jingle + bell,Jingle Bells,a legal dispute,a formal device related to jingle bell,the custom known as jingle bell
+167,ジレンマ,jirenma,dilemma,dilemma,a business agreement,a ordinary performance related to dilemma,the person known as dilemma
+168,ジーパン,jīpan,jea(ns) + pan(ts),jeans,a change of policy,a household event related to jea pan,the process known as jea pan
+169,ジープ,jīpu,jeep,"a small, sturdy motor vehicle with four-wheel drive, especially one used by the military",a parking garage,a professional material related to jeep,the category known as jeep
+170,ジュース,jūsu,juice,"(1) juice; (2) soda or energy drinks, regardless of whether they contain any juice",a hot tea beverage,a public activity related to juice,the tool known as juice
+171,カーセックス,kā-sekkusu,car + sex,public sex (in a car),a rental bicycle,a commercial expression related to car sex,the document known as car sex
+172,カメラマン,kameraman,cameraman,photographer or cameraman,a software update,a personal product related to cameraman,the performance known as cameraman
+173,カモン/カモーン,kamon/kamōn,come on,An invitation to join an activity or event.,to exchange an item,a seasonal facility related to come on,the vehicle known as come on
+174,カンニング,kanningu,cunning,cheating,to make a reservation,a electronic custom related to cunning,the building known as cunning
+175,カラオケ,karaoke,"空 (kara, empty) + orche(stra)",karaoke,a legal dispute,the item known as orche,an example of orche in everyday use
+176,カルピス,karupisu,cal(cium) + सर पिस (sar)pis (Sanskrit for 'good taste'),Calpis (a brand of soft drink that uses milk as a key ingredient),a milk-based beverage,not hard to the touch,gentle treatment
+177,カシューナッツ,Kashū nattsu,cashew nut,cashew,a type of opportunity,a temporary tool related to cashew nut,the service known as cashew nut
+178,キーホルダー,kī horudā,key holder,key ring or key chain,a personal preference,a official document related to key holder,the place known as key holder
+179,キスマーク,kisu māku,kiss mark,hickey,a medical examination,a ordinary performance related to kiss mark,the person known as kiss mark
+180,キッチンペーパー,kitchin pēpā,kitchen paper,paper towel,a public announcement,a premium vehicle related to kitchen paper,the device known as kitchen paper
+181,コード,kōdo,chord,chord,a social custom,a local building related to chord,the event known as chord
+182,コインランドリー,koin randorī,coin laundry,"laundromat (US), launderette (UK)",a financial charge,a small item related to coin laundry,the material known as coin laundry
+183,コインロッカー,koin rokkā,coin locker,coin-operated locker,a legal dispute,a traditional practice related to coin locker,the activity known as coin locker
+184,コインロッカーベイビー,koin rokkā beibī,coin locker baby,"Coin-operated-locker babies, babies abandoned in a coin locker",a change of policy,a modern service related to coin locker baby,the expression known as coin locker baby
+185,コマーシャルメッセージ/CM,komāsharu messeji,commercial message,television advertisement,a photographic portrait,a specialized place related to commercial message,the product known as commercial message
+186,コミカライズ,komikaraizu,comic[al] + -ize,"to make a comic strip (manga) version of an originally non-comic strip title, such as a novel, movie, or TV show.",a television news program,a portable person related to comic al -ize,the facility known as comic al -ize
+187,コンビニ,konbini,conveni(ence store),convenience store,a railway station,a formal device related to conveni,the custom known as conveni
+188,コンセント,konsento,concent(ric plug),electrical outlet,a public announcement,a household event related to concent,the process known as concent
+189,コロッケ,korokke,croquette,"croquette, a small fried roll",a fried vegetable dish,a professional material related to croquette,the category known as croquette
+190,コスプレ,kosupure,cos(tume) play,"cosplay (dressing up in costumes, especially from manga, anime and video games)",a necktie,a public activity related to cos play,the tool known as cos play
+191,クラブ,kurabu,club,a club or society,a public library,a commercial expression related to club,the document known as club
+192,クラクション,kurakushon,Klaxon,horn (on an automobile),a change of policy,a personal product related to klaxon,the performance known as klaxon
+193,クラス,kurasu,class,class,a type of opportunity,a seasonal facility related to class,the vehicle known as class
+194,クレーム,kurēmu,claim,a complaint,a statement that something is true,a statement that something is true,a request for compensation
+195,クレーンゲーム,kurēn-gēmu,crane + game,"claw crane (an alternate term used in Japan is 'UFO catcher', derived from the Sega game of the same name)",a tennis serve,a printed process related to crane game,the item known as crane game
+196,クリスタル,kurisutaru,crystal,shiny or clear,a public announcement,a decorative category related to crystal,the practice known as crystal
+197,キャバクラ,kyabakura,cabaret club,hostess club,a hotel lobby,a temporary tool related to cabaret club,the service known as cabaret club
+198,キャベツ,kyabetsu,cabbage,cabbage,a financial charge,a official document related to cabbage,the place known as cabbage
+199,キャンペーン,kyanpēn,campaign,a sales campaign or sweepstakes,a legal dispute,a ordinary performance related to campaign,the person known as campaign
+200,キャンピングカー,kyanpingu kā,camping-car,a recreational vehicle. (A pseudo-anglicism used in France),a railway ticket,a premium vehicle related to camping-car,the device known as camping-car
+201,キャッチボール,kyatchi bōru,catch ball,"the game of catch or a fast-paced conversation, especially in English",a practice drill,a local building related to catch ball,the event known as catch ball
+202,キャッチホン,kyatchi hon,catch phone,call waiting,a computer password,a small item related to catch phone,the material known as catch phone
+203,キャッチコピー,kyatchi kopī,catch copy,tagline,a business agreement,a traditional practice related to catch copy,the activity known as catch copy
+204,ランド,rando,land,area of ground,a public announcement,a modern service related to land,the expression known as land
+205,マグカップ,magu kappu,mug cup,mug,a social custom,a specialized place related to mug cup,the product known as mug cup
+206,マイナスドライバー,mainasu doraibā,minus driver,(flathead) screwdriver,a train conductor,a person who operates a vehicle,a software device controller
+207,マイ〜,mai~,my,"Someone's own. E.g., mai būmu: personal taste; mai kã: one's own car; mai waifu : one's wife; mai hōmū: one's own house; mai pēsu: doing things at one's own (leisurely) pace, taking one's time (often somewhat derogatory). Confusingly for English speakers, this can be used to refer to someone else's car, wife, home, etc.",a rental bicycle,a place where someone lives,a domestic household
+208,マジックインキ,majikku inki,Magic Ink,permanent marker (a genericized trademark of Uchida Yoko Co.),a change of policy,a household event related to magic ink,the process known as magic ink
+209,マジックテープ,majikku tēpu,magic tape,velcro,a type of opportunity,a professional material related to magic tape,the category known as magic tape
+210,マニア,mania,mania,"enthusiasm, enthusiast",a personal preference,a public activity related to mania,the tool known as mania
+211,マンション,manshon,mansion,modern concrete apartment / condominium block,a large luxurious house,a large luxurious house,a country estate
+212,満タン,mantan,"満 (man, full) + tan(k)",full tank (as in the fuel tank of an automobile),a public announcement,a personal product related to tan,the performance known as tan
+213,マントル,man-toru,man(sion) + Tur(kish bath),sexual services provided in a private apartment,a fitness measurement,help provided to a customer,a scheduled maintenance visit
+214,マスコミ,masukomi,mass communication,"mass media, the media, the press",a financial charge,a electronic custom related to mass communication,the building known as mass communication
+215,マザコン,mazakon,mother com(plex),"Oedipus complex, a strong attachment to one's mother (often used derogatorily); 'girly man'",to improve a skill,a printed process related to mother com,the item known as mother com
+216,メーカー,mēkā,maker,manufacturer,a change of policy,a decorative category related to maker,the practice known as maker
+217,メモリ,memori,memory,memory,a programming command,a temporary tool related to memory,the service known as memory
+218,メンヘラ,menhera,mental health,a person (typically a woman) with a mental disorder,a shoulder injury,a official document related to mental health,the place known as mental health
+219,メリークリスマス,merīkurisumasu,Merry Christmas,Merry Christmas,a business agreement,a ordinary performance related to merry christmas,the person known as merry christmas
+220,メール,mēru,mail,e-mail,a public announcement,a premium vehicle related to mail,the device known as mail
+221,メールマガジン,mēru magajin,mail magazine,"e-mail newsletter, ezine",a music performance,a local building related to mail magazine,the event known as mail magazine
+222,メタボ,metabo,metabo(lic),"Fat around the middle, big-bellied",a financial charge,a small item related to metabo,the material known as metabo
+223,ミクスチャーロック,mikusuchā-rokku,mixture + rock,"rock music with rap, hip-hop, and reggae influences; also, as a catch-all term to describe such genres as rap rock, nu metal",a radio broadcast,a traditional practice related to mixture rock,the activity known as mixture rock
+224,ミニアルバム,mini-arubamu,mini + album,extended play,a change of policy,a modern service related to mini album,the expression known as mini album
+225,ミルク,miruku,milk,"milk, non-dairy creamer",an alcoholic beverage,a specialized place related to milk,the product known as milk
+226,ミシン,mishin,machine,sewing machine,a personal preference,a portable person related to machine,the facility known as machine
+227,モバイル,mobairu,mobile,"mobile communications, mobile communications capability, or mobile communications devices, esp. PDAs and personal computers with wireless communications capabilities",a winter coat,a formal device related to mobile,the custom known as mobile
+228,モバメ,mobame,mobile + mail,"mobile phone-based mailing list subscription, usually used by entertainers to share their daily activities with fans",a software update,a household event related to mobile mail,the process known as mobile mail
+229,モボ,mobo,mo(dern) bo(y),(1920s slang) young men adopting western styles and behaviours,a social custom,a distinctive way of doing something,a manner of presentation
+230,モガ,moga,mo(dern) gi(rl),"(1920s slang) young women adopting western styles and behaviours, flapper",a wireless connection,a distinctive way of doing something,a manner of presentation
+231,モーニングコール,mōningu kōru,morning call,wake-up call,a legal dispute,a commercial expression related to morning call,the document known as morning call
+232,モーニングコート/モーニング,mōningu kōto/mōningu,morning coat,morning coat,a change of policy,a personal product related to morning coat,the performance known as morning coat
+233,モーニングサービス/モーニング,mōningu sābisu,morning service,"breakfast special, complimentary toast, hard-boiled egg et al. that is served at cafes when a cup of coffee is ordered (only seen in some parts of Japan)",an alcoholic beverage,help provided to a customer,a scheduled maintenance visit
+234,モラトリアム人間,moratoriamu ningen,"moratorium + 人間 (ningen, person)","a person who, having completed education and other preparations, delays the transition from student to productive member of society, staying in an uncertain limbo of continued education, part-time work, and parental support (similar to freeter)",a schoolteacher,a electronic custom related to moratorium,the building known as moratorium
+235,モーテル,mōteru,motel,recently called as 'love hotel'. Does not have meaning of English 'motel' used by tourists with their own vehicles.,a roadside hotel for motorists,a roadside hotel for motorists,a short-stay lodging
+236,ムーディ,mūdi,moody,nice,a public announcement,a decorative category related to moody,the practice known as moody
+237,ムーンサルト,mūnsaruto,"moon + Salto, moonsault",an artistic gymnastics maneuver. Also used to describe a professional wrestling maneuver.,a swimming race,a temporary tool related to moon salto moonsault,the service known as moon salto moonsault
+238,ミュージック,myūjikku,music,music,a comic-book character,a official document related to music,the place known as music
+239,ナイター,naitā,night + -er,a night game,a boxing match,a ordinary performance related to night -er,the person known as night -er
+240,ナンバーディスプレイ,nanbā disupurei,number display,caller ID,a change of policy,a premium vehicle related to number display,the device known as number display
+241,ネーム,nēmu,name,"manga storyboard, rough draft (historically so that type setters could get a head start on the speech bubbles before the art was finished)",a handbag,a local building related to name,the event known as name
+242,ナンバープレート,nanbā purēto,number plate,"number plate (UK), license plate (US)",a personal preference,a small item related to number plate,the material known as number plate
+243,ナイス,naisu,nice,nice,a business agreement,a traditional practice related to nice,the activity known as nice
+244,ニュース,nyūsu,news,news,a public announcement,a modern service related to news,the expression known as news
+245,ニート/NEET,nīto,"Not in Employment, Education or Training",underemployed young adults,a railway ticket,a specialized place related to not in employment education or training,the product known as not in employment education or training
+246,ノー,nō,no,no,a financial charge,a portable person related to no,the facility known as no
+247,ノークレームノーリターン,nō kurēmu nō ritān,"no claim, no return",sold 'as is',to improve a skill,a statement that something is true,a request for compensation
+248,ノンステップバス,non suteppu basu,non-step bus,low-floor bus,a motorcycle helmet,a household event related to non-step bus,the process known as non-step bus
+249,ノート,nōto,note,a notebook,a type of opportunity,a professional material related to note,the category known as note
+250,ノートパソコン,nōto-pasokon,note + perso(nal) + com(puter),laptop,a personal preference,a public activity related to note perso com,the tool known as note perso com
+251,ニューハーフ,nyūhāfu,new-half,A transgender individual that has undergone a sex change operation.,a sports jersey,a commercial expression related to new-half,the document known as new-half
+252,オーバー,ōbā,over,overreaction to a situation or the end of a dating relationship,to cancel an order,a personal product related to over,the performance known as over
+253,オーバーライド,ōbāraido,override,override,a social custom,a seasonal facility related to override,the vehicle known as override
+254,オブ,obu,of,of,a financial charge,a electronic custom related to of,the building known as of
+255,"OB, OG","ōbī, ōjī","old boy, old girl","alumnus, alumna, former student; furthermore used for former sport team members, employees, politicians etc., for former members of any kind of organisation likewise",a coffee-based dessert,a printed process related to old boy old girl,the item known as old boy old girl
+256,オーダーメード,ōdā-mēdo,order + made,bespoke (tailoring),a change of policy,a decorative category related to order made,the practice known as order made
+257,オーディエンス,ōdiensu,audience,group of people who participate in a show,a photographic portrait,a temporary tool related to audience,the service known as audience
+258,オーエル,ōeru,O.L. (office lady),"female office worker, usually in a clerical or support job",a female office worker,a official document related to o l,the place known as o l
+259,オフ,ofu,off,"a sale at a store; e.g., a 'big summer off' (=big summer sale)",a railway station,a ordinary performance related to off,the person known as off
+260,オフヴォーカル,ofu-vōkaru,off + vocal,"backing track, instrumental",a public announcement,a premium vehicle related to off vocal,the device known as off vocal
+261,オイルショック,oiru-shokku,oil + shock,oil crisis,a social custom,a local building related to oil shock,the event known as oil shock
+262,オージー,ōjī,orgy,an orgy,a financial charge,a small item related to orgy,the material known as orgy
+263,オンリーワン,onrīwan,only one,"(adjective) one-of-a-kind or unique; e.g., オンリーワン技術 (-gijutsu, 'unique technology') or オンリーワン商品 (-shōhin, 'one-of-a-kind products')",a legal dispute,a traditional practice related to only one,the activity known as only one
+264,オープンカー,ōpun kā,open car,convertible (automobile),a bus stop,a modern service related to open car,the expression known as open car
+265,オーライ,ōrai,a(ll) righ(t),"all right, OK",a type of opportunity,a specialized place related to righ,the product known as righ
+266,オレンジ,orenji,orange,orange,a personal preference,a portable person related to orange,the facility known as orange
+267,オートバイ,ōtobai,auto-bi(cycle),"motorcycle, motorbike",a highway toll gate,a bicycle,a bicycle ride
+268,パイプカット,paipukatto,pipe cut,vasectomy,a public announcement,a household event related to pipe cut,the process known as pipe cut
+269,パイン,pain,pine(apple),pineapple,a digital camera,a professional material related to pine,the category known as pine
+270,パーマ,pāma,perma(nent wave),perm,a financial charge,a public activity related to perma,the tool known as perma
+271,パネリスト,panerisuto,panelist,panelist,a legal dispute,a commercial expression related to panelist,the document known as panelist
+272,パンク,panku,punc(ture),flat tire,a change of policy,a personal product related to punc,the performance known as punc
+273,パンスト,pansuto,pan(ty) + sto(cking),pantyhose,a type of opportunity,a seasonal facility related to pan sto,the vehicle known as pan sto
+274,パソコン,pasokon,perso(nal) com(puter),PC,a personal preference,a electronic custom related to perso com,the building known as perso com
+275,パーソナルコンピューター,pāsonaru konpyūtā,personal computer,personal computer,a mobile phone setting,a printed process related to personal computer,the item known as personal computer
+276,パンツ,pantsu,pants,underpants (US; simply called 'pants' in the UK),a rain jacket,a decorative category related to pants,the practice known as pants
+277,ペアルック,pea rukku,pair look,matching outfits (usually between a couple),a swimming race,a temporary tool related to pair look,the service known as pair look
+278,ペンギン,pengin,'penguin',Penguin,a financial charge,a official document related to penguin,the place known as penguin
+279,ペニス,penisu,penis,the penis,a headache remedy,a ordinary performance related to penis,the person known as penis
+280,ペーパーカンパニー,pēpā kanpanī,paper company,"dummy company, shell company",a change of policy,a premium vehicle related to paper company,the device known as paper company
+281,ペーパードライバー,pēpā doraibā,paper driver,"a person who has a driver's license but does not usually drive (i.e., a driver only on paper)",a railway ticket,a person who operates a vehicle,a software device controller
+282,"ペパロニ, ペッペロニ","peparoni, pepperoni",pepperoni,Pepperoni,a personal preference,a small item related to pepperoni,the material known as pepperoni
+283,ペーパーテスト,pēpā tesuto,paper test,written examination/test,a business agreement,a traditional practice related to paper test,the activity known as paper test
+284,ピクニック,pikunikku,picnic,meal outside,a rice snack,a modern service related to picnic,the expression known as picnic
+285,ピンサロン,pin-saron,pink + salon,sex parlor,a fitness measurement,a specialized place related to pink salon,the product known as pink salon
+286,ピンチ,pinchi,pinch,potentially disastrous situation (from 'in a pinch'),a financial charge,a portable person related to pinch,the facility known as pinch
+287,ポエマー,poemā,poema (poem) + -er,a poet,a legal dispute,a formal device related to poema -er,the custom known as poema -er
+288,ポケベル,pokeberu,pocke(t) bell,"beeper, pager",a change of policy,a household event related to pocke bell,the process known as pocke bell
+289,ポケモン,pokemon,pocke(t) mon(ster),Pokémon,a type of opportunity,a professional material related to pocke mon,the category known as pocke mon
+290,パンチ,panchi,punch,punch,a blow made with a fist,a blow made with a fist,a fruit-based mixed drink
+291,ポスト,posuto,post,"a mailbox (US), a postbox (UK)",a business agreement,a commercial expression related to post,the document known as post
+292,ポテチ,pote-chi,potato + chips,potato chips,a grilled seafood dish,a personal product related to potato chips,the performance known as potato chips
+293,プラスアルファ,purasu arufa,plus alpha (a misreading of '+ X'),"in addition, a little bit more, with something else",a social custom,a seasonal facility related to plus alpha,the vehicle known as plus alpha
+294,プラスドライバー,purasu doraibā,plus driver,Phillips screwdriver,a highway toll gate,a person who operates a vehicle,a software device controller
+295,"プレー, プレイ","purē, purei",play,play,a legal dispute,a printed process related to play,the item known as play
+296,プレイ,purei,pray,pray,a change of policy,a decorative category related to pray,the practice known as pray
+297,プレイガイド,purei gaido,play + guide,(theater) ticket agency,a concert venue,a temporary tool related to play guide,the service known as play guide
+298,プリクラ,purikura,Print Club (trademark),Photo booth,a neighborhood shopping street,a official document related to print club,the place known as print club
+299,プロ,puro,professional,describes a business professional or professional sports,a railway ticket,a ordinary performance related to professional,the person known as professional
+300,プロレス,puroresu,pro(fessional) wrest(ling),professional wrestling,a baseball pitcher,a premium vehicle related to pro wrest,the device known as pro wrest
+301,プッシュホン,pusshu hon,push phone,push-button telephone. A genericized trademark first registered by the Nippon Telegraph and Telephone Public Corporation (Dendenkōsha|now NTT),a fitness measurement,a local building related to push phone,the event known as push phone
+302,ラブドール,rabu-dōru,love + doll,a sex doll made of silicone,a dental procedure,a small item related to love doll,the material known as love doll
+303,ラブホテル,rabu hoteru,love hotel,love hotel (hotel used as a private place for couples to have sex),a headache remedy,a traditional practice related to love hotel,the activity known as love hotel
+304,ライバル,raibaru,rival,A fellow competitor or an enemy,a change of policy,a modern service related to rival,the expression known as rival
+305,ライブアクション,raibu akushon,live-action,animated or comic form stories made into TV shows/movies involving real actors. It's the opposite of komikarizu,a photographic portrait,a specialized place related to live-action,the product known as live-action
+306,ライブハウス,raibu hausu,live house,"club with live music, rock bar",a television news program,a portable person related to live house,the facility known as live house
+307,ライフライン,raifurain,lifeline,infrastructure,a business agreement,a formal device related to lifeline,the custom known as lifeline
+308,ラムネ,ramune,lemona(de),"Ramune (a lemon-lime soft drink; hard, powdery candy like Rockets or Smarties)",a fermented rice drink,clever and quick to learn,fashionably well dressed
+309,ランジェリーパブ,ranjerī-pabu,lingerie + pub,a public house in which the waitresses work in their underwear,formal shoes,a professional material related to lingerie pub,the category known as lingerie pub
+310,ランニングホームラン,ranningu hōmu ran,running home run,an inside-the-park home run (baseball),a golf club,a place where someone lives,a domestic household
+311,ランニングシャツ,ranningu shatsu,running shirt,a sleeveless T-shirt,a knitted scarf,a commercial expression related to running shirt,the document known as running shirt
+312,レースクイーン,rēsu kuīn,race queen,umbrella girls,a change of policy,a personal product related to race queen,the performance known as race queen
+313,リベンジ,ribenji,revenge,"return match, rematch, chance for redemption after a failed attempt",a practice drill,a change in direction,an opportunity to act
+314,リーチ,rīchi,reach,One step away from winning. Usually used in mahjong.,the distance someone can touch,the distance someone can touch,an act of arriving at something
+315,リードオンリーメンバー,rīdo onrī menbā,read-only member,"an internet lurker, thought to be a pun on 'read-only memory'",a mobile phone setting,a printed process related to read-only member,the item known as read-only member
+316,リフォーム,rifōmu,reform,"remodel, renovation (as in a building)",a change intended to improve a system,a change intended to improve a system,a political movement
+317,リモコン,rimokon,remo(te) con(trol),remote control,a digital camera,a temporary tool related to remo con,the service known as remo con
+318,リンクフリー,rinku furī,link free,free to link,to make a reservation,a official document related to link free,the place known as link free
+319,リニューアル,rinyūaru,renewal,remodeling,the act of making something new again,the act of making something new again,an extension of a contract
+320,リサイクルショップ,risaikuru shoppu,recycle shop,"secondhand shop (selling used or unwanted furniture, household appliances, housewares, and clothes; slightly different from non-profit or charity thrift shops in that they are fundamentally for-profit shops and perceived as one way to help reduce trash)",a knitted scarf,a premium vehicle related to recycle shop,the device known as recycle shop
+321,リセマラ,rise-mara,reset marathon,uninstalling and reinstalling a game in order to re-roll certain starting items or statistics until a desirable result is achieved,a practice drill,a local building related to reset marathon,the event known as reset marathon
+322,リストラ,risutora,restru(cturing),"(noun) restructuring, but with emphasis on lowering headcounts as in downsizing, termination as a redundancy; (verb) to downsize, lay off or terminate as a redundancy. When used in the passive (〜される: -sareru), to get or have been made redundant, downsized (out of a job)",to postpone an appointment,a small item related to restru,the material known as restru
+323,ロードショー,rōdo shō,roadshow,"premiere, especially of a film",a traveling exhibition,a traveling exhibition,a touring presentation
+324,"ロケーションハンティング, ロケハン","rokēshon hantingu, rokehan",location hunting,location scout,a public announcement,a modern service related to location hunting,the expression known as location hunting
+325,ロマンスグレー,romansu gurē,romance grey,silver-gray hair,a social custom,a specialized place related to romance grey,the product known as romance grey
+326,ロマンスカー,romansu kā,Romancecar,deluxe train (named after a series of limited express operated by the Odakyu Electric Railway),a railway ticket,a portable person related to romancecar,the facility known as romancecar
+327,ロンパリ,ronpari,Lon(don) + Paris,"slang for strabismus (crosseyed, wandering eye), alluding to one eye looking toward London while the other looking toward Paris",to improve a skill,a formal device related to lon paris,the custom known as lon paris
+328,ロープウェー,rōpuwē,ropeway,ropeway,a change of policy,a household event related to ropeway,the process known as ropeway
+329,ロリコン,rorikon,Loli(ta) (title of a novel by Vladimir Nabokov) com(plex),"sexual attraction to fictional and real underage girls, or ephebophilia. (reborrowed into English to refer a genre of manga-style sexual artwork involving childlike female characters)",a sleep disorder,a distinctive way of doing something,a manner of presentation
+330,ロスタイム,rosu taimu,loss time,"added time, additional time",a personal preference,a public activity related to loss time,the tool known as loss time
+331,サービス,sābisu,service,"service, often used to describe something as being free of charge",to repair a machine,help provided to a customer,a scheduled maintenance visit
+332,サイドブレーキ,saido burēki,side brake,"hand brake, parking brake, emergency brake",a train conductor,a personal product related to side brake,the performance known as side brake
+333,サイダー,saidā,cider,a kind of soda unrelated to actual cider,an alcoholic apple drink,an alcoholic apple drink,fermented apple juice
+334,サイコ,saiko,psycho,psychopath,a financial charge,a electronic custom related to psycho,the building known as psycho
+335,サイン,sain,sign,"signature, autograph",a legal dispute,a printed process related to sign,the item known as sign
+336,サインペン,sainpen,sign pen,"marker, Trade name of Pentel's",a change of policy,a decorative category related to sign pen,the practice known as sign pen
+337,サンドイッチ/サンド,"sandoitchi, sando",sand(wich),sandwich,a grilled seafood dish,a temporary tool related to sand,the service known as sand
+338,サンドバッグ,sandobaggu,sandbag,punching bag,a personal preference,a blow made with a fist,a fruit-based mixed drink
+339,サラダ,sarada,salad,salad,a small pastry,a ordinary performance related to salad,the person known as salad
+340,サラリーマン,sararīman,salaried man,salaryman: a salaried office/white collar worker,a small apartment building,the color white,a pale-colored object
+341,サイエンス,saiensu,science,science,a social custom,a local building related to science,the event known as science
+342,セックス,sekkusu,sex,sexual intercourse,a dental procedure,a small item related to sex,the material known as sex
+343,セフレ,sefure,se(x) + frie(nd),casual sexual partner,a headache remedy,a traditional practice related to se frie,the activity known as se frie
+344,セクハラ,sekuhara,sex(ual) hara(ssment),sexual harassment,a body posture,a modern service related to sex hara,the expression known as sex hara
+345,セメダイン,"semedain, Cemedine",ceme(nt) dyne,"glue, adhesive. A genericized trademark of Cemedine Co., Ltd.",a type of opportunity,a specialized place related to ceme dyne,the product known as ceme dyne
+346,センス,sensu,sense,understanding of subtleties,a personal preference,a portable person related to sense,the facility known as sense
+347,セレブ,serebu,celeb(rity),"a rich person, whether or not they are famous",a company executive,a formal device related to celeb,the custom known as celeb
+348,シャープペンシル/シャーペン,shāpu penshiru/shāpen,Shar(p) pencil,"mechanical pencil (referring to Sharp, a manufacturer)",to cancel an order,a household event related to shar pencil,the process known as shar pencil
+349,シャッターチャンス,shattā-chansu,shutter + chance,the perfect opportunity to take a photograph,a music performance,a professional material related to shutter chance,the category known as shutter chance
+350,シーエム,shīemu,C.M. ('commercial message'),television commercial,a comic-book character,a public activity related to c m,the tool known as c m
+351,シール,shīru,seal,"sticker, decal",a legal dispute,a commercial expression related to seal,the document known as seal
+352,シルバーシート,shirubā shīto,silver seat,priority seating on public transportation. ('Silver' refers to the hair of elderly passengers.),a winning score,a personal product related to silver seat,the performance known as silver seat
+353,シュークリーム,shūkurīmu,chou (à la) crème,a cream puff,a noodle dish,a seasonal facility related to chou cr me,the vehicle known as chou cr me
+354,ソファー,sofā,sofa,a sofa,a personal preference,a electronic custom related to sofa,the building known as sofa
+355,ソフト,sofuto,soft(ware),"video game console or computer software; also used to describe tasks or work (such as design) requiring imagination, foresight, and intuition",not hard to the touch,not hard to the touch,gentle treatment
+356,ソフトクリーム,sofuto kurīmu,soft (ice) cream,soft serve (ice cream),a public announcement,not hard to the touch,gentle treatment
+357,ソーラーシステム,sōrā shisutemu,solar system,a solar battery,a swimming race,a temporary tool related to solar system,the service known as solar system
+358,スイートルーム,suīto rūmu,suite room,a suite in a hotel,a handbag,a official document related to suite room,the place known as suite room
+359,スケボー,sukebō,ska(te)bo(ard),skateboard,a legal dispute,a ordinary performance related to skabo,the person known as skabo
+360,スケルトン,sukeruton,skeleton,translucent,a change of policy,a premium vehicle related to skeleton,the device known as skeleton
+361,スキー,sukī,ski,(noun) skiing,a practice drill,a local building related to ski,the event known as ski
+362,スキンシップ,sukinshippu,skin + -ship,skinship (bonding through physical contact),a soccer penalty,a small item related to skin -ship,the material known as skin -ship
+363,スマート,sumāto,smart,"slim, stylish, well-dressed, cool, handsome",clever and quick to learn,clever and quick to learn,fashionably well dressed
+364,スマホ,sumaho,sma(rt) + (p)ho(ne),smartphone,a software update,clever and quick to learn,fashionably well dressed
+365,スムーズ,sumūzu,smooth (transaction),When a plan or transaction happens without incident,a digital camera,a specialized place related to smooth,the product known as smooth
+366,スーパー,sūpā,super(market),supermarket,a financial charge,a portable person related to super,the facility known as super
+367,"スパッツ, スパッツタイツ","supattsu, supattsu taitsu","spats, spats tights","tights (US), leggings",a handbag,a formal device related to spats spats tights,the custom known as spats spats tights
+368,スペイン,Supein,Spain,Spain,a change of policy,a household event related to spain,the process known as spain
+369,スペル,superu,spell,(noun) spelling,a type of opportunity,a professional material related to spell,the category known as spell
+370,スピン,supin,spin,a ribbon or tassel on a book,a personal preference,a public activity related to spin,the tool known as spin
+371,スリーサイズ,surī saizu,three size,"three primary female body measurements (bust, waist, hips)",a railway ticket,a commercial expression related to three size,the document known as three size
+372,スター,sutā,star,"star, Starr",a public announcement,a personal product related to star,the performance known as star
+373,スタイル,sutairu,style,body shape; style,a distinctive way of doing something,a distinctive way of doing something,a manner of presentation
+374,スタジオ,sutajio,studio,studio,a social custom,a seasonal facility related to studio,the vehicle known as studio
+375,ステップ,suteppu,step,"step, steppe",a financial charge,a electronic custom related to step,the building known as step
+376,ストライキ/スト,sutoraiki/suto,strike or st(rike),labor strike,a legal dispute,a printed process related to strike or st,the item known as strike or st
+377,ストレートティー,sutorēto tī,straight tea,black tea without milk or lemon,a milk-based beverage,a decorative category related to straight tea,the practice known as straight tea
+378,ストーブ,sutōbu,stove,space heater,a type of opportunity,a temporary tool related to stove,the service known as stove
+379,スーツアクター,sūtsu akutā,suits actor,"suit actor, an actor who performs wearing a cartoon-character costume",a rental bicycle,a official document related to suits actor,the place known as suits actor
+380,タイムオーバー,taimu ōbā,time over,when a time limit has been reached,a business agreement,the distance someone can touch,an act of arriving at something
+381,タイムリー,taimurī,timely (hit),"a clutch hit (in baseball), on time",a baseball pitcher,a premium vehicle related to timely,the device known as timely
+382,タンク,tanku,tank,tank,a social custom,a local building related to tank,the event known as tank
+383,タオルケット,taoru ketto,towelket (towel + (blan)ket),a type of blanket made of a material similar to a beach or bath towel,a golf club,a small item related to towelket ket,the material known as towelket ket
+384,テーブル,tēburu,table,table,a piece of furniture with a flat top,a piece of furniture with a flat top,a chart of organized information
+385,テレビ,terebi,television,device used for watching,a stage performance,a modern service related to television,the expression known as television
+386,テンキー,tenkī,ten key,numeric keypad,a programming command,a specialized place related to ten key,the product known as ten key
+387,テンション,tenshon,tension,a state of excitement,a state of strain,a state of strain,a pulling force
+388,テレビ,terebi,televi(sion),television,a movie trailer,a formal device related to televi,the custom known as televi
+389,テレビゲーム,terebi gēmu,televi(sion) game,video game,a baseball pitcher,a household event related to televi game,the process known as televi game
+390,テレフォン,terefon,telephone,"telephone, phone",a digital camera,a professional material related to telephone,the category known as telephone
+391,テレカ,tereka,tele(phone) ca(rd),prepaid card for using public telephones,a bus stop,a public activity related to tele ca,the tool known as tele ca
+392,ティーンエージャー,tīn'ējā,teenager,"teenager, teen",a legal dispute,a commercial expression related to teenager,the document known as teenager
+393,トイレ,toire,toilet,"toilet, bathroom, washroom, restroom",a winning score,a personal product related to toilet,the performance known as toilet
+394,タン,tan,tongue,tongue,a type of opportunity,a seasonal facility related to tongue,the vehicle known as tongue
+395,トマト,tomato,tomato,tomato,to postpone an appointment,the building known as tomato,an example of tomato in everyday use
+396,トンカツ,tonkatsu,"ton (豚, pork) + katsu (from the English 'cutlet')",pork cutlet,a business agreement,a printed process related to ton katsu,the item known as ton katsu
+397,トップページ,toppu-pēji,top + page,"home page, start page",a public announcement,a place where someone lives,a domestic household
+398,"トラブル (noun), トラブる (verb)",toraburu,trouble,"(noun) (legal) trouble, a dispute or altercation; (verb) to encounter or experience trouble, to break down or not function as expected (e.g., a device)",to exchange an item,difficulty or problems,a disturbance or dispute
+399,トラックメーカー,torakkumēkā,track maker,music producer,a comic-book character,a official document related to track maker,the place known as track maker
+400,トランプ,toranpu,trump(s),playing cards,a bus stop,a ordinary performance related to trump,the person known as trump
+401,トレーナー,torēnā,trainer,sweatshirt,a person who teaches a skill,a person who teaches a skill,a training shoe
+402,トレーニングパンツ,torēningu pantsu,training pants,pants for toddlers or babies; diaper,a motorcycle helmet,a local building related to training pants,the event known as training pants
+403,ツイッター,tsuittā,Twitter,Twitter app,a computer password,a small item related to twitter,the material known as twitter
+404,ウィンカー/ウインカー,winkā/uinkā,winker,"turn signal, a.k.a. blinker or indicator on an automobile",a person who winks,a change in direction,an opportunity to act
+405,ウイルス,uirusu,virus,virus,a practice drill,a digital camera,a specialized place related to virus
+406,ウーパールーパー,ūpārūpā,wooper looper,Wasei-eigo for axolotl,a public announcement,a modern service related to wooper looper,the expression known as wooper looper
+407,ヴァージンロード,vājin rōdo,virgin road,"the aisle (in a Western-style or Christian wedding ceremony, as followed by the bridal procession)",a rental bicycle,a distinctive way of doing something,a manner of presentation
+408,ワイドショー,waido shō,wide show,talk show,a comic-book character,a portable person related to wide show,the facility known as wide show
+409,ワイシャツ/Yシャツ,wai shatsu,Y (< 'white') shirt,dress shirt (of any color),a winter coat,a formal device related to y shirt,the custom known as y shirt
+410,ワンパターン,wan patān,one pattern,"of (artificial or boring) uniformity or conformity, lacking of (spontaneous) variation. Used to describe behavior and responses as well as objects. Being 'in a rut'",formal shoes,a household event related to one pattern,the process known as one pattern
+411,ワンピース,wan pīsu,one piece,(a single-piece) dress,a school uniform,a professional material related to one piece,the category known as one piece
+412,ワープロ,wāpuro,wor(d) pro(cessor),word processor,a personal preference,a public activity related to wor pro,the tool known as wor pro
+413,ウォシュレット,woshuretto,washlet (wash+(toi)let),a toilet with a built-in bidet (a genericized trademark of Toto),a business agreement,a commercial expression related to washlet let,the document known as washlet let
+414,ヨット,yotto,yacht,a sailboat or yacht,a privately owned boat,a privately owned boat,a pleasure vessel
+415,ヤンエグ,yan egu,youn(g) ex(ecutive),young executive,a government official,a seasonal facility related to youn ex,the vehicle known as youn ex
+416,ユニットバス,yunitto basu,unit bath,"modular bath, prefabricated bath",a golf club,a electronic custom related to unit bath,the building known as unit bath
+417,Uターンラッシュ,yūtān rasshu,U-turn rush,"the rush of traffic and people, and attendant traffic jams and crowding of transportation facilities, that occurs as everyone returns home after extended holidays, esp. New Year's, Golden Week, and the summer o-bon week.",a traffic signal,a place where someone lives,a domestic household

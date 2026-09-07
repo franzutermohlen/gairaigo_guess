@@ -1,0 +1,22 @@
+{
+    "$schema": "./node_modules/wrangler/config-schema.json",
+
+    "name": "gairaigo-guess",
+
+    "main": "index.js",
+
+    "compatibility_date": "2026-09-07",
+
+    "assets": {
+        "directory": "./public",
+        "binding": "ASSETS"
+    },
+
+    "d1_databases": [
+        {
+            "binding": "DB",
+            "database_name": "gairaigo-guess-db",
+            "database_id": "57a94fb7-4ba7-4c45-b288-025662ca1d55"
+        }
+    ]
+}

@@ -1,403 +1,402 @@
 id,japanese,romaji,origin,correct,fake1,fake2,fake3
-1,アフレコ,afureko,af(ter) + recor(ding),"postrecording, dubbing",,,
-2,アフターサービス,afutā sābisu,after service,"customer service, user support, after-care, service",,,
-3,アイドル,aidoru,idol,"(teen) idol, pop star",,,
-4,アイスクリーム,aisukurīmu,ice cream,ice cream,,,
-5,アイスキャンディー,aisukyandī,ice + candy,"popsicle, ice lolly",,,
-6,アーカイブ,ākaibu,archive,archive,,,
-7,アメフト,amefuto,Ame(rican) foot(ball),American football,,,
-8,アメリカンドッグ,amerikan doggu,American dog,corn dog,,,
-9,アニメ,anime,"anima(tion), anime",animation,,,
-10,アニソン,anison,ani(me) + son(g),anime song,,,
-11,アンジェル,anjeru,angel,angel,,,
-12,アンサー,ansā,answer,"reply to a question, solution to a problem",,,
-13,アンチ,anchi,anti-,"hater, anti-fan",,,
-14,アパート,apāto,"apart(ment). Note: apāto are usually in small two-story wood-structure buildings, not multistory complexes as in the US usage.","apartment (US), flat (UK)",,,
-15,アポ,apo,appo(intment),appointment,,,
-16,アップル,appuru,apple,apple,,,
-17,アプリ,apuri,app(lication),"software application, app (for smartphones and tablets)",,,
-18,アールブイ,ārubui,RV,"truck, van, SUV, recreational vehicle",,,
-19,アルコール,arukōru,"alcohol, álcool","alcohol, alcoholic beverage",,,
-20,アウトコース,autokōsu,out-course,outside,,,
-21,バッド,baddo,bad,bad,,,
-22,バーゲン,bāgen,bargain,a sale at a store,,,
-23,バイキング,baikingu,"viking (supposedly named after the restaurant 'Imperial Viking' in the Imperial Hotel, the first restaurant in Japan to serve buffet-style meals and named after the US film The Vikings)",buffet,,,
-24,バイク,baiku,bike,"a motorcycle, but not a bicycle",,,
-25,ブルー,burū,blue,blue,,,
-26,ブックカバー,bukku kabā,book cover,dust jacket,,,
-27,バックミラー,bakku mirā,back mirror,rear-view mirror,,,
-28,バックナンバー,bakkunanbā,back number,"back issue (US), back number (UK)",,,
-29,バックネット,bakkunetto,back net,a backstop (in baseball),,,
-30,バンパー,banpā,bumper,a horizontal bar fixed across the front or back of a motor vehicle to reduce damage in a collision or as a trim,,,
-31,バリアフリー,bariafurī,barrier-free,accessible facilities for handicapped persons,,,
-32,バスジャック,basujakku,bus (hi)jack,a bus hijacking (possibly based on the English term 'carjack'),,,
-33,バター,batā,butter,butter,,,
-34,バッティング,battingu,batting or butting,swing the bat in baseball,,,
-35,ベビーカー,bebīkā,baby car,"stroller (US), pushchair or pram (UK)",,,
-36,ベッドタウン,beddotaun,bed town,"bedroom suburbs, bedroom community, dormitory suburb, commuter town",,,
-37,ベジタリアン,bejitarian,vegetarian,vegetarian,,,
-38,ビジネスホテル,bijinesu hoteru,business hotel,budget hotel,,,
-39,ビル,biru,buil(ding),building (especially modern steel-and-concrete buildings),,,
-40,ボールペン,bōrupen,ball(point) pen,a ballpoint pen,,,
-41,ブレザー,burezā,blazer,blazer,,,
-42,ブルマ,buruma,bloomers,(girls') gym shorts,,,
-43,キャビンアテンダント,kyabin'atendanto,cabin attendant,A flight attendant,,,
-44,チャージ,chāji,charge,"to top up, to add value, used for e-payment",,,
-45,チャレンジ,charenji,challenge,"duel, contest, competition",,,
-46,チェンジレバー,chenjirebā,change + lever,"gearshift, gear lever, gear stick",,,
-47,チェリーボーイ,cherībōi,cherry boy,a male virgin,,,
-48,"チアガール, チアマン, チアリーダー","chia gāru, chia man, chia rīdā","cheer girl, cheer man, cheerleader","(female), (male) cheerleader",,,
-49,コラボ,korabo,collab(orations),collaboration; crossover,,,
-50,コンピューター/コンピュータ,konpyūtā/konpyūta,computer,computer,,,
-51,ダブル,daburu,double,double,devil,a pair of sandals,a change in direction
-52,ダンス,dansu,dance,dance,,,
-53,ダンプカー,danpu kā,dump car,dump truck,,,
-54,ダストボックス,dasuto bokkusu,dust box,"rubbish bin (UK), garbage can (US)",,,
-55,ダストシュート,dasuto shūto,dust chute,garbage chute,,,
-56,ダッチワイフ,datchiwaifu,Dutch + wife,sex doll,,,
-57,ダウンロードオンリーメンバー,daunrōdoonrīmenbā,download-only member,a computing leech,,,
-58,デッドボール,deddo bōru,dead ball,hit by a pitch,,,
-59,デフォルト,deforuto,default,ordinary option,,,
-60,デコレーションケーキ,dekorēshon kēki,decoration cake,a fancy cake,,,
-61,デパート,depāto,depart(ment store),department store,,,
-62,デリバリーヘルス,deribarīherusu,delivery health,"a form of prostitution, essentially a call girl or escort service",,,
-63,デスク,desuku,desk (also means a copy editor),desk,,,
-64,ドアカット,doakatto,door + cut,selective door operation,,,
-65,ドクター ストップ,dokutāsutoppu,doctor stop,"a doctor's order / advice / recommendation to a patient to cease doing something (e.g., smoking or drinking alcohol)",,,
-66,ドンマイ,donmai,don('t) mi(nd),"'don't worry about it', 'don't pay (that) any mind', 'it's/I'm OK', 'no problem'. Used when something goes wrong.",,,
-67,ドライバー,doraibā,driver,a screwdriver; motor vehicle driver,,,
-68,ドライブイン,doraibuin,drive in,"rest area, motor lodge, drive-in",,,
-69,ドラマ,dorama,drama,"TV drama, soap opera",,,
-70,ドリフト,dorifuto,drift,drifting (when a car is in a controlled skid),,,
-71,エアコン,eakon,air con(ditioning) / con(ditioner),air conditioning or air conditioner (may refer to both heating and cooling functions),,,
-72,エンスト,ensuto,en(gine) sto(p),stall (as in an automobile engine),,,
-73,NG,NG (enujī),n(ot) + g(ood),not good,energy,,
-74,エネルギー,enerugī,energy,energy,inner gear,,
-75,エレベーター,erebētā,elevator,"elevator (US), lift (UK)",,,
-76,エロ,ero,ero(s),erotic,,,
-77,エール,ēru,yell (of encouragement),"a cheer, shout of encouragement, or support for someone",,,
-78,エスケープ,esukēpu,escape,run away,,,
-79,ファイナル,fainaru,final,last,,,
-80,ファイト,faito,fight,often used to mean 'Do your best!' or 'I'll do my best.',,,
-81,ファンタジック,fantajikku,fantasy + -ic,fantastic,,,
-82,ファッションヘルス,fasshon herusu,fashion health,a form of brothel,,,
-83,フェッチ,fetchi,fetch,(computer jargon) To fetch an instruction from main memory when a microprocessor executes a command,,,
-84,フィリピンパブ,firipinpabu,Philippines + pub,a bar with Filipino staff,,,
-85,フォアボール,foabōru,four ball,base on balls (baseball term),,,
-86,フライ,furai,fly,fly ball (baseball term),,,
-87,フライ,furai,fry,deep frying,,,
-88,フライパン,furaipan,fry + pan,frying pan,,,
-89,フライドポテト,furaido poteto,fried potato,"french fries (US), chips (UK)",,,
-90,フライング(スタート),furaingu (sutāto),flying (start),"premature start, breakaway",,,
-91,フライングゲット,furaingu getto,flying get,to purchase an item before its official release date,,,
-92,フラクタル,furakutaru,fractal,fractal,,,
-93,フリーダイアル/フリーダイヤル/フリーコール,furī daiaru/furī daiyaru/furī kōru,free dial/free call,toll-free call,,,
-94,フリーサイズ,furī saizu,free size,one-size-fits-all,,,
-95,フロント,furonto,front (desk),"front desk (e.g., hotel)",,,
-96,フロントガラス,furonto garasu,front glass,"windshield (US), windscreen (UK)",,,
-97,フルベース,furu bēsu,full base,bases loaded,,,
-98,ガードマン,gādo man,guard man,"a (private) security guard, a person who directs traffic around work sites",,,
-99,ガラス,garasu,glass,glass (material),,,
-100,ガソリンスタンド,gasorin sutando,gasoline stand,"gas station (US), petrol station (UK)",,,
-101,ガタパーチャ,gata pācha,getah perca or gutta percha,a hard tough thermoplastic substance which is the coagulated latex of certain Malaysian trees,,,
-102,ガッツポーズ,gattsu pōzu,guts pose,"fist pump, victory pose, named for boxer Guts Ishimatsu",,,
-103,ゲームクリエーター,gēmukuriētā,game creator,game developer,,,
-104,ゲーセン,gēsen,ga(me) cen(ter),arcade (place),,,
-105,ゲームセット,gēmu setto,"Game, set(, match)","announcement for the conclusion of a competition. Used in sports, as well as some video games (such as Super Smash Bros.)",,,
-106,ギブ(アップ),gibu(appu),give (up),to give up,,,
-107,ゴールデンアワー/ゴールデンタイム,gōruden awā/gōruden taimu,golden hour/golden time,prime time in Japanese television,,,
-108,ゴールデンウィーク/ゴールデンウイーク,gōruden wīku/gōruden uīku,golden week,"A week of holidays in Japan, Golden Week.",,,
-109,ググる,guguru,Goog(le) + -ru (Japanese verb ending),"to google (i.e., to search online using a search engine)",,,
-110,グラビア,gurabia,gravure,glamour photography,,,
-111,グラス,gurasu,glass,drinking glass,,,
-112,グロ,guro,gro(tesque),grotesque,,,
-113,ギャラリー,gyararī,gallery,"an art gallery, audience, or a pool of celebrities on a program.",,,
-114,ギャル,gyaru,gal,a young woman who belongs to the gyaru subculture,,,
-115,ハイネック,hainekku,high neck,A turtleneck style shirt or sweater,,,
-116,ハイオク,haioku,high octane,high-octane gasoline,,,
-117,ハイタッチ,haitatchi,high touch,high five,,,
-118,ハッカー,hakkā,hacker,computer hacker,,,
-119,ハモる,hamoru,harmo(ny) + -ru (Japanese verb ending),to harmonize (when singing),,,
-120,ハンバーグ,hanbāgu,hamburg(er steak),Salisbury steak (culinary term),,,
-121,ハンドル,handoru,handle,steering wheel or bicycle handlebars,,,
-122,ハンドルキーパー,handoru kīpā,handle keeper,designated driver,,,
-123,ハンドルネーム,handoru nēmu,handle name,"handle, screen name",,,
-124,ハンカチ,hankachi,han(d)kerchie(f),handkerchief,,,
-125,ハンスト,hansuto,hun(ger) st(rike),hunger strike,,,
-126,ハッピーエンド,happī endo,happy end,a happy ending,,,
-127,ハウス (ビニールハウス),hausu (binīru hausu),house (vinyl house),greenhouse or glasshouse,,,
-128,ハザードランプ,hazādo ranpu,hazard lamp,hazard flashers or hazard lights,,,
-129,ヘアピンカーブ,heapin kābu,hairpin curve,hairpin turn,,,
-130,ヘルスメーター,herusu mētā,health meter,"bathroom scales, scales",,,
-131,ヒップ,hippu,Hips,"buttocks, butt",,,
-132,ヒップホップ,hippuhoppu,hiphop,hiphop,,,
-133,ヒーリング,hīringu,healing,healing (psychological process),,,
-134,ホッチキス,hotchikisu,Hotchkiss,"stapler (a genericized trademark of the E. H. Hotchkiss company, also used in Korea)",,,
-135,ホテヘルス,hoteherusu,hote(l) + health,erotic massage provided in a hotel room,,,
-136,ホテトル,hotetoru,hote(l) + Tur(kish bath),sexual services provided in a hotel room,,,
-137,ホットケーキ,hotto kēki,hotcake,"a pancake, hotcake",,,
-138,ホーム,hōmu,(plat)form,a railway platform,,,
-139,ホワイト,howaito,white,white,,,
-140,ブラック,burakku,black,broccoli,bracket,break,brake
-141,ホワイトデー,howaito dē,White + Day,"White Day, a month after Valentine's Day",,,
-142,イメージ,imēji,image,mental image,,,
-143,イメージクラブ,imējikurabu,image + club,"a type of brothel in which the staff dress in costumes (schoolgirl, nurse, etc.)",,,
-144,インスタ,insuta,Insta(gram),Instagram,,,
-145,インフレ,infure,infla(tion),inflation,,,
-146,イン・キー,in kī,in key,locking one's car keys inside of one's car,,,
-147,イラスト,irasuto,illust(ration),an illustration,,,
-148,インターネット,intānetto,internet,internet,,,
-150,ジャンパー,janpā,jumper,"jacket, jumper (ski jumping athlete)",,,
-151,ジャンプ,janpu,jump,jump,,,
-152,ジェンダーフリー,jendāfurī,gender free,"gender equality, gender blind",,,
-153,ジェットコースター,jettokōsutā,jet coaster,roller coaster,,,
-154,ジングルベル,jinguruberu,jingle + bell,Jingle Bells,,,
-155,ジレンマ,jirenma,dilemma,dilemma,,,
-156,ジーパン,jīpan,jea(ns) + pan(ts),jeans,,,
-157,ジープ,jīpu,jeep,"a small, sturdy motor vehicle with four-wheel drive, especially one used by the military",,,
-158,ジュース,jūsu,juice,"(1) juice; (2) soda or energy drinks, regardless of whether they contain any juice",,,
-159,カメラマン,kameraman,cameraman,photographer or cameraman,,,
-160,カモン,kamon,come on,invitation to join an activity or event,,,
-161,カンニング,kanningu,cunning,cheating,,,
-162,カラオケ,karaoke,"空 (kara, empty) + orche(stra)",karaoke,,,
-163,カシュー,kashū,cashew,cashew,,,
-164,ナッツ,nattsu,nuts,nuts,gnats,deez,bofa
-165,ピーナッツ,pīnatsu,peanut,peanut,,,
-166,キーホルダー,kī horudā,key holder,key ring or key chain,,,
-167,キスマーク,kisu māku,kiss mark,hickey,,,
-168,キッチンペーパー,kitchin pēpā,kitchen paper,paper towel,,,
-169,コード,kōdo,chord,chord,,,
-170,コインランドリー,koinrandorī,coin laundry,"laundromat (US), launderette (UK)",,,
-171,コインロッカー,koinrokkā,coin locker,coin-operated locker,,,
-172,コインロッカーベイビー,koin rokkābeibī,coin locker baby,"Coin-operated-locker babies, babies abandoned in a coin locker",,,
-173,コミカライズ,komikaraizu,comic[al] + -ize,"to make a comic strip (manga) version of an originally non-comic strip title, such as a novel, movie, or TV show.",,,
-174,コンビニ,konbini,conveni(ence store),convenience store,,,
-175,コンセント,konsento,concent(ric plug),electrical outlet,,,
-176,コロッケ,korokke,croquette,"croquette, a small fried roll",,,
-177,コスプレ,kosupure,cos(tume) play,"cosplay (dressing up in costumes, especially from manga, anime and video games)",,,
-178,クラブ,kurabu,club,a club or society,,,
-179,クラクション,kurakushon,Klaxon,horn (on an automobile),,,
-180,クラス,kurasu,class,class,,,
-181,クレーム,kurēmu,claim,a complaint,,,
-182,クレーンゲーム,kurēngēmu,crane + game,"claw crane (an alternate term used in Japan is 'UFO catcher', derived from the Sega game of the same name)",,,
-183,クリスタル,kurisutaru,crystal,shiny or clear,,,
-184,キャバクラ,kyabakura,cabaret club,hostess club,,,
-185,キャベツ,kyabetsu,cabbage,cabbage,,,
-186,キャンペーン,kyanpēn,campaign,a sales campaign or sweepstakes,,,
-187,キャンピングカー,kyanpingukā,camping-car,a recreational vehicle. (A pseudo-anglicism used in France),,,
-188,キャッチボール,kyatchibōru,catch ball,"the game of catch or a fast-paced conversation, especially in English",,,
-189,キャッチホン,kyatchihon,catch phone,call waiting,,,
-190,キャッチコピー,kyatchikopī,catch copy,tagline,,,
-191,ランド,rando,land,area of ground,,,
-192,マグカップ,magu kappu,mug cup,mug,,,
-193,マイナスドライバー,mainasudoraibā,minus driver,(flathead) screwdriver,,,
-194,マジックインキ,majikkuinki,Magic Ink,permanent marker (a genericized trademark of Uchida Yoko Co.),,,
-195,マジックテープ,majikkutēpu,magic tape,velcro,,,
-196,マニア,mania,mania,"enthusiasm, enthusiast",,,
-197,マンション,manshon,mansion,modern concrete apartment / condominium block,,,
-198,ナイフ,naifu,knife,knife,,,
-199,ランプ,ranpu,lamp,lamp,,,
-200,マスコミ,masukomi,mass communication,"mass media, the media, the press",,,
-201,マザコン,mazakon,mother com(plex),"Oedipus complex, a strong attachment to one's mother (often used derogatorily); 'girly man'",,,
-202,メーカー,mēkā,maker,manufacturer,,,
-203,メモリ,memori,memory,memory,,,
-204,メンヘラ,menhera,men(tal) heal(th),a person (typically a woman) with a mental health disorder,,,
-205,メリークリスマス,merīkurisumasu,Merry Christmas,Merry Christmas,,,
-206,メール,mēru,mail,e-mail,,,
-207,メールマガジン,mērumagajin,mail magazine,"e-mail newsletter, ezine",,,
-208,メタボ,metabo,metabo(lic),big-bellied,,,
-209,ミクスチャーロック,mikusuchārokku,mixture + rock,"rock music with rap, hip-hop, and reggae influences; also, as a catch-all term to describe such genres as rap rock, nu metal",,,
-210,ミニアルバム,miniarubamu,mini + album,extended play,,,
-211,ミルク,miruku,milk,"milk, non-dairy creamer",,,
-212,ミシン,mishin,machine,sewing machine,,,
-213,モバイル,mobairu,mobile,"mobile communications, mobile communications capability, or mobile communications devices, esp. PDAs and personal computers with wireless communications capabilities",,,
-214,モバメ,mobame,mobile + mail,"mobile phone-based mailing list subscription, usually used by entertainers to share their daily activities with fans",,,
-215,モボ,mobo,mo(dern) bo(y),(1920s slang) young men adopting western styles and behaviours,,,
-216,モガ,moga,mo(dern) gi(rl),"(1920s slang) young women adopting western styles and behaviours, flapper",,,
-217,モーニングコール,mōningu kōru,morning call,wake-up call,,,
-218,モーニングコート/モーニング,mōningu kōto/mōningu,morning coat,morning coat,,,
-219,モーニングサービス/モーニング,mōningu sābisu,morning service,"breakfast special, complimentary toast, hard-boiled egg et al. that is served at cafes when a cup of coffee is ordered (only seen in some parts of Japan)",,,
-220,モーテル,mōteru,motel,recently called as 'love hotel'. Does not have meaning of English 'motel' used by tourists with their own vehicles.,,,
-221,ムーディ,mūdi,moody,nice,,,
-222,ムーンサルト,mūnsaruto,"moon + Salto, moonsault",an artistic gymnastics maneuver. Also used to describe a professional wrestling maneuver.,,,
-223,ミュージック,myūjikku,music,music,,,
-224,ナイター,naitā,night + -er,a night game,,,
-225,ナンバーディスプレイ,nanbā disupurei,number display,caller ID,,,
-226,ネーム,nēmu,name,"manga storyboard, rough draft (historically so that type setters could get a head start on the speech bubbles before the art was finished)",,,
-227,ナンバープレート,nanbā purēto,number plate,"number plate (UK), license plate (US)",,,
-228,ナイス,naisu,nice,nice,,,
-229,ニュース,nyūsu,news,news,,,
-230,ニート/NEET,nīto,"Not in Employment, Education or Training",underemployed young adults,,,
-231,ノー,nō,no,no,,,
-232,ノークレームノーリターン,nō kurēmu nō ritān,"no claim, no return",sold 'as is',,,
-233,ノンステップバス,non suteppu basu,non-step bus,low-floor bus,,,
-234,ノート,nōto,note,a notebook,,,
-235,ノートパソコン,nōtopasokon,note + perso(nal) + com(puter),laptop,,,
-236,ハーフ,hāfu,half,biracial person (esp. half-Japanese),,,
-237,フォーク,fōku,fork,fork,folk,focus,flashlight
-238,ニューハーフ,nyūhāfu,new-half,A transgender individual that has undergone a sex change operation,,,
-239,オーバー,ōbā,over,overreaction to a situation or the end of a dating relationship,,,
-240,オーバーライド,ōbāraido,override,override,,,
-241,オブ,obu,of,of,,,
-242,"OB, OG","ōbī, ōjī","old boy, old girl","alumnus, alumna, former student; furthermore used for former sport team members, employees, politicians etc., for former members of any kind of organisation likewise",,,
-243,オーダーメード,ōdāmēdo,order + made,bespoke (tailoring),,,
-244,オーディエンス,ōdiensu,audience,group of people who participate in a show,,,
-245,オーエル,ōeru,O.L. (office lady),"female office worker, usually in a clerical or support job",,,
-246,オフ,ofu,off,"a sale at a store; e.g., a 'big summer off' (=big summer sale)",,,
-247,オフヴォーカル,ofuvōkaru,off + vocal,"backing track, instrumental",,,
-248,オイルショック,oirushokku,oil + shock,oil crisis,,,
-249,オージー,ōjī,orgy,an orgy,,,
-250,オンリーワン,onrīwan,only one,"(adjective) one-of-a-kind or unique; e.g., オンリーワン技術 (-gijutsu, 'unique technology') or オンリーワン商品 (-shōhin, 'one-of-a-kind products')",,,
-251,オープンカー,ōpun kā,open car,convertible (automobile),,,
-252,オーライ,ōrai,a(ll) righ(t),"all right, OK",,,
-253,オレンジ,orenji,orange,orange,,,
-254,オートバイ,ōtobai,auto-bi(cycle),"motorcycle, motorbike",,,
-255,パイプカット,paipukatto,pipe cut,vasectomy,,,
-256,パイン,pain,pine(apple),pineapple,,,
-257,パーマ,pāma,perma(nent wave),perm (hairstyle),,,
-258,パネリスト,panerisuto,panelist,panelist,,,
-259,パンク,panku,punc(ture),flat tire,,,
-260,パンスト,pansuto,pan(ty) + sto(cking),pantyhose,,,
-261,パソコン,pasokon,perso(nal) com(puter),personal computer,,,
-262,パーソナルコンピューター,pāsonaru konpyūtā,perso(nal) com(puter),personal computer,,,
-263,パンツ,pantsu,pants,underpants (US; simply called 'pants' in the UK),,,
-264,ペアルック,pea rukku,pair look,matching outfits (usually between a couple),,,
-265,ペンギン,pengin,'penguin',Penguin,,,
-266,ペニス,penisu,penis,the penis,,,
-267,ペーパーカンパニー,pēpā kanpanī,paper company,"dummy company, shell company",,,
-268,ペーパードライバー,pēpā doraibā,paper driver,"a person who has a driver's license but does not usually drive (i.e., a driver only on paper)",,,
-269,"ペパロニ, ペッペロニ","peparoni, pepperoni",pepperoni,Pepperoni,,,
-270,ペーパーテスト,pēpā tesuto,paper test,written examination/test,,,
-271,ピクニック,pikunikku,picnic,meal outside,,,
-272,ピンサロン,pinsaron,pink + salon,sex parlor,,,
-273,ピンチ,pinchi,pinch,potentially disastrous situation (from 'in a pinch'),,,
-274,ポエマー,poemā,poema (poem) + -er,a poet,,,
-275,ポケベル,pokeberu,pocke(t) bell,"beeper, pager",,,
-276,ポケモン,pokemon,pocke(t) mon(ster),Pokémon,,,
-277,パンチ,panchi,punch,punch,,,
-278,ポスト,posuto,post,"a mailbox (US), a postbox (UK)",,,
-279,ポテチ,potechi,potato + chips,potato chips,,,
-280,プラスアルファ,purasu arufa,plus alpha (a misreading of '+ X'),"in addition, a little bit more, with something else",,,
-281,プラスドライバー,purasu doraibā,plus driver,Phillips screwdriver,,,
-282,プレイ,purei,play; also means pray,"play (e.g., a video game)",,,
-283,プレイ,purei,pray,pray,,,
-284,プレイガイド,purei gaido,play + guide,(theater) ticket agency,,,
-285,プリクラ,purikura,Print Club (trademark),Photo booth,,,
-286,プロ,puro,professional,describes a business professional or professional sports,,,
-287,プロレス,puroresu,pro(fessional) wrest(ling),professional wrestling,,,
-288,プッシュホン,pusshu hon,push phone,push-button telephone. A genericized trademark first registered by the Nippon Telegraph and Telephone Public Corporation (Dendenkōsha|now NTT),,,
-289,ラブドール,rabudōru,love + doll,a sex doll made of silicone,,,
-290,ラブホテル,rabu hoteru,love hotel,love hotel (hotel used as a private place for couples to have sex),,,
-291,ライバル,raibaru,rival,A fellow competitor or an enemy,,,
-292,ライブアクション,raibu akushon,live-action,animated or comic form stories made into TV shows/movies involving real actors. It's the opposite of komikarizu,,,
-293,ライブハウス,raibu hausu,live house,"club with live music, rock bar",,,
-294,ライフライン,raifurain,lifeline,infrastructure,,,
-295,ラムネ,ramune,lemona(de),"Ramune (a lemon-lime soft drink; hard, powdery candy like Rockets or Smarties)",,,
-296,ランジェリーパブ,ranjerīpabu,lingerie + pub,a public house in which the waitresses work in their underwear,,,
-297,ランニングホームラン,ranningu hōmu ran,running home run,an inside-the-park home run (baseball),,,
-298,ランニングシャツ,ranningu shatsu,running shirt,a sleeveless T-shirt,,,
-299,レースクイーン,rēsu kuīn,race queen,umbrella girls,,,
-300,リベンジ,ribenji,revenge,"return match, rematch, chance for redemption after a failed attempt",,,
-301,リーチ,rīchi,reach,one step away from winning (usually used in mahjong),,,
-302,リードオンリーメンバー,rīdo onrī menbā,read-only member,"an internet lurker, thought to be a pun on 'read-only memory'",,,
-303,リフォーム,rifōmu,reform,"remodel, renovation (as in a building)",,,
-304,リモコン,rimokon,remo(te) con(trol),remote control,,,
-305,リンクフリー,rinku furī,link free,free to link,,,
-306,リニューアル,rinyūaru,renewal,remodeling,,,
-307,リサイクルショップ,risaikuru shoppu,recycle shop,"secondhand shop (selling used or unwanted furniture, household appliances, housewares, and clothes; slightly different from non-profit or charity thrift shops in that they are fundamentally for-profit shops and perceived as one way to help reduce trash)",,,
-308,リセマラ,risemara,reset marathon,uninstalling and reinstalling a game in order to re-roll certain starting items or statistics until a desirable result is achieved,,,
-309,リストラ,risutora,restru(cturing),"(noun) restructuring, but with emphasis on lowering headcounts as in downsizing, termination as a redundancy; (verb) to downsize, lay off or terminate as a redundancy. When used in the passive (〜される: -sareru), to get or have been made redundant, downsized (out of a job)",,,
-310,ロードショー,rōdo shō,roadshow,"premiere, especially of a film",,,
-311,"ロケーションハンティング, ロケハン","rokēshon hantingu, rokehan",location hunting,location scout,,,
-312,ロマンスグレー,romansu gurē,romance grey,silver-gray hair,,,
-313,ロマンスカー,romansu kā,Romancecar,deluxe train (named after a series of limited express operated by the Odakyu Electric Railway),,,
-314,ロンパリ,ronpari,Lon(don) + Paris,"slang for strabismus (crosseyed, wandering eye), alluding to one eye looking toward London while the other looking toward Paris",,,
-315,ロープウェー,rōpuwē,ropeway,ropeway,,,
-316,ロスタイム,rosu taimu,loss time,"added time, additional time",,,
-317,サービス,sābisu,service,"service, often used to describe something as being free of charge",,,
-318,サイドブレーキ,saido burēki,side brake,"hand brake, parking brake, emergency brake",,,
-319,サイダー,saidā,cider,a kind of soda unrelated to actual cider,,,
-320,サイコ,saiko,psycho,psychopath,,,
-321,サイン,sain,sign,"signature, autograph",,,
-322,サインペン,sainpen,sign pen,"marker, Trade name of Pentel's",,,
-323,サンドイッチ/サンド,"sandoitchi, sando",sand(wich),sandwich,,,
-324,サンドバッグ,sandobaggu,sandbag,punching bag,,,
-325,サラダ,sarada,salad,salad,,,
-326,サラリーマン,sararīman,salaried man,salaryman: a salaried office/white collar worker,,,
-327,サイエンス,saiensu,science,science,,,
-328,セフレ,sefure,se(x) + frie(nd),casual sexual partner,,,
-329,セクハラ,sekuhara,sex(ual) hara(ssment),sexual harassment,,,
-330,セメダイン,"semedain, Cemedine",ceme(nt) dyne,"glue, adhesive. A genericized trademark of Cemedine Co., Ltd.",,,
-331,センス,sensu,sense,understanding of subtleties,,,
-332,セレブ,serebu,celeb(rity),"a rich person, whether or not they are famous",,,
-333,シャープペンシル/シャーペン,shāpu penshiru/shāpen,Shar(p) pencil,"mechanical pencil (referring to Sharp, a manufacturer)",,,
-334,シャッターチャンス,shattāchansu,shutter + chance,the perfect opportunity to take a photograph,,,
-335,CM,CM (shīemu),c(ommercial) m(essage),television commercial,,,
-336,シール,shīru,seal,"sticker, decal",,,
-337,シルバーシート,shirubā shīto,silver seat,priority seating on public transportation. ('Silver' refers to the hair of elderly passengers.),,,
-339,サッカー,sakkā,soccer,soccer (football),,,
-340,ソファー,sofā,sofa,a sofa,,,
-341,ソフト,sofuto,soft(ware),"video game console or computer software; also used to describe tasks or work (such as design) requiring imagination, foresight, and intuition",,,
-342,ソフトクリーム,sofuto kurīmu,soft (ice) cream,soft serve (ice cream),,,
-343,ソーラーシステム,sōrā shisutemu,solar system,a solar battery,,,
-344,スイートルーム,suīto rūmu,suite room,a suite in a hotel,,,
-345,スケボー,sukebō,ska(te)bo(ard),skateboard,,,
-346,スケルトン,sukeruton,skeleton,translucent,,,
-347,スキー,sukī,ski,(noun) skiing,,,
-348,スキンシップ,sukinshippu,skin + -ship,skinship (bonding through physical contact),,,
-349,スマート,sumāto,smart,"slim, stylish, well-dressed, cool, handsome",,,
-350,スマホ,sumaho,sma(rt) + (p)ho(ne),smartphone,,,
-351,スムーズ,sumūzu,smooth (transaction),When a plan or transaction happens without incident,,,
-352,スーパー,sūpā,super(market),supermarket,,,
-353,"スパッツ, スパッツタイツ","supattsu, supattsu taitsu","spats, spats tights","tights (US), leggings",,,
-354,スペイン,Supein,Spain,Spain,,,
-355,スペル,superu,spell,(noun) spelling,,,
-356,スピン,supin,spin,a ribbon or tassel on a book,,,
-357,スリーサイズ,surī saizu,three size,"three primary female body measurements (bust, waist, hips)",,,
-358,スター,sutā,star,"star, Starr",,,
-359,スタイル,sutairu,style,body shape; style,,,
-360,スタジオ,sutajio,studio,studio,,,
-361,ステップ,suteppu,step,"step, steppe",,,
-362,ストライキ/スト,sutoraiki/suto,strike or st(rike),labor strike,,,
-363,ストレートティー,sutorēto tī,straight tea,black tea without milk or lemon,,,
-364,ストーブ,sutōbu,stove,space heater,,,
-365,スーツアクター,sūtsu akutā,suits actor,"suit actor, an actor who performs wearing a cartoon-character costume",,,
-366,タイムオーバー,taimu ōbā,time over,when a time limit has been reached,,,
-367,タイムリー,taimurī,timely (hit),"a clutch hit (in baseball), on time",,,
-368,タンク,tanku,tank,tank,,,
-369,タオルケット,taoru ketto,towelket (towel + (blan)ket),a type of blanket made of a material similar to a beach or bath towel,,,
-370,テーブル,tēburu,table,table,,,
-371,テレビ,terebi,television,device used for watching,,,
-372,テンキー,tenkī,ten key,numeric keypad,,,
-373,テンション,tenshon,tension,a state of excitement,,,
-374,テレビ,terebi,televi(sion),television,,,
-375,テレビゲーム,terebigēmu,televi(sion) game,video game,,,
-376,テレフォン,terefon,telephone,"telephone, phone",,,
-377,テレカ,tereka,tele(phone) ca(rd),prepaid card for using public telephones,,,
-378,ティーンエージャー,tīn'ējā,teenager,"teenager, teen",,,
-379,トイレ,toire,toilet,"toilet, bathroom, washroom, restroom",,,
-380,タン,tan,tongue,tongue,,,
-381,トマト,tomato,tomato,tomato,,,
-382,トンカツ,tonkatsu,"ton (豚, pork) + katsu (from the English 'cutlet')",pork cutlet,,,
-383,トップページ,toppupēji,top + page,"home page, start page",,,
-384,トラブル,toraburu,trouble,trouble; difficulty; problem; fight,,,
-385,トラックメーカー,torakkumēkā,track maker,music producer,,,
-386,トランプ,toranpu,trump(s),playing cards,,,
-387,トレーナー,torēnā,trainer,sweatshirt,,,
-388,トレーニングパンツ,torēningu pantsu,training pants,pants for toddlers or babies; diaper,,,
-389,ツイッター,tsuittā,Twitter,Twitter app,,,
-390,ウインカー,uinkā,winker,turn signal (indicator on an automobile),,,
-391,ウイルス,uirusu,virus,virus,,,
-392,ウーパールーパー,ūpārūpā,wooper looper,Wasei-eigo for axolotl,,,
-393,ヴァージンロード,vājin rōdo,virgin road,"the aisle (in a Western-style or Christian wedding ceremony, as followed by the bridal procession)",,,
-394,ワイドショー,waido shō,wide show,talk show,,,
-395,ワイシャツ/Yシャツ,wai shatsu,Y (< 'white') shirt,dress shirt (of any color),,,
-396,ワンパターン,wan patān,one pattern,"of (artificial or boring) uniformity or conformity, lacking of (spontaneous) variation. Used to describe behavior and responses as well as objects. Being 'in a rut'",,,
-397,ワンピース,wan pīsu,one piece,(a single-piece) dress,,,
-398,ワープ,wāpu,warp,warp (fictional faster-than-light spacecraft propulsion),whirlpool,a large amount,popular Cardi B song
-399,ワープロ,wāpuro,wor(d) pro(cessor),word processor,,,
-400,ウォシュレット,woshuretto,washlet (wash+(toi)let),a toilet with a built-in bidet (a genericized trademark of Toto),,,
-401,ヨット,yotto,yacht,a sailboat or yacht,,,
-402,ヤンエグ,yan'egu,youn(g) ex(ecutive),young executive,,,
-403,ユニットバス,yunittobasu,unit bath,"modular bath, prefabricated bath",,,
-404,Uターンラッシュ,yūtānrasshu,U-turn rush,rush of traffic and people,,,
+1,アフレコ,afureko,af(ter) + recor(ding),dubbing,voice-over,subtitles,remix
+2,アフターサービス,afutā sābisu,after service,after-sales service,warranty,customer discount,product recall
+3,アイドル,aidoru,idol,pop idol,role model,celebrity,teenager
+4,アイスクリーム,aisukurīmu,ice cream,ice cream,frozen yogurt,sorbet,pudding
+5,アイスキャンディー,aisukyandī,ice + candy,popsicle,ice cream cone,frozen yogurt,fruit sorbet
+6,アーカイブ,ākaibu,archive,archive,catalog,index,warehouse
+7,アメフト,amefuto,Ame(rican) foot(ball),American football,rugby,soccer,baseball
+8,アメリカンドッグ,amerikan doggu,American dog,corn dog,hot dog,sausage roll,cheese stick
+9,アニメ,anime,ani(me),anime,cartoon,comic,illustration
+10,アニソン,anison,ani(me) + son(g),anime song,theme song,pop song,game soundtrack
+11,アンジェル,anjeru,angel,angel,fairy,saint,cherub
+12,アンサー,ansā,answer,answer,question,reply,explanation
+13,アンチ,anchi,anti-,anti-fan,critic,skeptic,supporter
+14,アパート,apāto,apart(ment),apartment,hotel,dormitory,townhouse
+15,アポ,apo,appo(intment),appointment,reservation,interview,invitation
+16,アップル,appuru,apple,apple,pear,peach,lemon
+17,アプリ,apuri,app(lication),app,program,website,device
+18,アールブイ,ārubui,RV,recreational vehicle,pickup truck,minivan,camper trailer
+19,アルコール,arukōru,alcohol,alcohol,medicine,perfume,gasoline
+20,アウトコース,autokōsu,out-course,outside lane,inside lane,center lane,starting line
+21,バッド,baddo,bad,bad,good,evil,ugly
+22,バーゲン,bāgen,bargain,sale,auction,coupon,refund
+23,バイキング,baikingu,Viking, buffet,banquet,picnic,cafeteria
+24,バイク,baiku,bike,motorcycle,bicycle,scooter,moped
+25,ブルー,burū,blue,blue,green,purple,gray
+26,ブックカバー,bukku kabā,book cover,book cover,dust jacket,bookmark,booklet
+27,バックミラー,bakku mirā,back mirror,rear-view mirror,side mirror,windshield,backup camera
+28,バックナンバー,bakkunanbā,back number,back issue,current issue,edition number,serial number
+29,バックネット,bakkunetto,back net,backstop,outfield fence,batting cage,scoreboard
+30,バンパー,banpā,bumper,bumper,fender,hood,grille
+31,バリアフリー,bariafurī,barrier-free,accessible,restricted,private,underground
+32,バスジャック,basujakku,bus (hi)jack,bus hijacking,bus strike,bus accident,bus robbery
+33,バター,batā,butter,butter,cream,cheese,margarine
+34,バッティング,battingu,batting,batting,bowling,pitching,fielding
+35,ベビーカー,bebīkā,baby car,stroller,high chair,crib,baby carrier
+36,ベッドタウン,beddotaun,bed town,commuter suburb,industrial district,shopping district,holiday resort
+37,ベジタリアン,bejitarian,vegetarian,vegetarian,vegan,omnivore,nutritionist
+38,ビジネスホテル,bijinesu hoteru,business hotel,budget hotel,luxury hotel,hostel,bed-and-breakfast
+39,ビル,biru,buil(ding),building,bridge,tower,warehouse
+40,ボールペン,bōrupen,ball(point) pen,ballpoint pen,fountain pen,pencil,marker
+41,ブレザー,burezā,blazer,blazer,jacket,vest,uniform
+42,ブルマ,buruma,bloomers,gym shorts,leggings,swimsuit,track pants
+43,キャビンアテンダント,kyabin'atendanto,cabin attendant,flight attendant,pilot,airport agent,travel guide
+44,チャージ,chāji,charge,to top up,to withdraw,to transfer,to refund
+45,チャレンジ,charenji,challenge,attempt,warning,defeat,argument
+46,チェンジレバー,chenjirebā,change + lever,gearshift,brake pedal,steering wheel,clutch
+47,チェリーボーイ,cherībōi,cherry boy,male virgin,bachelor,young man,newlywed
+48,"チアガール, チアマン, チアリーダー","chia gāru, chia man, chia rīdā",cheer girl/man/leader,cheerleader,dancer,coach,mascot
+49,コラボ,korabo,collab(orations),collaboration,competition,translation,imitation
+50,コンピューター/コンピュータ,konpyūtā/konpyūta,computer,computer,calculator,television,robot
+51,ダブル,daburu,double,double,single,half,triple
+52,ダンス,dansu,dance,dance,song,exercise,performance
+53,ダンプカー,danpu kā,dump car,dump truck,fire truck,tow truck,cement mixer
+54,ダストボックス,dasuto bokkusu,dust box,trash can,recycling bin,storage box,toolbox
+55,ダストシュート,dasuto shūto,dust chute,garbage chute,stairwell,air duct,drainpipe
+56,ダッチワイフ,datchiwaifu,Dutch + wife,sex doll,mannequin,stuffed animal,dollhouse
+57,ダウンロードオンリーメンバー,daunrōdoonrīmenbā,download-only member,leecher,subscriber,administrator,moderator
+58,デッドボール,deddo bōru,dead ball,hit by pitch,home run,foul ball,stolen base
+59,デフォルト,deforuto,default,default setting,backup setting,custom setting,hidden option
+60,デコレーションケーキ,dekorēshon kēki,decoration cake,decorated cake,cheesecake,sponge cake,fruit tart
+61,デパート,depāto,depart(ment store),department store,supermarket,shopping mall,convenience store
+62,デリバリーヘルス,deribarīherusu,delivery health,outcall sex service,massage service,room service,delivery service
+63,デスク,desuku,desk,desk,chair,counter,office
+64,ドアカット,doakatto,door + cut,selective door opening,automatic doors,emergency exit,platform gate
+65,ドクター ストップ,dokutāsutoppu,doctor stop,doctor's order,medical test,hospital visit,prescription
+66,ドンマイ,donmai,don('t) mi(nd),don't worry,good luck,nice try,well done
+67,ドライバー,doraibā,driver,screwdriver,hammer,wrench,pliers
+68,ドライブイン,doraibuin,drive in,roadside rest stop,parking garage,car wash,gas station
+69,ドラマ,dorama,drama,TV drama,movie,documentary,news report
+70,ドリフト,dorifuto,drift,drifting,parking,accelerating,braking
+71,エアコン,eakon,air con(ditioning),air conditioner,fan,dehumidifier,heater
+72,エンスト,ensuto,en(gine) sto(p),stall,overheat,collision,flat tire
+73,NG,NG (enujī),n(ot) + g(ood),not acceptable,energy,new generation,no guarantee
+74,エネルギー,enerugī,energy,energy,momentum,emotion,engine
+75,エレベーター,erebētā,elevator,elevator,escalator,stairway,tram
+76,エロ,ero,ero(s),erotic,relaxed,no worries,innocent
+77,エール,ēru,yell of encouragement,cheer,warning,whistle,applause
+78,エスケープ,esukēpu,escape,get away,hide,return,arrive
+79,ファイナル,fainaru,final,final,beginning,preview,opening
+80,ファイト,faito,fight,do your best,be careful,good night,well done
+81,ファンタジック,fantajikku,fantasy + -ic,fantastical,realistic,dramatic,scientific
+82,ファッションヘルス,fasshon herusu,fashion health,sex parlor,beauty salon,massage clinic,clothing store
+83,フェッチ,fetchi,fetch,retrieve an instruction,delete a file,save a file,run a program
+84,フィリピンパブ,firipinpabu,Philippines + pub,Filipino hostess bar,Filipino restaurant,language school,travel agency
+85,フォアボール,foabōru,four ball,base on balls,strikeout,fly ball,bunt
+86,フライ,furai,fly,fly ball,ground ball,line drive,home run
+87,フライ,furai,fry,deep-frying,boiling,steaming,grilling
+88,フライパン,furaipan,fry + pan,frying pan,saucepan,baking tray,wok
+89,フライドポテト,furaido poteto,fried potato,French fries,mashed potatoes,baked potato,potato salad
+90,フライング(スタート),furaingu (sutāto),flying (start),false start,finish line,starting signal,photo finish
+91,フライングゲット,furaingu getto,flying get,buy before release,preorder an item,return an item,win a prize
+92,フラクタル,furakutaru,fractal,fractal,formula,polygon,spiral
+93,フリーダイアル/フリーダイヤル/フリーコール,furī daiaru/furī daiyaru/furī kōru,free dial/free call,toll-free number,private number,international number,extension number
+94,フリーサイズ,furī saizu,free size,one-size-fits-all,custom size,oversized,limited edition
+95,フロント,furonto,front (desk),front desk,lobby,receptionist,entrance
+96,フロントガラス,furonto garasu,front glass,windshield,rear window,side window,sunroof
+97,フルベース,furu bēsu,full base,bases loaded,bases empty,home run,three outs
+98,ガードマン,gādo man,guard man,security guard,police officer,traffic officer,bodyguard
+99,ガラス,garasu,glass,glass,plastic,crystal,metal
+100,ガソリンスタンド,gasorin sutando,gasoline stand,gas station,car dealership,repair shop,parking lot
+101,ガタパーチャ,gata pācha,gutta-percha,gutta-percha,rubber,latex,plastic
+102,ガッツポーズ,gattsu pōzu,guts pose,fist pump,handshake,thumbs-up,high five
+103,ゲームクリエーター,gēmukuriētā,game creator,game developer,game tester,game streamer,game player
+104,ゲーセン,gēsen,ga(me) cen(ter),arcade,cinema,game store,amusement park
+105,ゲームセット,gēmu setto,game set,match over,game start,timeout,half-time
+106,ギブ(アップ),gibu(appu),give (up),give up,go ahead,hold on,try again
+107,ゴールデンアワー/ゴールデンタイム,gōruden awā/gōruden taimu,golden hour/time,prime time,late night,opening time,lunch hour
+108,ゴールデンウィーク/ゴールデンウイーク,gōruden wīku/gōruden uīku,golden week,Golden Week,Summer Vacation,New Year holiday,Spring Break
+109,ググる,guguru,Google + -ru,Google,download,upload,bookmark
+110,グラビア,gurabia,gravure,glamour photography,landscape photography,photojournalism,wildlife photography
+111,グラス,gurasu,glass,drinking glass,wine bottle,pitcher,mug
+112,グロ,guro,gro(tesque),grotesque,glamorous,romantic,ordinary
+113,ギャラリー,gyararī,gallery,spectators,artwork,museum,studio
+114,ギャル,gyaru,gal,gyaru girl,schoolgirl,actress,model
+115,ハイネック,hainekku,high neck,turtleneck,collarless shirt,V-neck shirt,hoodie
+116,ハイオク,haioku,high octane,high-octane gasoline,diesel fuel,kerosene,racing oil
+117,ハイタッチ,haitatchi,high touch,high five,handshake,fist bump,clap
+118,ハッカー,hakkā,hacker,computer hacker,programmer,engineer,technician
+119,ハモる,hamoru,harmo(ny) + -ru,harmonize,whistle,whisper,shout
+120,ハンバーグ,hanbāgu,hamburg(er steak),hamburger steak,meatloaf,meatball,steak sandwich
+121,ハンドル,handoru,handle,steering wheel,gear lever,brake pedal,door handle
+122,ハンドルキーパー,handoru kīpā,handle keeper,designated driver,driving instructor,car owner,chauffeur
+123,ハンドルネーム,handoru nēmu,handle name,screen name,real name,username password,email address
+124,ハンカチ,hankachi,han(d)kerchie(f),handkerchief,napkin,scarf,towel
+125,ハンスト,hansuto,hun(ger) st(rike),hunger strike,fast food,hunger pangs,food shortage
+126,ハッピーエンド,happī endo,happy end,happy ending,surprise ending,open ending,sad ending
+127,ハウス (ビニールハウス),hausu (binīru hausu),house (vinyl house),greenhouse,warehouse,glass building,garden shed
+128,ハザードランプ,hazādo ranpu,hazard lamp,hazard lights,headlights,fog lights,brake lights
+129,ヘアピンカーブ,heapin kābu,hairpin curve,hairpin turn,roundabout,straightaway,intersection
+130,ヘルスメーター,herusu mētā,health meter,bathroom scale,thermometer,blood-pressure monitor,fitness tracker
+131,ヒップ,hippu,hip,buttocks,waist,thighs,back
+132,ヒップホップ,hippuhoppu,hip-hop,hip-hop,jazz,blues,disco
+133,ヒーリング,hīringu,healing,healing,exercise,meditation,therapy
+134,ホッチキス,hotchikisu,Hotchkiss,stapler,paper clip,puncher,tape dispenser
+135,ホテヘルス,hoteherusu,hote(l) + health,hotel-based sex service,hotel massage,room service,health clinic
+136,ホテトル,hotetoru,hote(l) + Turkish bath,hotel sex service,hotel maid service,travel service,spa treatment
+137,ホットケーキ,hotto kēki,hotcake,pancake,waffle,crepe,muffin
+138,ホーム,hōmu,platform,railway platform,station building,train cabin,waiting room
+139,ホワイト,howaito,white,white,black,silver,beige
+140,ブラック,burakku,black,black,navy,brown,gray
+141,ホワイトデー,howaito dē,White + Day,White Day,Valentine's Day,New Year's Day,Children's Day
+142,イメージ,imēji,image,mental image,memory,idea,photograph
+143,イメージクラブ,imējikurabu,image + club,themed brothel,photo studio,costume shop,nightclub
+144,インスタ,insuta,Insta(gram),Instagram,TikTok,Facebook,YouTube
+145,インフレ,infure,infla(tion),inflation,recession,deflation,unemployment
+146,イン・キー,in kī,in key,lock keys in the car,lose your keys,leave the car running,lock the doors
+147,イラスト,irasuto,illust(ration),illustration,photograph,diagram,sculpture
+148,インターネット,intānetto,internet,internet,intranet,telephone,television
+150,ジャンパー,janpā,jumper,jacket,sweater,vest,coat
+151,ジャンプ,janpu,jump,jump,fall,spin,slide
+152,ジェンダーフリー,jendāfurī,gender free,gender-neutral,gender-specific,gender identity,male-only
+153,ジェットコースター,jettokōsutā,jet coaster,roller coaster,water slide,ferris wheel,bumper cars
+154,ジングルベル,jinguruberu,jingle + bell,Jingle Bells,Silent Night,Deck the Halls,Winter Wonderland
+155,ジレンマ,jirenma,dilemma,dilemma,paradox,theory,controversy
+156,ジーパン,jīpan,jea(ns) + pan(ts),jeans,trousers,shorts,overalls
+157,ジープ,jīpu,Jeep,Jeep,pickup truck,sedan,minivan
+158,ジュース,jūsu,juice,juice,soda,milk,tea
+159,カメラマン,kameraman,cameraman,photographer,journalist,filmmaker,designer
+160,カモン,kamon,come on,join us,go away,wait here,be quiet
+161,カンニング,kanningu,cunning,cheating,studying,guessing,copying
+162,カラオケ,karaoke,kara + orchestra,karaoke,concert,opera,radio
+163,カシュー,kashū,cashew,cashew,almond,walnut,peanut
+164,ナッツ,nattsu,nuts,nuts,beans,seeds,deez
+165,ピーナッツ,pīnatsu,peanut,peanut,almond,cashew,pistachio
+166,キーホルダー,kī horudā,key holder,key ring,key card,key case,key cabinet
+167,キスマーク,kisu māku,kiss mark,hickey,bruise,scratch,birthmark
+168,キッチンペーパー,kitchin pēpā,kitchen paper,paper towel,napkin,parchment paper,plastic wrap
+169,コード,kōdo,chord,chord,cable,code,string
+170,コインランドリー,koinrandorī,coin laundry,laundromat,dry cleaner,laundry room,car wash
+171,コインロッカー,koinrokkā,coin locker,coin-operated locker,parking meter,storage shed,ticket machine
+172,コインロッカーベイビー,koin rokkābeibī,coin locker baby,coin-locker baby,orphan child,runaway teenager,adopted child
+173,コミカライズ,komikaraizu,comic + -ize,comic adaptation,translation,film editing,book review
+174,コンビニ,konbini,conveni(ence store),convenience store,supermarket,department store,drugstore
+175,コンセント,konsento,concentric plug,electrical outlet,light switch,power cord,fuse box
+176,コロッケ,korokke,croquette,croquette,meatball,donut,fritter
+177,コスプレ,kosupure,costume play,cosplay,fashion show,role-playing game,masquerade
+178,クラブ,kurabu,club,club,society,team,bar
+179,クラクション,kurakushon,Klaxon,car horn,siren,whistle,bell
+180,クラス,kurasu,class,class,grade,course,lesson
+181,クレーム,kurēmu,claim,complaint,claim,refund,request
+182,クレーンゲーム,kurēngēmu,crane + game,claw machine,arcade cabinet,slot machine,pinball
+183,クリスタル,kurisutaru,crystal,crystal-clear,opaque,cloudy,rough
+184,キャバクラ,kyabakura,cabaret club,hostess club,cocktail bar,nightclub,casino
+185,キャベツ,kyabetsu,cabbage,cabbage,lettuce,spinach,celery
+186,キャンペーン,kyanpēn,campaign,sales campaign,advertisement,product launch,market survey
+187,キャンピングカー,kyanpingukā,camping-car,recreational vehicle,tent,caravan park,pickup truck
+188,キャッチボール,kyatchibōru,catch ball,a game of catch,baseball practice,passing game,conversation
+189,キャッチホン,kyatchihon,catch phone,call waiting,caller ID,voicemail,call forwarding
+190,キャッチコピー,kyatchikopī,catch copy,tagline,headline,caption,slogan writer
+191,ランド,rando,land,land,property,ground,farm
+192,マグカップ,magu kappu,mug cup,mug,teacup,tumbler,bowl
+193,マイナスドライバー,mainasudoraibā,minus driver,flathead screwdriver,Phillips screwdriver,Allen key,wrench
+194,マジックインキ,majikkuinki,Magic Ink,permanent marker,highlighter,crayon,fountain pen
+195,マジックテープ,majikkutēpu,magic tape,hook-and-loop fastener,adhesive tape,duct tape,rubber band
+196,マニア,mania,mania,enthusiast,expert,fanatic,collector
+197,マンション,manshon,mansion,apartment building,luxury mansion,hotel,office tower
+198,ナイフ,naifu,knife,knife,fork,scissors,razor
+199,ランプ,ranpu,lamp,lamp,candle,lantern,flashlight
+200,マスコミ,masukomi,mass communication,mass media,advertising,public relations,telecommunications
+201,マザコン,mazakon,mother complex,mother fixation,father fixation,social anxiety,homesickness
+202,メーカー,mēkā,maker,manufacturer,retailer,designer,distributor
+203,メモリ,memori,memory,memory,storage,processor,monitor
+204,メンヘラ,menhera,mental health,person with mental-health issues,therapist,medical student,caregiver
+205,メリークリスマス,merīkurisumasu,Merry Christmas,Merry Christmas,Happy New Year,Happy Birthday,Happy Easter
+206,メール,mēru,mail,email,text message,letter,voicemail
+207,メールマガジン,mērumagajin,mail magazine,email newsletter,newspaper,advertisement,magazine subscription
+208,メタボ,metabo,metabolic,metabolic syndrome,obesity,high blood pressure,diabetes
+209,ミクスチャーロック,mikusuchārokku,mixture + rock,rap-rock,hard rock,punk rock,folk rock
+210,ミニアルバム,miniarubamu,mini + album,EP,single,mixtape,box set
+211,ミルク,miluku,milk,milk,cream,butter,cheese
+212,ミシン,mishin,machine,sewing machine,typewriter,printer,knitting machine
+213,モバイル,mobairu,mobile,mobile device,laptop,desktop computer,landline
+214,モバメ,mobame,mobile + mail,fan mailing service,text message,online forum,news alert
+215,モボ,mobo,mo(dern) bo(y),modern boy,office worker,schoolboy,athlete
+216,モガ,moga,mo(dern) gi(rl),modern girl,schoolgirl,actress,housewife
+217,モーニングコール,mōningu kōru,morning call,wake-up call,phone appointment,alarm clock,breakfast order
+218,モーニングコート/モーニング,mōningu kōto/mōningu,morning coat,morning coat,dinner jacket,business suit,raincoat
+219,モーニングサービス/モーニング,mōningu sābisu,morning service,breakfast special,lunch buffet,coffee break,room service
+220,モーテル,mōteru,motel,love hotel,roadside inn,hostel,guesthouse
+221,ムーディ,mūdi,moody,romantic,angry,gloomy,unpredictable
+222,ムーンサルト,mūnsaruto,moon + Salto,moonsault,backflip,somersault,cartwheel
+223,ミュージック,myūjikku,music,music,sound,effect,rhythm
+224,ナイター,naitā,night + -er,night game,night shift,evening class,late show
+225,ナンバーディスプレイ,nanbā disupurei,number display,caller ID,phone number,call waiting,voicemail
+226,ネーム,nēmu,name,manga storyboard,character name,pen name,title
+227,ナンバープレート,nanbā purēto,number plate,license plate,parking permit,driver's license,registration card
+228,ナイス,naisu,nice,nice,kind,polite,beautiful
+229,ニュース,nyūsu,news,news,report,rumor,headline
+230,ニート/NEET,nīto,Not in Employment Education or Training,person outside work or school,retiree,freelancer,student
+232,ノークレームノーリターン,nōkurēmunōritān,no claim no return,sold as-is,refundable,exchangeable,under warranty
+233,ノンステップバス,non suteppu basu,non-step bus,low-floor bus,double-decker bus,school bus,shuttle bus
+234,ノート,nōto,note,notebook,diary,textbook,folder
+235,ノートパソコン,nōtopasokon,note + personal computer,laptop,tablet,desktop,netbook
+236,ハーフ,hāfu,half,mixed-race person,foreigner,immigrant,tourist
+237,フォーク,fōku,fork,fork,spoon,knife,ladle
+238,ニューハーフ,nyūhāfu,new-half,transgender woman,drag queen,cross-dresser,actress
+239,オーバー,ōbā,over,overreaction,accident,argument,delay
+240,オーバーライド,ōbāraido,override,override,overwrite,upload,restart
+241,オブ,obu,of,of,from,with,for
+242,"OB, OG","ōbī, ōjī",old boy/girl,former member,manager,coach,beginner
+243,オーダーメード,ōdāmēdo,order + made,custom-made,ready-made,secondhand,hand-me-down
+244,オーディエンス,ōdiensu,audience,audience,performer,producer,host
+245,オーエル,ōeru,O.L. office lady,female office worker,office manager,receptionist,executive
+246,オフ,ofu,off,sale,closure,holiday,discount coupon
+247,オフヴォーカル,ofuvōkaru,off + vocal,instrumental backing track,vocal solo,live recording,acoustic version
+248,オイルショック,oirushokku,oil + shock,oil crisis,energy surplus,gas shortage,stock market crash
+249,オージー,ōjī,orgy,orgy,Australian,foreigner,party
+250,オンリーワン,onrīwan,only one,one-of-a-kind,second-best,limited-time,exclusive member
+251,オープンカー,ōpunkā,open car,convertible,roadster,pickup truck,hatchback
+252,オーライ,ōrai,a(ll) righ(t),all right,go ahead,come back,wait there
+253,オレンジ,orenji,orange,orange,lemon,peach,apricot
+254,オートバイ,ōtobai,auto-bi(cycle),motorcycle,bicycle,automobile,scooter
+255,パイプカット,paipukatto,pipe cut,vasectomy,appendectomy,circumcision,catheterization
+256,パイン,pain,pine(apple),pineapple,pine nut,coconut,mango
+257,パーマ,pāma,perma(nent wave),perm,straightening,shampoo,hair dye
+258,パネリスト,panerisuto,panelist,panelist,moderator,audience member,reporter
+259,パンク,panku,punc(ture),flat tire,engine failure,traffic jam,flat battery
+260,パンスト,pansuto,pan(ty) + sto(cking),pantyhose,leggings,socks,underwear
+261,パソコン,pasokon,perso(nal) com(puter),personal computer,smartphone,tablet,server
+263,パンツ,pantsu,pants,underpants,jeans,shorts,trousers
+264,ペアルック,pearukku,pair look,matching outfits,formalwear,school uniform,matching jewelry
+265,ペンギン,pengin,penguin,penguin,pelican,puffin,seal
+266,ペニス,penisu,penis,penis,testicle,uterus,prostate
+267,ペーパーカンパニー,pēpākanpanī,paper company,shell company,nonprofit,holding company,startup
+268,ペーパードライバー,pēpādoraibā,paper driver,licensed non-driver,driving instructor,professional driver,learner driver
+269,"ペパロニ, ペッペロニ","peparoni, pepperoni",pepperoni,pepperoni,salami,sausage,bacon
+270,ペーパーテスト,pēpātesuto,paper test,written test,oral exam,driving test,medical test
+271,ピクニック,pikunikku,picnic,picnic,barbecue,camping,hiking
+272,ピンサロン,pinsaron,pink + salon,sex parlor,massage salon,beauty salon,dance club
+273,ピンチ,pinchi,pinch,tight spot,minor inconvenience,close call,short break
+274,ポエマー,poemā,poem + -er,poet,writer,lyricist,novelist
+275,ポケベル,pokeberu,pocke(t) bell,pager,smartphone,walkie-talkie,radio
+276,ポケモン,pokemon,pocke(t) mon(ster),Pokémon,Digimon,monster,game character
+277,パンチ,panchi,punch,punch,kick,slap,throw
+278,ポスト,posuto,post,mailbox,mail carrier,post office,letter
+279,ポテチ,potechi,potato + chips,potato chips,potato wedges,French fries,corn chips
+280,プラスアルファ,purasu arufa,plus alpha,something extra,additional cost,negative balance,bonus point
+281,プラスドライバー,purasu doraibā,plus driver,Phillips screwdriver,flathead screwdriver,Allen key,wrench
+282,プレイ,purei,play,play,pray,work,practice
+283,プレイ,purei,pray,pray,play,hope,wish
+284,プレイガイド,purei gaido,play + guide,theater ticket agency,travel agency,tour guide,box office
+285,プリクラ,purikura,Print Club,photo booth,photo studio,passport office,photocopier
+286,プロ,puro,professional,professional,amateur,expert,manager
+287,プロレス,puroresu,pro(fessional) wrest(ling),professional wrestling,boxing,martial arts,amateur wrestling
+288,プッシュホン,pusshu hon,push phone,push-button phone,rotary phone,mobile phone,intercom
+289,ラブドール,rabudōru,love + doll,sex doll,mannequin,plush toy,robot
+290,ラブホテル,rabu hoteru,love hotel,love hotel,boutique hotel,business hotel,hostel
+291,ライバル,raibaru,rival,competitor,teammate,coach,referee
+292,ライブアクション,raibu akushon,live-action,live-action adaptation,documentary,stage play,animation
+293,ライブハウス,raibu hausu,live house,live-music venue,record store,dance studio,nightclub
+294,ライフライン,raifurain,lifeline,essential infrastructure,emergency phone,insurance policy,train route
+295,ラムネ,ramune,lemona(de),Ramune soda,lemonade,ginger ale,fruit punch
+296,ランジェリーパブ,ranjerīpabu,lingerie + pub,lingerie bar,cocktail lounge,clothing store,nightclub
+297,ランニングホームラン,ranningu hōmu ran,running home run,inside-the-park home run,grand slam,walk-off home run,foul ball
+298,ランニングシャツ,ranningu shatsu,running shirt,sleeveless shirt,running shoes,sports bra,track jacket
+299,レースクイーン,rēsu kuīn,race queen,racing promotional model,car mechanic,race driver,track official
+300,リベンジ,ribenji,revenge,rematch,revenge,retirement,championship
+301,リーチ,rīchi,reach,one tile from winning,winning move,final round,draw
+302,リードオンリーメンバー,rīdo onrī menbā,read-only member,lurker,subscriber,moderator,administrator
+303,リフォーム,rifōmu,reform,remodel,repair,replacement,decoration
+304,リモコン,rimokon,remo(te) con(trol),remote control,remote sensor,game controller,keyboard
+305,リンクフリー,rinku furī,link free,free to link,private link,broken link,paid link
+306,リニューアル,rinyūaru,renewal,renovation,refund,replacement,extension
+307,リサイクルショップ,risaikuru shoppu,recycle shop,secondhand shop,repair shop,antique museum,charity center
+308,リセマラ,risemara,reset marathon,rerolling,leveling,cheating,modding
+309,リストラ,risutora,restru(cturing),downsizing,promotion,recruitment,retirement
+310,ロードショー,rōdo shō,roadshow,film premiere,film festival,film review,film trailer
+311,"ロケーションハンティング, ロケハン","rokēshon hantingu, rokehan",location hunting,location scout,film director,camera operator,travel agent
+312,ロマンスグレー,romansu gurē,romance grey,silver-gray hair,blond hair,black hair,curly hair
+313,ロマンスカー,romansu kā,Romancecar,Romancecar express,night train,commuter train,sleeper train
+314,ロンパリ,ronpari,Lon(don) + Paris,strabismus,short-sightedness,color blindness,hearing loss
+315,ロープウェー,rōpuwē,ropeway,aerial tramway,roller coaster,zip line,railway
+316,ロスタイム,rosu taimu,loss time,stoppage time,timeout,half-time,extra inning
+317,サービス,sābisu,service,complimentary extra,customer service,repair service,subscription
+318,サイドブレーキ,saido burēki,side brake,parking brake,foot brake,engine brake,brake light
+319,サイダー,saidā,cider,soda,apple cider,lemonade,tonic water
+320,サイコ,saiko,psycho,psychopath,psychologist,psychiatrist,criminal
+321,サイン,sain,sign,signature,signal,symbol,notice
+322,サインペン,sainpen,sign pen,marker pen,fountain pen,ballpoint pen,pencil
+323,サンドイッチ/サンド,"sandoitchi, sando",sand(wich),sandwich,burger,wrap,panini
+324,サンドバッグ,sandobaggu,sandbag,punching bag,sandbag,duffel bag,backpack
+325,サラダ,sarada,salad,salad,soup,stew,side dish
+326,サラリーマン,sararīman,salaried man,salaried office worker,business owner,freelancer,manual laborer
+327,サイエンス,saiensu,science,science,technology,history,mathematics
+328,セフレ,sefure,se(x) + frie(nd),casual sexual partner,spouse,dating partner,roommate
+329,セクハラ,sekuhara,sex(ual) hara(ssment),sexual harassment,workplace bullying,verbal abuse,discrimination
+330,セメダイン,"semedain, Cemedine",Cemedine,glue,paint,cement,sealant
+331,センス,sensu,sense,taste,ability,feeling,knowledge
+332,セレブ,serebu,celeb(rity),wealthy person,celebrity,politician,aristocrat
+333,シャープペンシル/シャーペン,shāpu penshiru/shāpen,Shar(p) pencil,mechanical pencil,wooden pencil,pen,highlighter
+334,シャッターチャンス,shattāchansu,shutter + chance,photo opportunity,camera angle,photo filter,flash setting
+335,CM,CM (shīemu),c(ommercial) m(essage),TV commercial,news report,music video,TV series
+336,シール,shīru,seal,sticker,stamp,label,poster
+337,シルバーシート,shirubā shīto,silver seat,priority seat,window seat,folding seat,driver's seat
+339,サッカー,sakkā,soccer,soccer,rugby,American football,futsal
+340,ソファー,sofā,sofa,sofa,armchair,bench,stool
+341,ソフト,sofuto,soft(ware),software,hardware,firmware,device
+342,ソフトクリーム,sofuto kurīmu,soft ice cream,soft-serve ice cream,frozen yogurt,gelato,sherbet
+343,ソーラーシステム,sōrā shisutemu,solar system,solar heating system,solar battery,wind turbine,geothermal system
+344,スイートルーム,suīto rūmu,suite room,hotel suite,honeymoon room,penthouse,guest room
+345,スケボー,sukebō,ska(te)bo(ard),skateboard,surfboard,snowboard,roller skates
+346,スケルトン,sukeruton,skeleton,translucent,transparent,opaque,reflective
+347,スキー,sukī,ski,skiing,snowboarding,skating,sledding
+348,スキンシップ,sukinshippu,skin + -ship,physical affection,friendship,teamwork,conversation
+349,スマート,sumāto,smart,slim,clever,polite,quiet
+350,スマホ,sumaho,sma(rt) + (p)ho(ne),smartphone,tablet,laptop,smartwatch
+351,スムーズ,sumūzu,smooth,without problems,quickly,quietly,carefully
+352,スーパー,sūpā,super(market),supermarket,department store,convenience store,wholesale club
+353,"スパッツ, スパッツタイツ","supattsu, supattsu taitsu",spats,leggings,tights,sweatpants,stockings
+354,スペイン,Supein,Spain,Spain,Portugal,Italy,France
+355,スペル,superu,spell,spelling,pronunciation,vocabulary,grammar
+356,スピン,supin,spin,bookmark ribbon,book cover,page number,dust jacket
+357,スリーサイズ,surī saizu,three size,bust-waist-hip measurements,height-weight-age,shoe measurements,body temperature
+358,スター,sutā,star,star,actor,hero,celebrity
+359,スタイル,sutairu,style,body shape,fashion,method,design
+360,スタジオ,sutajio,studio,studio,theater,office,workshop
+361,ステップ,suteppu,step,step,staircase,platform,stage
+362,ストライキ/スト,sutoraiki/suto,strike,labor strike,traffic strike,school holiday,protest march
+363,ストレートティー,sutorēto tī,straight tea,black tea,green tea,milk tea,herbal tea
+364,ストーブ,sutōbu,stove,space heater,cooking stove,fireplace,boiler
+365,スーツアクター,sūtsu akutā,suit actor,suit actor,stunt double,voice actor,stage manager
+366,タイムオーバー,taimu ōbā,time over,time expired,late arrival,extra time,early finish
+367,タイムリー,taimurī,timely hit,clutch hit,home run,perfect pitch,winning run
+368,タンク,tanku,tank,tank,barrel,container,drum
+369,タオルケット,taoru ketto,towelket,towel blanket,quilt,bedspread,comforter
+370,テーブル,tēburu,table,table,desk,counter,shelf
+371,テレビ,terebi,television,television,radio,computer,projector
+372,テンキー,tenkī,ten key,numeric keypad,keyboard,calculator,control panel
+373,テンション,tenshon,tension,excitement,stress,pressure,anger
+374,テレビ,terebi,televi(sion),television,radio,computer,projector
+375,テレビゲーム,terebigēmu,televi(sion) game,video game,board game,arcade machine,card game
+376,テレフォン,terefon,telephone,telephone,telegraph,intercom,radio
+377,テレカ,tereka,tele(phone) ca(rd),prepaid phone card,credit card,ID card,train pass
+378,ティーンエージャー,tīn'ējā,teenager,teenager,child,adult,college professor
+379,トイレ,toire,toilet,restroom,bathroom,kitchen,bedroom
+380,タン,tan,tongue,beef tongue,liver,beef cheek,pork belly
+381,トマト,tomato,tomato,tomato,potato,onion,pepper
+382,トンカツ,tonkatsu,ton + katsu,pork cutlet,chicken cutlet,pork chop,meatball
+383,トップページ,toppupēji,top + page,homepage,landing page,web address,search page
+384,トラブル,toraburu,trouble,problem,accident,argument,delay
+385,トラックメーカー,torakkumēkā,track maker,music producer,sound engineer,recording artist,disc jockey
+386,トランプ,toranpu,trump(s),playing cards,board game,tarot cards,puzzle
+387,トレーナー,torēnā,trainer,sweatshirt,tracksuit,hoodie,jacket
+388,トレーニングパンツ,torēningu pantsu,training pants,potty-training pants,jeans,shorts,school uniform
+389,ツイッター,tsuittā,Twitter,Twitter,social media,Instagram,Facebook
+390,ウインカー,uinkā,winker,turn signal,windshield wiper,headlight,horn
+391,ウイルス,uirusu,virus,virus,bacteria,fungus,parasite
+392,ウーパールーパー,ūpārūpā,wooper looper,axolotl,salamander,newt,lizard
+393,ヴァージンロード,vājin rōdo,virgin road,wedding aisle,red carpet,church entrance,processional stage
+394,ワイドショー,waido shō,wide show,talk show,game show,news bulletin,documentary
+395,ワイシャツ/Yシャツ,wai shatsu,Y (< white) shirt,dress shirt,white T-shirt,undershirt,formal jacket
+396,ワンパターン,wan patān,one pattern,predictable routine,unique style,random behavior,flexible plan
+397,ワンピース,wan pīsu,one piece,one-piece dress,skirt suit,jumpsuit,nightgown
+398,ワープ,wāpu,warp,warp (teleportation),whirlpool,large amount,popular song by Cardi B featuring Megan Thee Stallion
+399,ワープロ,wāpuro,wor(d) pro(cessor),word processor,typewriter,printer,spreadsheet
+400,ウォシュレット,woshuretto,washlet,washlet toilet,bidet,automatic faucet,shower
+401,ヨット,yotto,yacht,yacht,sailboat,canoe,ferry
+402,ヤンエグ,yan'egu,youn(g) ex(ecutive),young executive,young athlete,senior manager,office trainee
+403,ユニットバス,yunittobasu,unit bath,modular bathroom,hotel bathroom,public bath,shower room
+404,Uターンラッシュ,yūtānrasshu,U-turn rush,return-traffic rush,holiday traffic,commute to work,airport rush
+405,ナルシスト,narushisuto,narcissist,narcissist,optimist,pessimist,perfectionist

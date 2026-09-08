@@ -246,7 +246,7 @@ function renderStats(stats) {
 
         statsElement.className = 'answer-stats';
 
-        statsElement.textContent = ` ${percentage}%`;
+        statsElement.textContent = ` (${percentage}%)`;
 
         answerText.appendChild(statsElement);
     });
@@ -274,7 +274,7 @@ async function choose(selected, row, answerId) {
     });
 
     const origin = row.origin
-        ? `<span class="origin">origin: ${row.origin}</span>`
+        ? `<span class="origin">Origin: ${row.origin}</span>`
         : '';
 
     if (selected === state.correct) {

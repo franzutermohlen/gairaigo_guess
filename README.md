@@ -13,7 +13,7 @@ The game is designed as a lightweight static web application with a small server
 
 ## Features
 
-* Multiple-choice quiz using Japanese gairaigo and wasei-eigo terms
+* Multiple-choice quiz using gairaigo derived from English and wasei-eigo
 * Four possible answers per question
 * Randomized question order
 * Randomized answer order
@@ -48,8 +48,7 @@ The application has three main components:
               │                              │
               │ english_gairaigo_and_        │
               │ wasei_eigo_terms.csv         │
-              └──────────────────────────────┘
-
+              └────────────────┬─────────────┘
                                │
                                │ POST /api/answer
                                │ GET /api/stats/:id
@@ -312,38 +311,11 @@ Development/deployment commands.
 
 ## Prerequisites
 
-Install:
-
-* Node.js
-* npm
-
-The project uses the Wrangler CLI to run and deploy the application.
-
-Install dependencies:
+Install the dependencies (Node.js, npm):
 
 ```bash
-npm install
+make install
 ```
-
----
-
-## Run Locally
-
-Start the local development server:
-
-```bash
-make dev
-```
-
-The application will normally be available at:
-
-```text
-http://localhost:8787
-```
-
-The local development environment uses a **local D1 database**, rather than the production database.
-
-This is intentional: local testing should not modify production statistics.
 
 ---
 
@@ -367,6 +339,26 @@ Expected tables include:
 answer_stats
 responses
 ```
+
+---
+
+## Run Locally
+
+Start the local development server:
+
+```bash
+make dev
+```
+
+The application will normally be available at:
+
+```text
+http://localhost:8787
+```
+
+The local development environment uses the local D1 database created by `make db-init-local` rather than the production database.
+
+This is intentional: local testing should not modify production statistics.
 
 ---
 
@@ -438,7 +430,7 @@ npx wrangler login
 Create the production database:
 
 ```bash
-npx wrangler d1 create gairaigo-guess-db
+make db-create-remote
 ```
 
 Cloudflare will return a database ID.
@@ -675,31 +667,21 @@ make deploy        # Deploy to Cloudflare Workers
 ## Database
 
 ```bash
-make db-init-local     # Initialize the local D1 database
-make db-init-remote    # Initialize the production D1 database
+make db-create-remote  # Create production Cloudflare D1 database and return database_id
+make db-init-local     # Create and initialize local D1 database
+make db-init-remote    # Initialize production D1 database
 
 make db-tables-local   # List local database tables
 make db-tables-remote  # List production database tables
 
 make db-stats-local    # View local answer statistics
 make db-stats-remote   # View production answer statistics
+
+make db-clear-local    # Clear all test data from local database
+make db-clear-remote   # Clear all answer data from production database
+
+make clean-local       # Remove all local Wrangler/D1 development state
 ```
-
-## Clear Database
-
-To clear test data from the local database:
-
-```bash
-make db-clear-local
-```
-
-To clear all answer data from the production database:
-
-```bash
-make db-clear-remote
-```
-
-The production command requires explicit confirmation before deleting data.
 
 # Data Sources & Attribution
 

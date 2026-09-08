@@ -1,10 +1,10 @@
 .PHONY: install dev deploy \
-        db-init-local db-init-remote \
-        db-tables-local db-tables-remote \
-        db-stats-local db-stats-remote \
-        db-count-responses-local db-count-responses-remote \
-        db-clear-local db-clear-remote \
-        clean
+		db-create-remote \
+		db-init-local db-init-remote \
+		db-tables-local db-tables-remote \
+		db-stats-local db-stats-remote \
+		db-clear-local db-clear-remote \
+		clean-local
 
 # ----------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 # ----------------------------------------------------------------------
 
 install:
-	npm install
+	brew install node && npm install
 
 dev:
 	npx wrangler dev
@@ -23,10 +23,16 @@ deploy:
 
 # ----------------------------------------------------------------------
 
-# Database initialization
+# Database creation and initialization
 
 # ----------------------------------------------------------------------
 
+# Note: This creates the production Cloudflare D1 database and returns the database_id,
+#	    which must then be added to wrangler.jsonc
+db-create-remote:
+	npx wrangler d1 create gairaigo-guess-db
+
+# Note: This also creates the local D1 database (there is no need for db-create-local)
 db-init-local:
 	npx wrangler d1 execute gairaigo-guess-db --local --file=./schema.sql
 
@@ -68,8 +74,7 @@ db-clear-local:
 
 db-clear-remote:
 	@echo "WARNING: This will permanently delete all production answer data."
-	@read -p "Continue? [y/N] " confirm &&
-	[ "$$confirm" = "y" ] || exit 1
+	@read -p "Continue? [y/N] " confirm && [ "$$confirm" = "y" ] || exit 1
 	npx wrangler d1 execute gairaigo-guess-db --remote --command="DELETE FROM responses; DELETE FROM answer_stats;"
 
 # ----------------------------------------------------------------------
@@ -78,5 +83,5 @@ db-clear-remote:
 
 # ----------------------------------------------------------------------
 
-clean:
+clean-local:
 	rm -rf .wrangler

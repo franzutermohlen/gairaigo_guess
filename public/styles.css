@@ -347,7 +347,7 @@ h1 span {
     min-height: 55px;
     text-align: center;
     padding: 18px 0 2px;
-    font-size: 13px;
+    font-size: 25px;
     font-weight: 700;
 }
 
@@ -361,8 +361,8 @@ h1 span {
 
 .origin {
     display: block;
-    color: var(--muted);
-    font-size: 11px;
+    color: var(--ink);
+    font-size: 25px;
     font-weight: 500;
     margin-top: 5px;
 }

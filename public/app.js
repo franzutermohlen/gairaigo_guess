@@ -4,6 +4,7 @@ const state = {
     index: 0,
     score: 0,
     answered: false,
+    finished: false,
     correct: 0,
     currentAnswers: [],
 };
@@ -317,15 +318,31 @@ async function choose(selected, row, answerId) {
     }
 }
 
-function next() {
-    state.index += 1;
+function finish() {
+    state.finished = true;
 
-    if (state.index >= state.rows.length) {
-        state.index = 0;
-        state.order = shuffle(
-            state.rows.map((_, i) => i),
-        );
+    status('You completed all the words.', 'good');
+
+    [...$('answers').children].forEach((button) => {
+        button.disabled = true;
+    });
+
+    $('next').disabled = true;
+    $('skip').disabled = true;
+    $('next').textContent = 'Complete';
+}
+
+function next() {
+    if (state.finished) {
+        return;
     }
+
+    if (state.index >= state.rows.length - 1) {
+        finish();
+        return;
+    }
+
+    state.index += 1;
 
     render();
 }
@@ -339,9 +356,16 @@ $('show-romaji').addEventListener('change', (event) => {
 });
 
 document.addEventListener('keydown', (e) => {
-    if (['1', '2', '3', '4'].includes(e.key)) {
+    const key = e.key.toUpperCase();
+    const answerKeys = ['A', 'B', 'C', 'D'];
+    const numericKeys = ['1', '2', '3', '4'];
+
+    if (answerKeys.includes(key) || numericKeys.includes(key)) {
         const buttons = [...$('answers').children];
-        const button = buttons[Number(e.key) - 1];
+        const answerIndex = answerKeys.includes(key)
+            ? answerKeys.indexOf(key)
+            : Number(key) - 1;
+        const button = buttons[answerIndex];
 
         if (button) {
             button.click();

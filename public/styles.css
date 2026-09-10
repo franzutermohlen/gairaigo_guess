@@ -46,7 +46,6 @@ button {
 .shell {
     width: min(1120px, calc(100% - 48px));
     margin: auto;
-    padding: 11px 0 16px;
     position: relative;
 }
 
@@ -60,8 +59,85 @@ footer {
 }
 
 .topbar {
-    /* border-bottom: 1px solid var(--line); */
-    padding-bottom: 11px;
+    position: relative;
+    min-height: 70px;
+    display: grid;
+    grid-template-columns: minmax(200px, 1fr) auto minmax(200px, 1fr);
+    align-items: center;
+    padding: 10px 0 10px;
+}
+
+.brand {
+    grid-column: 1;
+    justify-self: start;
+    padding: 0 2px;
+}
+
+.gairaigo-help {
+    grid-column: 2;
+    position: relative;
+    justify-self: center;
+}
+
+.gairaigo-help-button {
+    height: 58px;
+    display: flex;
+    align-items: center;
+    padding: 0 18px;
+    border: 1px solid var(--line);
+    background: var(--paper);
+    color: var(--muted);
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+
+.gairaigo-help-button:hover {
+    color: var(--darkcoral);
+    border-color: var(--coral);
+    background: var(--card);
+}
+
+.gairaigo-help-panel {
+    position: absolute;
+    top: calc(100% + 10px);
+    left: 50%;
+    width: min(485px, calc(100vw - 80px));
+    transform: translateX(-50%);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+    background: var(--card);
+    border: 1px solid var(--line);
+    box-shadow: 0 12px 50px rgba(53, 45, 31, 0.12);
+    padding: 16px 20px;
+    color: var(--ink);
+    font: 16px Manrope, sans-serif;
+    line-height: 1.55;
+    z-index: 3;
+}
+
+.gairaigo-help:hover .gairaigo-help-panel,
+.gairaigo-help:focus-within .gairaigo-help-panel {
+    opacity: 1;
+    visibility: visible;
+}
+
+.gairaigo-help-panel p {
+    margin: 0 0 10px;
+}
+
+.gairaigo-help-panel p:last-child {
+    margin-bottom: 0;
+}
+
+.gairaigo-help-panel strong {
+    color: var(--darkcoral);
+}
+
+.gairaigo-help-panel .example {
+    color: var(--coral);
+    font-weight: 700;
 }
 
 .brand {
@@ -96,7 +172,7 @@ footer {
 }
 
 .brand em {
-    color: var(--coral);
+    color: var(--darkcoral);
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
@@ -158,13 +234,12 @@ h1 span {
 
 .progress {
     width: 255px;
-    padding-bottom: 5px;
 }
 
 .progress small {
     display: block;
     color: var(--muted);
-    margin-bottom: 11px;
+    margin-bottom: 5px;
 }
 
 .progress > div {
@@ -181,6 +256,23 @@ h1 span {
     transition: width 0.4s;
 }
 
+.score-panel {
+    min-width: 110px;
+    min-height: 34px;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 18px
+}
+
+.score-panel #score {
+    color: var(--ink);
+    font-weight: 700;
+    font-size: 18px;
+}
+
 .card {
     background: var(--card);
     border: 1px solid #e3ded4;
@@ -192,6 +284,10 @@ h1 span {
 .card-head {
     border-bottom: 1px solid var(--line);
     padding-bottom: 10px;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 18px;
 }
 
 .card-head > span {
@@ -199,15 +295,15 @@ h1 span {
 }
 
 .card-head .progress {
-    flex: 1;
-    max-width: 255px;
+    width: 255px;
+    justify-self: start;
 }
 
 .card-head button {
     border: 0;
     background: none;
     color: var(--muted);
-    font-size: 12px;
+    font: 18px 'DM Mono', monospace;
     cursor: pointer;
 }
 
@@ -223,7 +319,8 @@ h1 span {
 .card-actions {
     display: flex;
     align-items: center;
-    gap: 18px;
+    justify-content: flex-end;
+    gap: 50px;
 }
 
 .toggle {
@@ -231,12 +328,12 @@ h1 span {
     align-items: center;
     gap: 6px;
     color: var(--muted);
-    font: 11px 'DM Mono', monospace;
+    font: 18px 'DM Mono', monospace;
     cursor: pointer;
 }
 
 .toggle input {
-    accent-color: var(--coral);
+    accent-color: var(--darkcoral);
     cursor: pointer;
 }
 

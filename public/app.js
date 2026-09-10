@@ -142,9 +142,6 @@ function render() {
 
     $('current').textContent = state.index + 1;
 
-    $('round').textContent =
-        `ROUND ${String(state.index + 1).padStart(2, '0')}`;
-
     $('bar').style.width =
         `${((state.index + 1) / state.rows.length) * 100}%`;
 
@@ -356,11 +353,23 @@ $('show-romaji').addEventListener('change', (event) => {
 });
 
 document.addEventListener('keydown', (e) => {
+    const activeTag = document.activeElement?.tagName;
+    const isTypingTarget =
+        activeTag === 'INPUT' ||
+        activeTag === 'TEXTAREA' ||
+        activeTag === 'SELECT';
+
+    if (e.ctrlKey || e.metaKey || e.altKey || e.shiftKey || isTypingTarget) {
+        return;
+    }
+
     const key = e.key.toUpperCase();
     const answerKeys = ['A', 'B', 'C', 'D'];
     const numericKeys = ['1', '2', '3', '4'];
 
     if (answerKeys.includes(key) || numericKeys.includes(key)) {
+        e.preventDefault();
+
         const buttons = [...$('answers').children];
         const answerIndex = answerKeys.includes(key)
             ? answerKeys.indexOf(key)
@@ -373,6 +382,7 @@ document.addEventListener('keydown', (e) => {
     }
 
     if (e.key === 'Enter' && !$('next').disabled) {
+        e.preventDefault();
         next();
     }
 });

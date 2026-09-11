@@ -667,20 +667,23 @@ make deploy        # Deploy to Cloudflare Workers
 ## Database
 
 ```bash
-make db-create-remote  # Create production Cloudflare D1 database and return database_id
-make db-init-local     # Create and initialize local D1 database
-make db-init-remote    # Initialize production D1 database
+make db-create-remote    # Create production Cloudflare D1 database and return database_id
+make db-init-local       # Create and initialize local D1 database
+make db-init-remote      # Initialize production D1 database
 
-make db-tables-local   # List local database tables
-make db-tables-remote  # List production database tables
+make db-tables-local     # List local database tables
+make db-tables-remote    # List production database tables
 
-make db-stats-local    # View local answer statistics
-make db-stats-remote   # View production answer statistics
+make db-stats-local      # View local answer statistics
+make db-stats-remote     # View production answer statistics
 
-make db-clear-local    # Clear all test data from local database
-make db-clear-remote   # Clear all answer data from production database
+make db-feedback-local   # View local feedback
+make db-feedback-remote  # View production feedback
 
-make clean-local       # Remove all local Wrangler/D1 development state
+make db-clear-local      # Clear all test data from local database
+make db-clear-remote     # Clear all answer data from production database
+
+make clean-local         # Remove all local Wrangler/D1 development state
 ```
 
 # Data Sources & Attribution

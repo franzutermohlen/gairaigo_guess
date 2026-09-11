@@ -118,6 +118,82 @@ async function handleAnswer(request, env) {
     });
 }
 
+async function handleFeedback(request, env) {
+    let body;
+
+    try {
+        body = await request.json();
+    } catch {
+        return json(
+            { error: 'Invalid JSON' },
+            400,
+        );
+    }
+
+    const questionId =
+        body.questionId === null ||
+        body.questionId === undefined
+            ? null
+            : Number(body.questionId);
+
+    const feedbackType = body.feedbackType;
+    const message =
+        typeof body.message === 'string'
+            ? body.message.trim()
+            : '';
+
+    const allowedFeedbackTypes = new Set([
+        'question_issue',
+        'bug',
+        'suggestion',
+        'other',
+    ]);
+
+    if (
+        questionId !== null &&
+        !isValidQuestionId(questionId)
+    ) {
+        return json(
+            { error: 'Invalid question ID' },
+            400,
+        );
+    }
+
+    if (!allowedFeedbackTypes.has(feedbackType)) {
+        return json(
+            { error: 'Invalid feedback type' },
+            400,
+        );
+    }
+
+    if (
+        message.length === 0 ||
+        message.length > 2000
+    ) {
+        return json(
+            { error: 'Feedback must be between 1 and 2000 characters' },
+            400,
+        );
+    }
+
+    await env.DB.prepare(`
+        INSERT INTO feedback (
+            question_id,
+            feedback_type,
+            message
+        )
+        VALUES (?, ?, ?)
+    `).bind(
+        questionId,
+        feedbackType,
+        message,
+    ).run();
+
+    return json({
+        success: true,
+    });
+}
+
 async function handleStats(questionId, env) {
     if (!isValidQuestionId(questionId)) {
         return json(
@@ -187,6 +263,16 @@ export default {
                 request.method === 'POST'
             ) {
                 return await handleAnswer(
+                    request,
+                    env,
+                );
+            }
+
+            if (
+                url.pathname === '/api/feedback' &&
+                request.method === 'POST'
+            ) {
+                return await handleFeedback(
                     request,
                     env,
                 );

@@ -276,7 +276,7 @@ async function choose(selected, row, answerId) {
         : '';
 
     if (selected === state.correct) {
-        state.score += 100;
+        state.score += 1;
 
         $('score').textContent = state.score;
 
@@ -313,6 +313,75 @@ async function choose(selected, row, answerId) {
         const stats = await loadStats(questionId);
         renderStats(stats);
     }
+}
+
+async function submitFeedback(questionId, feedbackType, message) {
+    try {
+        const response = await fetch('/api/feedback', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                questionId,
+                feedbackType,
+                message,
+            }),
+        });
+
+        if (!response.ok) {
+            throw new Error('Could not submit feedback');
+        }
+
+        return await response.json();
+    } catch (error) {
+        console.error('Could not submit feedback:', error);
+        return null;
+    }
+}
+
+function openFeedback() {
+    $('feedback-modal').hidden = false;
+    $('feedback-status').textContent = '';
+    $('feedback-message').focus();
+}
+
+function closeFeedback() {
+    $('feedback-modal').hidden = true;
+    $('feedback-status').textContent = '';
+}
+
+async function handleFeedbackSubmit(event) {
+    event.preventDefault();
+
+    const feedbackType = $('feedback-type').value;
+    const message = $('feedback-message').value.trim();
+
+    if (!message) {
+        return;
+    }
+
+    const row = state.rows[state.order[state.index]];
+    const questionId = row ? Number(row.id) : null;
+
+    $('feedback-status').textContent = 'Sending...';
+
+    const result = await submitFeedback(
+        questionId,
+        feedbackType,
+        message,
+    );
+
+    if (!result) {
+        $('feedback-status').textContent =
+            'Sorry, your feedback could not be submitted. Please try again.';
+        return;
+    }
+
+    $('feedback-status').textContent =
+        'Thanks! Your feedback has been submitted.';
+
+    $('feedback-form').reset();
 }
 
 function finish() {
@@ -352,6 +421,21 @@ $('show-romaji').addEventListener('change', (event) => {
     $('romaji').hidden = !event.target.checked;
 });
 
+$('feedback-button').addEventListener('click', openFeedback);
+
+$('feedback-close').addEventListener('click', closeFeedback);
+
+$('feedback-form').addEventListener(
+    'submit',
+    handleFeedbackSubmit,
+);
+
+$('feedback-modal').addEventListener('click', (event) => {
+    if (event.target === $('feedback-modal')) {
+        closeFeedback();
+    }
+});
+
 document.addEventListener('keydown', (e) => {
     const activeTag = document.activeElement?.tagName;
     const isTypingTarget =
@@ -360,6 +444,15 @@ document.addEventListener('keydown', (e) => {
         activeTag === 'SELECT';
 
     if (e.ctrlKey || e.metaKey || e.altKey || e.shiftKey || isTypingTarget) {
+        return;
+    }
+
+    if (
+        e.key === 'Escape' &&
+        !$('feedback-modal').hidden
+    ) {
+        e.preventDefault();
+        closeFeedback();
         return;
     }
 

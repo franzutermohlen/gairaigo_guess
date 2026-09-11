@@ -1,26 +1,26 @@
 id,japanese,romaji,origin,correct,fake1,fake2,fake3
 1,OB/OG,OB (ōbī)/OG (ōjī),old boy/old girl,alumnus/alumna,popular boy/popular girl,only child (male/female),all-boys school/all-girls school
 4,アイスクリーム,aisukurīmu,ice cream,ice cream,sorbet,scream,shocked facial expression
-6,アーカイブ,ākaibu,archive,archive,index,cherry,açaí berry
-1,アフレコ,afureko,af(ter) + recor(ding),dubbing,Africa,subtitles,remix
-230,パーマ,pāma,perma(nent wave),perm,parmesan cheese,pummel,tattoo
+6,アーカイブ,ākaibu,archive,archive,chives,cherry,açaí berry
+1,アフレコ,afureko,af(ter) recor(ding). (Note: ),post-production dubbing (dialogue or sounds),subtitles,remix,Africa
+230,パーマ,pāma,perma(nent wave),perm,parmesan cheese,pummel,permanent tattoo
 230,チョコレート,chokorēto,chocolate,chalk,brown,dark
-
-
+136,ジーパン,jīpan,jea(ns) + pan(ts),jeans,thong,frying pan,G-force
 3,アイドル,aidoru,idol,pop idol,door,door peephole,altar
 2,アフターサービス,afutāsābisu,after service,after-sales service,customer discount,product recall,price after savings
 8,アメリカンドッグ,amerikandoggu,American dog,corn dog,hot dog,American dog,Boston Terrier (dog breed)
-5,アイスキャンディー,aisukyandī,ice candy,popsicle,ice cream cone,frozen yogurt,frozen sorbet
-7,アメフト,amefuto,Ame(rican) foot(ball),American football,rugby,soccer,baseball
+5,アイスキャンディー,aisukyandī,ice candy,popsicle,ice cream cone,frozen yogurt,sorbet
+7,アメフト,amefuto,Ame(rican) foot(ball),American football,soccer,rugby,baseball
 9,アニメ,anime,anima(tion),animation,video game,excited,spirit
-10,アニソン,anison,ani(me) + son(g),anime song,pop song,game soundtrack,happy birthday (song)
-11,アンジェル,anjeru,angel,angel,fairy,saint,cherub
-12,アンサー,ansā,answer,answer,question,reply,explanation
-13,アンチ,anchi,anti-,anti-fan,critic,skeptic,supporter
-14,アパート,apāto,apart(ment),apartment,apart,part,about
-14,ホテル,hoteru,hotel,hotel,house,mansion,hot
-15,アポ,apo,appo(intment),appointment,apple,interview,invitation
-16,アップル,appuru,apple,apple,pear,peach,lemon
+10,アニソン,anison,ani(me) son(g),anime song,anise,game soundtrack,happy birthday song
+13,アンチ,anchi,anti(-fan),hater,American cheese,lactose intolerant,chicken wings
+14,ランチ,ranchi,lunch,lunch,rancid,ranch chicken,raunchy
+14,アパート,apāto,apart(ment),apartment,apart,part,mansion
+14,ホテル,hoteru,hotel,hotel,house,mansion,hut
+107,ハンドルキーパー,handorukīpā,handle keeper ('handle' here means 'steering wheel'),designated driver,valet parking,groundskeeper,housekeeper
+108,センチ,senchi,centi(meter),centimeter,centipede,center,send
+15,アポ,apo,appo(intment),appointment,apple,apostrophe,airport
+
 17,アプリ,apuri,app(lication),app,program,website,device
 18,アールブイ,ārubui,RV,recreational vehicle,pickup truck,minivan,camper trailer
 19,アルコール,arukōru,alcohol,alcohol,medicine,perfume,gasoline
@@ -47,11 +47,10 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 40,ビル,biru,buil(ding),building,bridge,tower,warehouse
 41,ボールペン,bōrupen,ball(point) pen,ballpoint pen,fountain pen,pencil,marker
 42,ブレザー,burezā,blazer,blazer,jacket,vest,uniform
-43,ブルマ,buruma,bloomers,gym shorts,leggings,swimsuit,track pants
-44,キャビンアテンダント,kyabin'atendanto,cabin attendant,flight attendant,pilot,airport agent,travel guide
+44,キャビンアテンダント,kyabinatendanto,cabin attendant,flight attendant,pilot,airport agent,travel guide
 45,チャージ,chāji,charge,to top up,to withdraw,to transfer,to refund
 46,チャレンジ,charenji,challenge,attempt,warning,defeat,argument
-47,チェンジレバー,chenjirebā,change + lever,gearshift,brake pedal,steering wheel,clutch
+47,チェンジレバー,chenjirebā,change lever,gearshift,brake pedal,steering wheel,clutch
 48,チェリーボーイ,cherībōi,cherry boy,male virgin,bachelor,young man,newlywed
 49,チアガール,chiagāru,cheer girl,cheerleader,dancer,coach,mascot
 50,コラボ,korabo,collab(orations),collaboration,competition,translation,imitation
@@ -61,12 +60,12 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 54,ダンプカー,danpukā,dump car,dump truck,fire truck,tow truck,cement mixer
 55,ダストボックス,dasutobokkusu,dust box,trash can,recycling bin,storage box,toolbox
 56,ダストシュート,dasutoshūto,dust chute,garbage chute,stairwell,air duct,drainpipe
-57,ダッチワイフ,datchiwaifu,Dutch + wife,sex doll,mannequin,stuffed animal,dollhouse
+57,ダッチワイフ,datchiwaifu,Dutch wife,sex doll,mannequin,stuffed animal,dollhouse
 58,デフォルト,deforuto,default,default setting,backup setting,custom setting,hidden option
 59,デコレーションケーキ,dekorēshonkēki,decoration cake,decorated cake,cheesecake,sponge cake,fruit tart
 60,デパート,depāto,depart(ment store),department store,supermarket,shopping mall,convenience store
 61,デスク,desuku,desk,desk,chair,counter,office
-62,ドアカット,doakatto,door + cut,selective door opening,automatic doors,emergency exit,platform gate
+62,ドアカット,doakatto,door cut,selective door opening,automatic doors,emergency exit,platform gate
 63,ドクターストップ,dokutāsutoppu,doctor stop,doctor's order,medical test,hospital visit,prescription
 64,ドンマイ,donmai,don('t) mi(nd),don't worry,good luck,nice try,well done
 65,ドライバー,doraibā,driver,screwdriver,hammer,wrench,pliers
@@ -112,7 +111,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 105,ハンバーガー,hanbāgā,hamburger,handbag,backpack,handkerchief
 105,ハンバーグ,hanbāgu,hamburg(er steak),hamburger steak,meatloaf,meatball,steak sandwich
 106,ハンドル,handoru,handle,steering wheel,gear lever,brake pedal,hand
-107,ハンドルキーパー,handorukīpā,handle keeper,designated driver,valet parking,groundskeeper,housekeeper
 108,ハンカチ,hankachi,han(d)kerchie(f),handkerchief,napkin,scarf,hamburger
 109,ハンスト,hansuto,hun(ger) st(rike),hunger strike,fast food,hunger pangs,food shortage
 110,ハザードランプ,hazādoranpu,hazard lamp,emergency lights (vehicle),gas lamp,electric lamp,offramp
@@ -129,7 +127,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 121,ホワイト,howaito,white,white,black,silver,beige
 122,ブラック,burakku,black,black,navy,brown,gray
 123,イメージ,imēji,image,mental image,memory,idea,photograph
-124,イメージクラブ,imējikurabu,image + club,themed brothel,photo studio,costume shop,nightclub
+124,イメージクラブ,imējikurabu,image club,themed brothel,photo studio,costume shop,nightclub
 125,インスタ,insuta,Insta(gram),Instagram,instantly,fast,investigator
 126,インフレ,infure,infla(tion),inflation,recession,deflation,unemployment
 127,インキー,inkī,in key,lock yourself out,inquire,sing in key,unlock a door
@@ -139,9 +137,8 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 131,ジャンプ,janpu,jump,jump,fall,spin,slide
 132,ジェンダーフリー,jendāfurī,gender free,gender-neutral,gender-specific,gender identity,male-only
 133,ジェットコースター,jettokōsutā,jet coaster,roller coaster,water slide,ferris wheel,bumper cars
-134,ジングルベル,jinguruberu,jingle + bell,Jingle Bells,Silent Night,Deck the Halls,Winter Wonderland
+134,ジングルベル,jinguruberu,jingle bell,Jingle Bells,Silent Night,Deck the Halls,Winter Wonderland
 135,ジレンマ,jirenma,dilemma,dilemma,paradox,theory,controversy
-136,ジーパン,jīpan,jea(ns) + pan(ts),jeans,trousers,shorts,overalls
 137,ジープ,jīpu,Jeep,Jeep,pickup truck,sedan,minivan
 138,ジュース,jūsu,juice,juice,soda,milk,tea
 139,カメラマン,kameraman,cameraman,photographer,journalist,filmmaker,designer
@@ -221,7 +218,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 215,オブ,obu,of,of,from,with,for
 216,オーダーメード,ōdāmēdo,order + made,custom-made,ready-made,secondhand,hand-me-down
 217,オーディエンス,ōdiensu,audience,audience,performer,producer,host
-218,オーエル,ōeru,O.L. office lady,female office worker,office manager,receptionist,executive
+218,オーエル,ōeru, OL (office lady),female office worker,office manager,receptionist,executive
 219,オフ,ofu,off,sale,closure,holiday,discount coupon
 220,オフヴォーカル,ofuvōkaru,off + vocal,instrumental backing track,vocal solo,live recording,acoustic version
 221,オイルショック,oirushokku,oil + shock,oil crisis,energy surplus,gas shortage,stock market crash
@@ -338,7 +335,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 333,テレビゲーム,terebigēmu,televi(sion) game,video game,board game,arcade machine,card game
 334,テレフォン,terefon,telephone,telephone,telegraph,intercom,radio
 335,テレカ,tereka,tele(phone) ca(rd),prepaid phone card,credit card,ID card,train pass
-336,ティーンエージャー,tīn'ējā,teenager,teenager,child,adult,college professor
+336,ティーンエージャー,tīnējā,teenager,teenager,child,adult,college professor
 337,トイレ,toire,toilet,restroom,bathroom,kitchen,bedroom
 338,タン,tan,tongue,beef tongue,liver,beef cheek,pork belly
 339,トマト,tomato,tomato,tomato,potato,onion,pepper
@@ -362,7 +359,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 357,ワープロ,wāpuro,wor(d) pro(cessor),word processor,typewriter,printer,spreadsheet
 358,ウォシュレット,woshuretto,washlet,washlet toilet,bidet,automatic faucet,shower
 359,ヨット,yotto,yacht,yacht,sailboat,canoe,ferry
-360,ヤンエグ,yan'egu,youn(g) ex(ecutive),young executive,young athlete,senior manager,office trainee
+360,ヤンエグ,yanegu,youn(g) ex(ecutive),young executive,young athlete,senior manager,office trainee
 361,ユニットバス,yunittobasu,unit bath,modular bathroom,hotel bathroom,public bath,shower room
 362,Uターンラッシュ,yūtānrasshu,U-turn rush,return-traffic rush,holiday traffic,commute to work,airport rush
 363,ナルシスト,narushisuto,narcissist,narcissist,narcotic,pessimist,perfectionist

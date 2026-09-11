@@ -38,3 +38,26 @@ CREATE TABLE IF NOT EXISTS answer_stats (
 
     CHECK (count >= 0)
 );
+
+CREATE TABLE IF NOT EXISTS feedback (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    question_id INTEGER,
+    feedback_type TEXT NOT NULL,
+    message TEXT NOT NULL,
+    created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+
+    CHECK (
+        feedback_type IN (
+            'question_issue',
+            'bug',
+            'suggestion',
+            'other'
+        )
+    )
+);
+
+CREATE INDEX IF NOT EXISTS idx_feedback_created_at
+ON feedback(created_at);
+
+CREATE INDEX IF NOT EXISTS idx_feedback_question
+ON feedback(question_id);

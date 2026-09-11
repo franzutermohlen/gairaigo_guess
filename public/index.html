@@ -30,9 +30,33 @@
       <div class="answers" id="answers"></div>
       <div class="feedback" id="feedback" role="status" aria-live="polite"></div>
       <button class="next" id="next" type="button" disabled>Next word <b>→</b></button>
+      <div class="feedback-section">
+        <button id="feedback-button" type="button">Give Feedback</button>
+      </div>
     </section>
     <footer>Footer here</footer>
   </main>
+  <div id="feedback-modal" class="feedback-modal" hidden>
+    <div class="feedback-dialog" role="dialog" aria-modal="true" aria-labelledby="feedback-title">
+      <div class="feedback-header">
+        <h2 id="feedback-title">Give Feedback</h2>
+        <button id="feedback-close" class="feedback-close" type="button" aria-label="Close feedback form">×</button>
+      </div>
+      <form id="feedback-form">
+        <label for="feedback-type">What is this about?</label>
+        <select id="feedback-type" name="feedbackType" required>
+          <option value="question_issue">Question or answer issue</option>
+          <option value="bug">Bug or technical problem</option>
+          <option value="suggestion">Suggestion</option>
+          <option value="other">Other</option>
+        </select>
+        <label for="feedback-message">Feedback</label>
+        <textarea id="feedback-message" name="message" rows="5" maxlength="2000" placeholder="Tell us what you found..." required></textarea>
+        <button type="submit">Submit Feedback</button>
+        <p id="feedback-status" class="feedback-status" role="status" aria-live="polite"></p>
+      </form>
+    </div>
+  </div>
   <script src="app.js"></script>
 </body>
 </html>

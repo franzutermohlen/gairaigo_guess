@@ -3,6 +3,7 @@
 		db-init-local db-init-remote \
 		db-tables-local db-tables-remote \
 		db-stats-local db-stats-remote \
+		db-feedback-local db-feedback-remote \
 		db-clear-local db-clear-remote \
 		clean-local
 
@@ -62,6 +63,12 @@ db-count-responses-local:
 
 db-count-responses-remote:
 	npx wrangler d1 execute gairaigo-guess-db --remote --command="SELECT COUNT(*) FROM responses;"
+
+db-feedback-local:
+	npx wrangler d1 execute gairaigo-guess-db --local --command="SELECT id, question_id, feedback_type, message, created_at FROM feedback ORDER BY created_at DESC;"
+
+db-feedback-remote:
+	npx wrangler d1 execute gairaigo-guess-db --remote --command="SELECT id, question_id, feedback_type, message, created_at FROM feedback ORDER BY created_at DESC;"
 
 # ----------------------------------------------------------------------
 

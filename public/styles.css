@@ -23,6 +23,7 @@ body {
     color: var(--ink);
     background: var(--paper);
     font-family: Manrope, sans-serif;
+    min-height: 100vh;
 }
 
 body:before {
@@ -571,14 +572,69 @@ footer {
 
 footer {
     color: var(--muted);
-    font-size: 9px;
+    font-size: 14px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    padding-top: 23px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 footer span:last-child {
     color: #a49e91;
+    display: flex;
+    gap: 26px;
+    align-items: center;
+}
+
+footer a {
+    color: var(--muted);
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: var(--darkcoral);
+}
+
+.page-card {
+    padding: 28px 42px 36px;
+}
+
+.page-title {
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+}
+
+.page-title h1 {
+    margin: 0;
+    color: var(--ink);
+    font-size: clamp(34px, 5vw, 44px);
+    line-height: 1.2;
+    letter-spacing: -0.03em;
+}
+
+.page-content {
+    color: var(--ink);
+}
+
+.page-section {
+    margin: 0 0 22px;
+}
+
+.page-section h2 {
+    color: var(--darkcoral);
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.page-section p {
+    margin: 0 0 12px;
+    line-height: 1.7;
+    font-size: 16px;
+}
+
+.page-section em {
+    font-style: italic;
 }
 
 @keyframes rise {

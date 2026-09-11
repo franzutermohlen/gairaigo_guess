@@ -9,22 +9,7 @@ Each round presents a Japanese term and its Hepburn romanization along with four
 
 The game is designed as a lightweight static web application with a small server-side component for collecting anonymous answer statistics.
 
----
-
-## Features
-
-* Multiple-choice quiz using gairaigo derived from English and wasei-eigo
-* Four possible answers per question
-* Randomized question order
-* Randomized answer order
-* Score tracking
-* Question progress indicator
-* Keyboard shortcuts (`1`–`4` to select an answer)
-* `Enter` to advance to the next question
-* Ability to skip questions
-* Explanation/origin information when available
-* Anonymous aggregate statistics showing how other players answered
-* No user accounts or authentication required
+**Author:** Franz Utermohlen
 
 ---
 
@@ -696,7 +681,7 @@ The data has been adapted, formatted, and supplemented as necessary for use in t
 
 The Wikipedia article and its contributors should be credited separately from the original code of this project. See the [Wikipedia licensing information](https://en.wikipedia.org/wiki/Wikipedia:Copyrights) for the applicable terms governing Wikipedia content.
 
-# Development
+# Development Assistance
 
 This project was developed with the assistance of:
 

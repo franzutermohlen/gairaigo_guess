@@ -2,7 +2,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 1,OB/OG,OB (ōbī)/OG (ōjī),old boy/old girl,alumnus/alumna,popular boy/popular girl,only child (male/female),all-boys school/all-girls school
 2,アイスクリーム,aisukurīmu,ice cream,ice cream,sorbet,scream,shocked facial expression
 3,アーカイブ,ākaibu,archive,archive,chives,cherry,açaí berry
-4,アフレコ,afureko,af(ter) recor(ding). (Note: ),post-production dubbing (dialogue or sounds),subtitles,remix,Africa
+4,アフレコ,afureko,af(ter) recor(ding),post-production dubbing (dialogue or sounds),subtitles,remix,Africa
 5,パーマ,pāma,perma(nent wave),perm,parmesan cheese,pummel,permanent tattoo
 6,チョコレート,chokorēto,chocolate,chalk,brown,dark
 7,ジーパン,jīpan,jea(ns) + pan(ts),jeans,thong,frying pan,G-force
@@ -19,44 +19,55 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 18,ホテル,hoteru,hotel,hotel,house,mansion,hut
 19,ハンドルキーパー,handorukīpā,handle keeper ('handle' here means 'steering wheel'),designated driver,valet parking,groundskeeper,housekeeper
 20,センチ,senchi,centi(meter),centimeter,centipede,center,send
-21,アポ,apo,appo(intment),appointment,apple,apostrophe,airport
-22,アプリ,apuri,app(lication),app,apricot,apple,apartment
-23,アルコール,arukōru,alcohol,alcohol,chorus,a cappella,record
-24,バーゲン,bāgen,bargain,bargain sale,bagel,coupon,refund
-25,バイキング,baikingu,viking,buffet,biking,warrior,helmet
-26,バイク,baiku,bike,motorcycle,bake,pencil,lighter
-27,オートバイ,ōtobai,auto-bi(cycle),motorcycle,autobiography,otter,bye
-28,ブルー,burū,blue,blue,brew,beer,blow
-29,ブルース,burūsu,blues,blues (music),bruise,brew,beer
-30,ブックカバー,bukkukabā,book cover,dust jacket (books),bookmark,booklet,audiobook
-31,レバー,rebā,liver,liver (food),rebel,rebar,level
-32,レベル,reberu,level,level,reverb,party,reverse
-33,ルール,rūru,rule,rule,lure,lore,roar
-34,バックミラー,bakkumirā,back mirror,rearview mirror,side mirror,backup camera,hindsight
-35,バックナンバー,bakkunanbā,back number,back issue (of a publication),license plate,phone number,serial number
-36,バンパー,banpā,bumper,bumper,backpack,bandage,bandmate
-37,バリアフリー,bariafurī,barrier-free,accessible (for people with disabilities and older people),free,cage-free,wild (of an animal)
-38,バター,batā,butter,butter,batter (baseball),batter (food),boot
-39,ベビーカー,bebīkā,baby car,stroller,baby carrier,infant car seat,toy car
+21,メートル,mētoru,meter,meter (unit of length),meteor,meat,metro/subway
+22,アポ,apo,appo(intment),appointment,apple,apostrophe,airport
+23,アプリ,apuri,app(lication),app,apricot,apple,apartment
+24,アルコール,arukōru,alcohol,alcohol,chorus,a cappella,record
+25,バーゲン,bāgen,bargain,bargain sale,bagel,coupon,refund
+26,バイキング,baikingu,viking,buffet,biking,warrior,helmet
+27,バイク,baiku,bike,motorcycle,bake,pencil,lighter
+28,オートバイ,ōtobai,auto-bi(cycle),motorcycle,autobiography,otter,bye
+29,ブルー,burū,blue,blue,brew,beer,blow
+30,ブルース,burūsu,blues,blues (music),bruise,brew,beer
+31,ブックカバー,bukkukabā,book cover,dust jacket (books),bookmark,booklet,audiobook
+32,レバー,rebā,liver,liver (food),rebel,rebar,level
+33,レベル,reberu,level,level,reverb,party,reverse
+34,ルール,rūru,rule,rule,lure,lore,roar
+35,バックミラー,bakkumirā,back mirror,rearview mirror,side mirror,backup camera,hindsight
+36,バックナンバー,bakkunanbā,back number,back issue (of a publication),license plate,phone number,serial number
+37,バンパー,banpā,bumper,bumper,backpack,bandage,bandmate
+38,バリアフリー,bariafurī,barrier-free,accessible (for people with disabilities and older people),free,cage-free,wild (of an animal)
+39,バター,batā,butter,butter,batter (baseball),batter (food),boot
+40,ベビーカー,bebīkā,baby car,stroller,baby carrier,infant car seat,toy car
+41,ページ,pēji,page,page,pig,beige,pager
+42,オレンジ,orenji,orange,orange,orangutan,range,lemon
+43,ベッドタウン,beddotaun,bed town,commuter town,bed sheet,pillow,townhouse
+44,タウンハウス,taunhausu,townhouse,townhouse,small house,town hall,hotel suite
+45,ベジタリアン,bejitarian,vegetarian,vegetarian,vegan,salad,Italian bread
+46,ミルク,miruku,milk,milk,miracle,mirror,market
+47,ビジネス,bijinesu,business,business,auction,Monopoly (game),beginner
+48,ビジホ,bijiho,busi(ness) ho(tel),budget hotel,beginner,widget,beige
+49,ビル,biru,buil(ding),modern building,build,beer,bridge
+50,ビール,bīru,bier (Dutch),beer,build,building,bridge
+51,ボールペン,bōrupen,ball(point) pen,ballpoint pen,bullpen (baseball),marker,bowl
+52,ブレザー,burezā,blazer,blazer,bra,breakfast,hoodie
+53,CA,CA (shīē),cabin attendant,flight attendant,circus animal,valet parking,car rental
+54,チャージ,chāji,charge,to add money to prepaid card,to refund,chart,ChatGPT
+55,チャレンジ,charenji,challenge,to attempt,to defeat,to change,to chant
+56,チェリーボーイ,cherībōi,cherry boy,male virgin,cherry pie,red-haired male,office chair
+57,チアガール,chiagāru,cheer girl,female cheerleader,chia seed,flower girl,female flight attendant
+58,ナッツ,nattsu,nuts,nuts,gnats,seeds,deez
+59,コンピュータ,konpyūta,computer,computer,calculator,television,robot
+60,コラボ,korabo,collabo(ration),collaboration,club,crab,corroboration
+61,ダブル,daburu,double,double,devil,dabble,dribble
+62,シングル,shinguru,single,single,shingles,singer,shin guard
+63,シンガー,shingā,singer,singer,single,shingles,shin guard
+64,ギター,gitā,guitar,guitar,gutter,violin,gold
+65,ダンス,dansu,dance,dance,stupid,dentures,doughnut
+66,ドンマイ,donmai,don('t) mi(nd),don't worry about it,you're welcome,good luck,nice try
+67,キャッチコピー,kyatchikopī,catch copy,slogan,carbon copy,cheat (on an exam),catcher (baseball)
+68,ダンプカー,danpukā,dump car,dump truck,bumper car,tow truck,wet wipe
 
-36,ベッドタウン,beddotaun,bed town,commuter suburb,industrial district,shopping district,holiday resort
-37,ベジタリアン,bejitarian,vegetarian,vegetarian,vegan,omnivore,nutritionist
-38,ビジネス,bijinesu,business,business,auction,backgammon,peach
-39,ビジネスホテル,bijinesuhoteru,business hotel,budget hotel,luxury hotel,hostel,bed-and-breakfast
-40,ビル,biru,buil(ding),building,bridge,tower,warehouse
-41,ボールペン,bōrupen,ball(point) pen,ballpoint pen,fountain pen,pencil,marker
-42,ブレザー,burezā,blazer,blazer,jacket,vest,uniform
-44,キャビンアテンダント,kyabinatendanto,cabin attendant,flight attendant,pilot,airport agent,travel guide
-45,チャージ,chāji,charge,to top up,to withdraw,to transfer,to refund
-46,チャレンジ,charenji,challenge,attempt,warning,defeat,argument
-47,チェンジレバー,chenjirebā,change lever,gearshift,brake pedal,steering wheel,clutch
-48,チェリーボーイ,cherībōi,cherry boy,male virgin,bachelor,young man,newlywed
-49,チアガール,chiagāru,cheer girl,cheerleader,dancer,coach,mascot
-50,コラボ,korabo,collab(orations),collaboration,competition,translation,imitation
-51,コンピュータ,konpyūta,computer,computer,calculator,television,robot
-52,ダブル,daburu,double,double,devil,dabble,dribble
-53,ダンス,dansu,dance,dance,song,exercise,performance
-54,ダンプカー,danpukā,dump car,dump truck,fire truck,tow truck,cement mixer
 55,ダストボックス,dasutobokkusu,dust box,trash can,recycling bin,storage box,toolbox
 56,ダストシュート,dasutoshūto,dust chute,garbage chute,stairwell,air duct,drainpipe
 57,ダッチワイフ,datchiwaifu,Dutch wife,sex doll,mannequin,stuffed animal,dollhouse
@@ -66,7 +77,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 61,デスク,desuku,desk,desk,chair,counter,office
 62,ドアカット,doakatto,door cut,selective door opening,automatic doors,emergency exit,platform gate
 63,ドクターストップ,dokutāsutoppu,doctor stop,doctor's order,medical test,hospital visit,prescription
-64,ドンマイ,donmai,don('t) mi(nd),don't worry,good luck,nice try,well done
 65,ドライバー,doraibā,driver,screwdriver,hammer,wrench,pliers
 66,ドライブイン,doraibuin,drive in,roadside rest stop,parking garage,car wash,gas station
 67,ドラマ,dorama,drama,TV drama,movie,documentary,news report
@@ -144,7 +154,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 140,カモン,kamon,come on,join us,go away,wait here,be quiet
 141,カンニング,kanningu,cunning,cheating,studying,guessing,copying
 143,カシュー,kashū,cashew,cashew,almond,walnut,peanut
-144,ナッツ,nattsu,nuts,nuts,beans,seeds,deez
 145,ピーナッツ,pīnattsu,peanut,peanut,almond,cashew,pistachio
 146,キーホルダー,kīhorudā,key holder,key ring,key card,key case,key cabinet
 147,キスマーク,kisumāku,kiss mark,hickey,bruise,scratch,birthmark
@@ -168,7 +177,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 165,キャンピングカー,kyanpingukā,camping-car,recreational vehicle,tent,caravan park,pickup truck
 166,キャッチボール,kyatchibōru,catch ball,a game of catch,baseball practice,passing game,conversation
 167,キャッチホン,kyatchihon,catch phone,call waiting,caller ID,voicemail,call forwarding
-168,キャッチコピー,kyatchikopī,catch copy,tagline,headline,caption,slogan writer
 169,ランド,rando,land,land,property,ground,farm
 170,マグカップ,magukappu,mug cup,mug,teacup,tumbler,bowl
 171,マイナスドライバー,mainasudoraibā,minus driver,flathead screwdriver,Phillips screwdriver,Allen key,wrench
@@ -189,7 +197,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 186,メタボ,metabo,metabolic,metabolic syndrome,obesity,high blood pressure,diabetes
 187,ミクスチャーロック,mikusuchārokku,mixture + rock,rap-rock,hard rock,punk rock,folk rock
 188,ミニアルバム,miniarubamu,mini + album,EP,single,mixtape,box set
-189,ミルク,miruku,milk,milk,cream,butter,cheese
 190,ミシン,mishin,machine,sewing machine,typewriter,printer,knitting machine
 191,モバイル,mobairu,mobile,mobile device,laptop,desktop computer,landline
 192,モバメ,mobame,mobile + mail,fan mailing service,text message,online forum,news alert
@@ -225,7 +232,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 223,オンリーワン,onrīwan,only one,one-of-a-kind,second-best,limited-time,exclusive member
 224,オープンカー,ōpunkā,open car,convertible,roadster,pickup truck,hatchback
 225,オーライ,ōrai,a(ll) righ(t),all right,go ahead,come back,wait there
-226,オレンジ,orenji,orange,orange,lemon,peach,apricot
 228,パイプカット,paipukatto,pipe cut,vasectomy,appendectomy,circumcision,catheterization
 229,パイン,pain,pine(apple),pineapple,pine nut,coconut,mango
 231,パネリスト,panerisuto,panelist,panelist,moderator,audience member,reporter

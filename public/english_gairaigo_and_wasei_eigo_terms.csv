@@ -1,45 +1,44 @@
 id,japanese,romaji,origin,correct,fake1,fake2,fake3
 1,OB/OG,OB (ōbī)/OG (ōjī),old boy/old girl,alumnus/alumna,popular boy/popular girl,only child (male/female),all-boys school/all-girls school
-4,アイスクリーム,aisukurīmu,ice cream,ice cream,sorbet,scream,shocked facial expression
-6,アーカイブ,ākaibu,archive,archive,chives,cherry,açaí berry
-1,アフレコ,afureko,af(ter) recor(ding). (Note: ),post-production dubbing (dialogue or sounds),subtitles,remix,Africa
-230,パーマ,pāma,perma(nent wave),perm,parmesan cheese,pummel,permanent tattoo
-230,チョコレート,chokorēto,chocolate,chalk,brown,dark
-136,ジーパン,jīpan,jea(ns) + pan(ts),jeans,thong,frying pan,G-force
-3,アイドル,aidoru,idol,pop idol,door,door peephole,altar
-2,アフターサービス,afutāsābisu,after service,after-sales service,customer discount,product recall,price after savings
-8,アメリカンドッグ,amerikandoggu,American dog,corn dog,hot dog,American dog,Boston Terrier (dog breed)
-5,アイスキャンディー,aisukyandī,ice candy,popsicle,ice cream cone,frozen yogurt,sorbet
-7,アメフト,amefuto,Ame(rican) foot(ball),American football,soccer,rugby,baseball
-9,アニメ,anime,anima(tion),animation,video game,excited,spirit
-10,アニソン,anison,ani(me) son(g),anime song,anise,game soundtrack,happy birthday song
-13,アンチ,anchi,anti(-fan),hater,American cheese,lactose intolerant,chicken wings
-14,ランチ,ranchi,lunch,lunch,rancid,ranch chicken,raunchy
-14,アパート,apāto,apart(ment),apartment,apart,part,mansion
-14,ホテル,hoteru,hotel,hotel,house,mansion,hut
-107,ハンドルキーパー,handorukīpā,handle keeper ('handle' here means 'steering wheel'),designated driver,valet parking,groundskeeper,housekeeper
-108,センチ,senchi,centi(meter),centimeter,centipede,center,send
-15,アポ,apo,appo(intment),appointment,apple,apostrophe,airport
+2,アイスクリーム,aisukurīmu,ice cream,ice cream,sorbet,scream,shocked facial expression
+3,アーカイブ,ākaibu,archive,archive,chives,cherry,açaí berry
+4,アフレコ,afureko,af(ter) recor(ding). (Note: ),post-production dubbing (dialogue or sounds),subtitles,remix,Africa
+5,パーマ,pāma,perma(nent wave),perm,parmesan cheese,pummel,permanent tattoo
+6,チョコレート,chokorēto,chocolate,chalk,brown,dark
+7,ジーパン,jīpan,jea(ns) + pan(ts),jeans,thong,frying pan,G-force
+8,アイドル,aidoru,idol,pop idol,door,door peephole,altar
+9,アフターサービス,afutāsābisu,after service,after-sales service,customer discount,product recall,price after savings
+10,アメリカンドッグ,amerikandoggu,American dog,corn dog,hot dog,American dog,Boston Terrier (dog breed)
+11,アイスキャンディー,aisukyandī,ice candy,popsicle,ice cream cone,frozen yogurt,sorbet
+12,アメフト,amefuto,Ame(rican) foot(ball),American football,soccer,rugby,baseball
+13,アニメ,anime,anima(tion),animation,video game,excited,spirit
+14,アニソン,anison,ani(me) son(g),anime song,anise,game soundtrack,happy birthday song
+15,アンチ,anchi,anti(-fan),hater,American cheese,lactose intolerant,chicken wings
+16,ランチ,ranchi,lunch,lunch,rancid,ranch chicken,raunchy
+17,アパート,apāto,apart(ment),apartment,apart,part,mansion
+18,ホテル,hoteru,hotel,hotel,house,mansion,hut
+19,ハンドルキーパー,handorukīpā,handle keeper ('handle' here means 'steering wheel'),designated driver,valet parking,groundskeeper,housekeeper
+20,センチ,senchi,centi(meter),centimeter,centipede,center,send
+21,アポ,apo,appo(intment),appointment,apple,apostrophe,airport
+22,アプリ,apuri,app(lication),app,apricot,apple,apartment
+23,アルコール,arukōru,alcohol,alcohol,chorus,a cappella,record
+24,バーゲン,bāgen,bargain,bargain sale,bagel,coupon,refund
+25,バイキング,baikingu,viking,buffet,biking,warrior,helmet
+26,バイク,baiku,bike,motorcycle,bake,pencil,lighter
+27,オートバイ,ōtobai,auto-bi(cycle),motorcycle,autobiography,otter,bye
+28,ブルー,burū,blue,blue,brew,beer,blow
+29,ブルース,burūsu,blues,blues (music),bruise,brew,beer
+30,ブックカバー,bukkukabā,book cover,dust jacket (books),bookmark,booklet,audiobook
+31,レバー,rebā,liver,liver (food),rebel,rebar,level
+32,レベル,reberu,level,level,reverb,party,reverse
+33,ルール,rūru,rule,rule,lure,lore,roar
+34,バックミラー,bakkumirā,back mirror,rearview mirror,side mirror,backup camera,hindsight
+35,バックナンバー,bakkunanbā,back number,back issue (of a publication),license plate,phone number,serial number
+36,バンパー,banpā,bumper,bumper,backpack,bandage,bandmate
+37,バリアフリー,bariafurī,barrier-free,accessible (for people with disabilities and older people),free,cage-free,wild (of an animal)
+38,バター,batā,butter,butter,batter (baseball),batter (food),boot
+39,ベビーカー,bebīkā,baby car,stroller,baby carrier,infant car seat,toy car
 
-17,アプリ,apuri,app(lication),app,program,website,device
-18,アールブイ,ārubui,RV,recreational vehicle,pickup truck,minivan,camper trailer
-19,アルコール,arukōru,alcohol,alcohol,medicine,perfume,gasoline
-20,アウトコース,autokōsu,out-course,outside lane,inside lane,center lane,starting line
-21,バッド,baddo,bad,bad,good,evil,ugly
-22,バーゲン,bāgen,bargain,sale,auction,coupon,refund
-23,バイキング,baikingu,Viking, buffet,banquet,picnic,cafeteria
-24,バイク,baiku,bike,motorcycle,bicycle,scooter,moped
-25,ブルー,burū,blue,blue,green,purple,gray
-26,ブックカバー,bukkukabā,book cover,book cover,dust jacket,bookmark,booklet
-27,バックミラー,bakkumirā,back mirror,rear-view mirror,side mirror,windshield,backup camera
-28,バックナンバー,bakkunanbā,back number,back issue,current issue,edition number,serial number
-29,バックネット,bakkunetto,back net,backstop,outfield fence,batting cage,scoreboard
-30,バンパー,banpā,bumper,bumper,fender,hood,grille
-31,バリアフリー,bariafurī,barrier-free,accessible,restricted,private,underground
-32,バスジャック,basujakku,bus (hi)jack,bus hijacking,bus strike,bus accident,bus robbery
-33,バター,batā,butter,butter,cream,cheese,margarine
-34,バッティング,battingu,batting,batting,bowling,pitching,fielding
-35,ベビーカー,bebīkā,baby car,stroller,high chair,crib,baby carrier
 36,ベッドタウン,beddotaun,bed town,commuter suburb,industrial district,shopping district,holiday resort
 37,ベジタリアン,bejitarian,vegetarian,vegetarian,vegan,omnivore,nutritionist
 38,ビジネス,bijinesu,business,business,auction,backgammon,peach
@@ -227,7 +226,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 224,オープンカー,ōpunkā,open car,convertible,roadster,pickup truck,hatchback
 225,オーライ,ōrai,a(ll) righ(t),all right,go ahead,come back,wait there
 226,オレンジ,orenji,orange,orange,lemon,peach,apricot
-227,オートバイ,ōtobai,auto-bi(cycle),motorcycle,bicycle,automobile,scooter
 228,パイプカット,paipukatto,pipe cut,vasectomy,appendectomy,circumcision,catheterization
 229,パイン,pain,pine(apple),pineapple,pine nut,coconut,mango
 231,パネリスト,panerisuto,panelist,panelist,moderator,audience member,reporter

@@ -67,12 +67,20 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 66,ドンマイ,donmai,don('t) mi(nd),don't worry about it,you're welcome,good luck,nice try
 67,キャッチコピー,kyatchikopī,catch copy,slogan,carbon copy,cheat (on an exam),catcher (baseball)
 68,ダンプカー,danpukā,dump car,dump truck,bumper car,tow truck,wet wipe
+69,ダストボックス,dasutobokkusu,dust box,trash can,dustpan,toolbox,ashtray
+70,ダッチワイフ,datchiwaifu,Dutch wife,sex doll,Dutch oven,dollhouse,Dachshund (dog breed)
+71,ケーキ,kēki,cake,cake,cookie,cheesecake,cracker
+72,デコレーションケーキ,dekorēshonkēki,decoration cake,decorated cake,wedding cake,fake cake,birthday cake
+73,スキー,sukī,ski,skiing,skating,zucchini,zookeeper
+74,サッカー,sakkā,soccer,soccer,sack,racecar,taxi
+75,パトカー,patokā,patrol car,police car,potato,photocopy,patio
+76,ワープ,wāpu,warp,warp (sci-fi),whirlpool,washing machine,popular Cardi B song
+77,Uターンラッシュ,yūtānrasshu,U-turn rush (where 'U-turn' is referring to people returning home from vacation),heavy traffic after a long holiday,rush hour,round trip,diaper rash
+78,ナルシスト,narushisuto,narcissist,narcissist,nutritionist,neurologist,narrator
+79,コンビニ,konbini,conveni(ence store),convenience store,company,combine,combo
+80,スーパー,sūpā,super(market),supermarket,spa,soup,dinner
+81,テキスト,tekisuto,text(book),textbook,texture,tactic,technical staff
 
-55,ダストボックス,dasutobokkusu,dust box,trash can,recycling bin,storage box,toolbox
-56,ダストシュート,dasutoshūto,dust chute,garbage chute,stairwell,air duct,drainpipe
-57,ダッチワイフ,datchiwaifu,Dutch wife,sex doll,mannequin,stuffed animal,dollhouse
-58,デフォルト,deforuto,default,default setting,backup setting,custom setting,hidden option
-59,デコレーションケーキ,dekorēshonkēki,decoration cake,decorated cake,cheesecake,sponge cake,fruit tart
 60,デパート,depāto,depart(ment store),department store,supermarket,shopping mall,convenience store
 61,デスク,desuku,desk,desk,chair,counter,office
 62,ドアカット,doakatto,door cut,selective door opening,automatic doors,emergency exit,platform gate
@@ -137,7 +145,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 122,ブラック,burakku,black,black,navy,brown,gray
 123,イメージ,imēji,image,mental image,memory,idea,photograph
 124,イメージクラブ,imējikurabu,image club,themed brothel,photo studio,costume shop,nightclub
-125,インスタ,insuta,Insta(gram),Instagram,instantly,fast,investigator
 126,インフレ,infure,infla(tion),inflation,recession,deflation,unemployment
 127,インキー,inkī,in key,lock yourself out,inquire,sing in key,unlock a door
 128,イラスト,irasuto,illust(ration),illustration,photograph,diagram,sculpture
@@ -162,7 +169,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 150,コインランドリー,koinrandorī,coin laundry,laundromat,dry cleaner,laundry room,car wash
 151,コインロッカー,koinrokkā,coin locker,coin-operated locker,parking meter,storage shed,ticket machine
 152,コミカライズ,komikaraizu,comic + -ize,comic adaptation,translation,film editing,book review
-153,コンビニ,konbini,conveni(ence store),convenience store,supermarket,department store,drugstore
 154,コンセント,konsento,concent(ric plug),electrical outlet,light switch,power cord,fuse box
 155,コスプレ,kosupure,cos(tume) play,cosplay,fashion show,role-playing game,masquerade
 156,クラブ,kurabu,club,club,society,team,bar
@@ -300,7 +306,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 294,シャッターチャンス,shattāchansu,shutter + chance,photo opportunity,camera angle,photo filter,flash setting
 295,シール,shīru,seal,sticker,stamp,label,poster
 296,シルバーシート,shirubāshīto,silver seat,priority seat,window seat,folding seat,driver's seat
-297,サッカー,sakkā,soccer,soccer,rugby,American football,futsal
 298,ソファー,sofā,sofa,sofa,armchair,bench,stool
 299,ソフト,sofuto,soft(ware),software,hardware,firmware,device
 300,ソフトクリーム,sofutokurīmu,soft ice cream,soft-serve ice cream,frozen yogurt,gelato,sherbet
@@ -308,12 +313,10 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 302,スイートルーム,suītorūmu,suite room,hotel suite,honeymoon room,penthouse,candy shop
 303,スケボー,sukebō,ska(te)bo(ard),skateboard,surfboard,snowboard,roller skates
 304,スケルトン,sukeruton,skeleton,translucent,transparent,opaque,reflective
-305,スキー,sukī,ski,skiing,snowboarding,skating,sledding
 306,スキンシップ,sukinshippu,skin + -ship,physical affection,friendship,teamwork,conversation
 307,スマート,sumāto,smart,slim,clever,polite,quiet
 308,スマホ,sumaho,sma(rt) + (p)ho(ne),smartphone,tablet,laptop,smartwatch
 309,スムーズ,sumūzu,smooth,without problems,quickly,quietly,carefully
-310,スーパー,sūpā,super(market),supermarket,department store,convenience store,wholesale club
 311,スパッツ,supattsu,spats,leggings,sports,super,soup
 312,スペイン,supein,Spain,Spain,Portugal,Italy,France
 313,スペル,superu,spell,spelling,pronunciation,vocabulary,grammar
@@ -350,20 +353,14 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 344,トランプ,toranpu,trump(s),playing cards,board game,tarot cards,puzzle
 345,トレーナー,torēnā,trainer,sweatshirt,tracksuit,hoodie,jacket
 346,トレーニングパンツ,torēningupantsu,training pants,potty-training pants,jeans,shorts,school uniform
-347,ツイッター,tsuittā,Twitter,Twitter,social media,Instagram,Facebook
 348,ウインカー,uinkā,winker,turn signal,windshield wiper,headlight,horn
-349,ウイルス,uirusu,virus,virus,bacteria,fungus,parasite
 350,ウーパールーパー,ūpārūpā,wooper looper,axolotl,salamander,newt,lizard
 351,ヴァージンロード,vājinrōdo,virgin road,wedding aisle,red carpet,church entrance,processional stage
 352,ワイドショー,waidoshō,wide show,talk show,game show,news bulletin,documentary
 353,Ｙシャツ,waishattsu,whi(te) shirt,dress shirt,white T-shirt,undershirt,formal jacket
 354,ワンパターン,wan patān,one pattern,predictable routine,unique style,random behavior,flexible plan
 355,ワンピース,wan pīsu,one piece,one-piece dress,skirt suit,jumpsuit,nightgown
-356,ワープ,wāpu,warp,warp (sci-fi),whirlpool,large amount,popular song by Cardi B featuring Megan Thee Stallion
 357,ワープロ,wāpuro,wor(d) pro(cessor),word processor,typewriter,printer,spreadsheet
 358,ウォシュレット,woshuretto,washlet,washlet toilet,bidet,automatic faucet,shower
 359,ヨット,yotto,yacht,yacht,sailboat,canoe,ferry
-360,ヤンエグ,yanegu,youn(g) ex(ecutive),young executive,young athlete,senior manager,office trainee
 361,ユニットバス,yunittobasu,unit bath,modular bathroom,hotel bathroom,public bath,shower room
-362,Uターンラッシュ,yūtānrasshu,U-turn rush,return-traffic rush,holiday traffic,commute to work,airport rush
-363,ナルシスト,narushisuto,narcissist,narcissist,narcotic,pessimist,perfectionist

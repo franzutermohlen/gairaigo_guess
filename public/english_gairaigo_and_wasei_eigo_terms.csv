@@ -69,6 +69,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 68,ダンプカー,danpukā,dump car,dump truck,bumper car,tow truck,wet wipe
 69,ダストボックス,dasutobokkusu,dust box,trash can,dustpan,toolbox,ashtray
 70,ダッチワイフ,datchiwaifu,Dutch wife,sex doll,Dutch oven,dollhouse,Dachshund (dog breed)
+71,ラブドール,rabudōru,love doll,sex doll,Labrador Retriever (dog breed),revolving door,robot
 71,ケーキ,kēki,cake,cake,cookie,cheesecake,cracker
 72,デコレーションケーキ,dekorēshonkēki,decoration cake,decorated cake,wedding cake,fake cake,birthday cake
 73,スキー,sukī,ski,skiing,skating,zucchini,zookeeper
@@ -90,33 +91,29 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 89,ドラマー,doramā,drummer,drummer,TV drama,drum,door handle
 90,エアコン,eakon,air con(ditioning),air conditioner,airplane,earphone,TV remote
 91,エンスト,ensuto,en(gine) sto(p),stall (engine),install,music ensemble,doorstop
+92,エレベーター,erebētā,elevator,elevator,escalator,helicopter,hot air balloon
+93,エール,ēru,yell,cheer,error,airplane,loss
+94,ニュース,nyūsu,news,news,magazone,
+95,スコア,sukoa,score,score (in a game),school,scooter,square
+96,ファイト,faito,fight,do your best!,be careful!,well done!,never mind
+97,フライパン,furaipan,fry(ing) pan,frying pan,flyswatter,baking tray,airplane
+98,フライドポテト,furaidopoteto,fried potato,French fries,mashed potatoes,baked potato,potato salad
+99,フライングスタート,furaingusutāto,flying start,false start,restart,flying squirrel,frying pan
+100,フラゲ,furage,fly(ing) ge(t),buy before official release date,flag,fragrance,buy at a discount
+101,フリーダイヤル,furīdaiyaru,free dial,toll-free number,flea market,freedom,sundial
+102,フリーサイズ,furīsaizu,free size,one-size-fits-all,custom size,oversized,freestyle
+103,ガラス,garasu,glas (Dutch),glass (material),grass,lawn,grace
+104,グラス,gurasu,glass,drinking glass,wine bottle,pitcher,grace
+105,フロントガラス,furontogarasu,front glass,windshield,front lawn,back yard,sunglasses
+106,ガードマン,gādoman,guard man,security guard,gardener,godfather,doorman
+107,ガソリンスタンド,gasorinsutando,gasoline stand,gas station,handstand,stunt double,standing ovation
+108,ガッツポーズ,gattsupōzu,Guts pose (named after boxer Guts Ishimatsu),fist pump,cat-cow stretch,thumbs up,Downward Dog Pose
+110,ゲーセン,gēsen,ga(me) cen(ter),arcade (place),game store,green screen,goose
+111,ゴールデンタイム,gōrudentaimu,golden time,prime time,golden hour (photography),flow state,noon
+112,マジックアワー,majikkuawā,magic hour,golden hour (photography),magic wand,magic spell,magical
+113,ギブアップ,gibuappu,give up,give up,gift shop,baptize,pray
+114,タレント,tarento,talento (Portuguese),TV personality,training,tarantula,rent
 
-92,エネルギー,enerugī,energy,energy,momentum,emotion,engine
-93,エレベーター,erebētā,elevator,elevator,escalator,stairway,tram
-94,エール,ēru,yell of encouragement,cheer,warning,err,loss
-95,エスケープ,esukēpu,escape,escape,fantasy,return,arrive
-96,ファイナル,fainaru,final,final,finer,preview,opening
-97,ファイト,faito,fight,do your best,be careful,good night,well done
-98,フライパン,furaipan,fry(ing) pan,frying pan,saucepan,baking tray,wok
-99,フライドポテト,furaidopoteto,fried potato,French fries,mashed potatoes,baked potato,potato salad
-100,フライングスタート,furaingusutāto,flying start,false start,head start,starting signal,photo finish
-101,フライングゲット,furaingugetto,flying get,buy before release,preorder an item,return an item,win a prize
-102,フラクタル,furakutaru,fractal,fractal,formula,polygon,spiral
-103,フリーダイヤル,furīdaiyaru,free dial,toll-free number,private number,international number,extension number
-104,フリーサイズ,furīsaizu,free size,one-size-fits-all,custom size,oversized,limited edition
-105,フロント,furonto,front (desk),front desk,lobby,receptionist,entrance
-106,フロントガラス,furontogarasu,front glass,windshield,storm door,window facing front of house,sunglasses
-107,ガードマン,gādoman,guard man,security guard,police officer,traffic officer,gardener
-108,ガラス,garasu,glass,glass,grass,lawn,icing
-109,ガソリンスタンド,gasorinsutando,gasoline stand,gas station,car dealership,repair shop,parking lot
-110,ガッツポーズ,gattsupōzu,guts pose,fist pump,cat-cow stretch,thumbs-up,crawl position
-111,ゲームクリエーター,gēmukuriētā,game creator,game developer,game tester,game streamer,game player
-112,ゲーセン,gēsen,ga(me) cen(ter),arcade (place),cinema,game store,amusement park
-113,ギブアップ,gibuappu,give up,give up,go ahead,hold on,try again
-114,ゴールデンタイム,gōrudentaimu,golden hour,prime time,golden hour (photography),time to shine,flow state
-115,マジックアワー,majikkuawā,magic hour,golden hour (photography),magic wand,magic spell,magical
-116,グラビア,gurabia,gravure,glamour photography,landscape photography,photojournalism,wildlife photography
-117,グラス,gurasu,glass,drinking glass,wine bottle,pitcher,mug
 118,グロ,guro,gro(tesque),grotesque,glamorous,romantic,ordinary
 119,ギャラリー,gyararī,gallery,spectators,artwork,museum,studio
 120,ギャル,gyaru,gal,gyaru girl,schoolgirl,actress,model
@@ -216,7 +213,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 214,ネーム,nēmu,name,manga storyboard,character name,pen name,title
 215,ナンバープレート,nanbāpurēto,number plate,license plate,parking permit,driver's license,registration card
 216,ナイス,naisu,nice,nice,kind,polite,beautiful
-217,ニュース,nyūsu,news,news,report,rumor,headline
 218,ノークレームノーリターン,nōkurēmunōritān,no claim no return,sold as-is,refundable,exchangeable,under warranty
 219,ノンステップバス,nonsuteppubasu,non-step bus,low-floor bus,double-decker bus,school bus,shuttle bus
 220,ノート,nōto,note,notebook,not,textbook,folder
@@ -263,7 +259,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 261,プロ,puro,professional,professional,amateur,expert,manager
 262,プロレス,puroresu,pro(fessional) wrest(ling),professional wrestling,boxing,martial arts,amateur wrestling
 263,プッシュホン,pusshuhon,push phone,push-button phone,rotary phone,mobile phone,intercom
-264,ラブドール,rabudōru,love doll,sex doll,Labrador Retriever (dog breed),plush toy,robot
 265,ライバル,raibaru,rival,competitor,teammate,coach,referee
 266,ライブアクション,raibuakushon,live-action,live-action adaptation,documentary,stage play,animation
 267,ライブハウス,raibuhausu,live house,live-music venue,record store,dance studio,nightclub

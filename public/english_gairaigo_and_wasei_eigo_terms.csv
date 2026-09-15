@@ -73,7 +73,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 71,ケーキ,kēki,cake,cake,cookie,cheesecake,cracker
 72,デコレーションケーキ,dekorēshonkēki,decoration cake,decorated cake,wedding cake,fake cake,birthday cake
 73,スキー,sukī,ski,skiing,skating,zucchini,zookeeper
-74,サッカー,sakkā,soccer,soccer,sack,racecar,taxi
+74,サッカー,sakkā,soccer,soccer,sack,race car,taxi
 75,パトカー,patokā,patrol car,police car,potato,photocopy,patio
 76,ワープ,wāpu,warp,warp (sci-fi),whirlpool,washing machine,popular Cardi B song
 77,Uターンラッシュ,yūtānrasshu,U-turn rush (where 'U-turn' is referring to people returning home from vacation),heavy traffic after a long holiday,rush hour,round trip,diaper rash
@@ -113,43 +113,31 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 112,マジックアワー,majikkuawā,magic hour,golden hour (photography),magic wand,magic spell,magical
 113,ギブアップ,gibuappu,give up,give up,gift shop,baptize,pray
 114,タレント,tarento,talento (Portuguese),TV personality,training,tarantula,rent
+115,ギャラリー,gyararī,gallery,girl,galaxy,gala,gyroscope
+116,ハイネック,hainekku,high neck,"high-necked shirt or sweater (e.g., turtleneck)",goose,giraffe,hiking
+117,ハイキング,haikingu,hiking,hiking,king,emperor,escalator
+118,ハイタッチ,haitatchi,high touch,high five,highlight,high tech,handshake
+119,ハンバーガー,hanbāgā,hamburger,handbag,backpack,handkerchief,glove
+120,ハンドル,handoru,handle,steering wheel,hand,"handler (e.g., of dogs)",handsome
+121,ハンカチ,hankachi,han(d)kerchie(f),handkerchief,baseball glove,catch (game),ketchup
+122,ハンスト,hansuto,hun(ger) st(rike),hunger strike,hamster,handstand,handbrake
+123,ハザードランプ,hazādoranpu,hazard lamp,emergency lights (vehicle),gas lamp,skateboarding ramp,offramp
+124,ヘルスメーター,herusumētā,health meter,bathroom scale,thermometer,blood pressure monitor,fitness tracker
+125,ヒップ,hippu,hip,buttocks,hippopotamus,hippie,belt (clothing)
+126,ホッチキス,hotchikisu,Hotchkiss (US stapler company),stapler,French kiss,Scotch whisky,tuxedo
+127,ホーム,hōmu,(plat)form,train platform,foam,full moon,horror movie
+128,ホラー,horā,horror,horror (genre),hole,whole,holiday
+129,ホワイト,howaito,white,white,wheat,height,heat
+130,ブラック,burakku,black,black,block,broccoli,blank
+131,イメージ,imēji,image,mental image,emergency,idea,amazing
+132,インフレ,infure,infla(tion),inflation,influencer,infrared,in-flight entertainment
+133,インキー,inkī,in key,lock yourself out,ink,sing in key,unlock
+134,イラスト,irasuto,illust(ration),illustration,eraser,elastic,irritate
+135,インターネット,intānetto,internet,internet,instant,interest,entertainment
+136,セーター,sētā,sweater,sweater,theater,babysitter,seat
+137,ジャンプ,janpu,jump,jump,champion,shampoo,jam
+138,ジェットコースター,jettokōsutā,jet coaster,roller coaster,jet plane,jet ski,race car
 
-118,グロ,guro,gro(tesque),grotesque,glamorous,romantic,ordinary
-119,ギャラリー,gyararī,gallery,spectators,artwork,museum,studio
-120,ギャル,gyaru,gal,gyaru girl,schoolgirl,actress,model
-121,ハイネック,hainekku,high neck,turtleneck,collarless shirt,V-neck shirt,hoodie
-122,ハイオク,haioku,high octane,high-octane gasoline,diesel fuel,kerosene,racing oil
-123,ハイタッチ,haitatchi,high touch,high five,handshake,fist bump,clap
-124,ハッカー,hakkā,hacker,computer hacker,programmer,engineer,technician
-125,ハモる,hamoru,harmo(ny) + -ru,harmonize,whistle,whisper,shout
-126,ハンバーガー,hanbāgā,hamburger,handbag,backpack,handkerchief,glove
-127,ハンバーグ,hanbāgu,hamburg(er steak),hamburger steak,meatloaf,meatball,steak sandwich
-128,ハンドル,handoru,handle,steering wheel,gear lever,brake pedal,hand
-129,ハンカチ,hankachi,han(d)kerchie(f),handkerchief,napkin,scarf,hamburger
-130,ハンスト,hansuto,hun(ger) st(rike),hunger strike,fast food,hunger pangs,food shortage
-131,ハザードランプ,hazādoranpu,hazard lamp,emergency lights (vehicle),gas lamp,electric lamp,offramp
-132,ヘアピンカーブ,heapinkābu,hairpin curve,hairpin turn,roundabout,straightaway,intersection
-133,ヘルスメーター,herusumētā,health meter,bathroom scale,thermometer,blood-pressure monitor,fitness tracker
-134,ヒップ,hippu,hip,buttocks,waist,thighs,back
-135,ヒップホップ,hippuhoppu,hip-hop,hip-hop,jazz,blues,disco
-136,ヒーリング,hīringu,healing,healing,exercise,meditation,therapy
-137,ホッチキス,hotchikisu,Hotchkiss,stapler,paper clip,puncher,tape dispenser
-138,ホテヘルス,hoteherusu,hote(l) + health,hotel-based sex service,hotel massage,room service,health clinic
-139,ホテトル,hotetoru,hote(l) + Turkish bath,hotel sex service,hotel maid service,travel service,spa treatment
-140,ホットケーキ,hottokēki,hotcake,pancake,waffle,crepe,muffin
-141,ホーム,hōmu,platform,railway platform,station building,train cabin,waiting room
-142,ホワイト,howaito,white,white,black,silver,beige
-143,ブラック,burakku,black,black,navy,brown,gray
-144,イメージ,imēji,image,mental image,memory,idea,photograph
-145,イメージクラブ,imējikurabu,image club,themed brothel,photo studio,costume shop,nightclub
-146,インフレ,infure,infla(tion),inflation,recession,deflation,unemployment
-147,インキー,inkī,in key,lock yourself out,inquire,sing in key,unlock a door
-148,イラスト,irasuto,illust(ration),illustration,photograph,diagram,sculpture
-149,インターネット,intānetto,internet,internet,intranet,telephone,television
-150,ジャンパー,janpā,jumper,jacket,sweater,vest,coat
-151,ジャンプ,janpu,jump,jump,fall,spin,slide
-152,ジェンダーフリー,jendāfurī,gender free,gender-neutral,gender-specific,gender identity,male-only
-153,ジェットコースター,jettokōsutā,jet coaster,roller coaster,water slide,ferris wheel,bumper cars
 154,ジングルベル,jinguruberu,jingle bell,Jingle Bells,Silent Night,Deck the Halls,Winter Wonderland
 155,ジレンマ,jirenma,dilemma,dilemma,paradox,theory,controversy
 156,ジープ,jīpu,Jeep,Jeep,pickup truck,sedan,minivan

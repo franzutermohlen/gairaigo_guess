@@ -38,7 +38,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 37,バンパー,banpā,bumper,bumper,backpack,bandage,bandmate
 38,バリアフリー,bariafurī,barrier-free,accessible (for people with disabilities and older people),free,cage-free,wild (of an animal)
 39,バター,batā,butter,butter,batter (baseball),batter (food),boot
-40,ベビーカー,bebīkā,baby car,stroller,baby carrier,infant car seat,toy car
+40,ベビーカー,bebīkā,baby car,stroller,baby carrier,baby carrot,toy car
 41,ページ,pēji,page,page,pig,beige,pager
 42,オレンジ,orenji,orange,orange,orangutan,range,lemon
 43,ベッドタウン,beddotaun,bed town,commuter town,bed sheet,pillow,townhouse
@@ -137,16 +137,13 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 136,セーター,sētā,sweater,sweater,theater,babysitter,seat
 137,ジャンプ,janpu,jump,jump,champion,shampoo,jam
 138,ジェットコースター,jettokōsutā,jet coaster,roller coaster,jet plane,jet ski,race car
+139,ジレンマ,jirenma,dilemma,gentleman,jellyfish,drama,gremlin
+140,ジュース,jūsu,juice,juice,choose,shoes,Jews
+141,カメラマン,kameraman,cameraman,photographer,journalist,news presenter,film actor
+142,カンニング,kanningu,cunning,cheating on an exam,scamming,lying,pickling
+143,カシュー,kashū,cashew,cashew,casual,caution,running shoes
+144,ピーナッツ,pīnattsu,peanut,peanut,pianist,piñata,penny
 
-154,ジングルベル,jinguruberu,jingle bell,Jingle Bells,Silent Night,Deck the Halls,Winter Wonderland
-155,ジレンマ,jirenma,dilemma,dilemma,paradox,theory,controversy
-156,ジープ,jīpu,Jeep,Jeep,pickup truck,sedan,minivan
-157,ジュース,jūsu,juice,juice,soda,milk,tea
-158,カメラマン,kameraman,cameraman,photographer,journalist,filmmaker,designer
-159,カモン,kamon,come on,join us,go away,wait here,be quiet
-160,カンニング,kanningu,cunning,cheating,studying,guessing,copying
-161,カシュー,kashū,cashew,cashew,almond,walnut,peanut
-162,ピーナッツ,pīnattsu,peanut,peanut,almond,cashew,pistachio
 163,キーホルダー,kīhorudā,key holder,key ring,key card,key case,key cabinet
 164,キスマーク,kisumāku,kiss mark,hickey,bruise,scratch,birthmark
 165,キッチンペーパー,kitchinpēpā,kitchen paper,paper towel,napkin,parchment paper,plastic wrap

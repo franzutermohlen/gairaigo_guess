@@ -59,6 +59,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 58,ナッツ,nattsu,nuts,nuts,gnats,seeds,deez
 59,コンピュータ,konpyūta,computer,computer,calculator,television,robot
 60,コラボ,korabo,collabo(ration),collaboration,club,crab,corroboration
+60,クラブ,kurabu,club,club,clap,collaborate,lobster
 61,ダブル,daburu,double,double,devil,dabble,dribble
 62,シングル,shinguru,single,single,shingles,singer,shin guard
 63,シンガー,shingā,singer,singer,single,shingles,shin guard
@@ -143,24 +144,20 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 142,カンニング,kanningu,cunning,cheating on an exam,scamming,lying,pickling
 143,カシュー,kashū,cashew,cashew,casual,caution,running shoes
 144,ピーナッツ,pīnattsu,peanut,peanut,pianist,piñata,penny
+145,モラハラ,morahara,mora(l) hara(ssment),emotional abuse,horror movie,molasses,toothache
+146,キーホルダー,kīhorudā,key holder,keychain,keyboard,keycard,keyword
+147,キスマーク,kisumāku,kiss mark,hickey,birthmark,lipstick,breath mint
+148,キッチンペーパー,kitchinpēpā,kitchen paper,paper towel,parchment paper,plastic wrap,black pepper
+149,コインランドリー,koinrandorī,coin laundry,laundromat,lottery,money laundering,coincidence
+150,コミカライズ,komikaraizu,comic(al) + -ize,adapt into a manga,brown rice,make fun of,tell jokes
+151,コンセント,konsento,concent(ric plug),electrical outlet,consent,concentrate,empathy
+153,サークル,sākuru,circle,"club (e.g., student club)",soccer,lollipop,leech
+154,クラクション,kurakushon,Klaxon (an early brand of electromechanical horns),car horn,correction,collection,crack
+155,クラス,kurasu,class,class,crass,crush,claustrophobia
+156,クレーム,kurēmu,claim,customer complaint,cremate,clean,clementine
+157,クレーンゲーム,kurēngēmu,crane game,claw machine,cranberry,insurance claim,cringe
+158,キャベツ,kyabetsu,cabbage,cabbage,cabinet,alphabet,casino
 
-163,キーホルダー,kīhorudā,key holder,key ring,key card,key case,key cabinet
-164,キスマーク,kisumāku,kiss mark,hickey,bruise,scratch,birthmark
-165,キッチンペーパー,kitchinpēpā,kitchen paper,paper towel,napkin,parchment paper,plastic wrap
-166,コード,kōdo,chord,chord,cable,code,string
-167,コインランドリー,koinrandorī,coin laundry,laundromat,dry cleaner,laundry room,car wash
-168,コインロッカー,koinrokkā,coin locker,coin-operated locker,parking meter,storage shed,ticket machine
-169,コミカライズ,komikaraizu,comic + -ize,comic adaptation,translation,film editing,book review
-170,コンセント,konsento,concent(ric plug),electrical outlet,light switch,power cord,fuse box
-171,コスプレ,kosupure,cos(tume) play,cosplay,fashion show,role-playing game,masquerade
-172,クラブ,kurabu,club,club,society,team,bar
-173,クラクション,kurakushon,Klaxon,car horn,siren,whistle,bell
-174,クラス,kurasu,class,class,grade,course,lesson
-175,クレーム,kurēmu,claim,complaint,claim,refund,request
-176,クレーンゲーム,kurēngēmu,crane + game,claw machine,arcade cabinet,slot machine,pinball
-177,クリスタル,kurisutaru,crystal,crystal-clear,opaque,cloudy,rough
-178,キャバクラ,kyabakura,cabaret club,hostess club,cocktail bar,nightclub,casino
-179,キャベツ,kyabetsu,cabbage,cabbage,lettuce,spinach,celery
 180,キャンペーン,kyanpēn,campaign,sales campaign,advertisement,product launch,market survey
 181,キャンピングカー,kyanpingukā,camping-car,recreational vehicle,tent,caravan park,pickup truck
 182,キャッチボール,kyatchibōru,catch ball,a game of catch,baseball practice,passing game,conversation
@@ -277,7 +274,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 295,サラリーマン,sararīman,salaried man,salaried office worker,business owner,freelancer,manual laborer
 296,サイエンス,saiensu,science,science,technology,history,mathematics
 297,セフレ,sefure,se(x) + frie(nd),casual sexual partner,spouse,dating partner,roommate
-298,セクハラ,sekuhara,sex(ual) hara(ssment),sexual harassment,workplace bullying,verbal abuse,discrimination
 299,センス,sensu,sense,taste,ability,feeling,knowledge
 300,セレブ,serebu,celeb(rity),wealthy person,celebrity,politician,aristocrat
 301,シャープペンシル,shāpupenshiru,Sharp pencil,mechanical pencil,wooden pencil,fountain pen,highlighter

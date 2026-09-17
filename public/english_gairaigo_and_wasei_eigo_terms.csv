@@ -17,7 +17,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 16,ランチ,ranchi,lunch,lunch,rancid,ranch chicken,raunchy
 17,アパート,apāto,apart(ment),apartment,apart,part,mansion
 18,ホテル,hoteru,hotel,hotel,house,mansion,hut
-19,ハンドルキーパー,handorukīpā,handle keeper ('handle' here means 'steering wheel'),designated driver,valet parking,groundskeeper,housekeeper
+19,ハンドルキーパー,handorukīpā,handle keeper (""handle"" here means ""steering wheel""),designated driver,valet parking,groundskeeper,housekeeper
 20,センチ,senchi,centi(meter),centimeter,centipede,center,send
 21,メートル,mētoru,meter,meter (unit of length),meteor,meat,metro/subway
 22,アポ,apo,appo(intment),appointment,apple,apostrophe,airport
@@ -65,7 +65,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 63,シンガー,shingā,singer,singer,single,shingles,shin guard
 64,ギター,gitā,guitar,guitar,gutter,violin,gold
 65,ダンス,dansu,dance,dance,stupid,dentures,doughnut
-66,ドンマイ,donmai,don('t) mi(nd),don't worry about it,you're welcome,good luck,nice try
+66,ドンマイ,donmai,don('t) mi(nd),"""don't worry about it""","""you're welcome""","""good luck""","""nice try"""
 67,キャッチコピー,kyatchikopī,catch copy,slogan,carbon copy,cheat (on an exam),catcher (baseball)
 68,ダンプカー,danpukā,dump car,dump truck,bumper car,tow truck,wet wipe
 69,ダストボックス,dasutobokkusu,dust box,trash can,dustpan,toolbox,ashtray
@@ -77,7 +77,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 74,サッカー,sakkā,soccer,soccer,sack,race car,taxi
 75,パトカー,patokā,patrol car,police car,potato,photocopy,patio
 76,ワープ,wāpu,warp,warp (sci-fi),whirlpool,washing machine,popular Cardi B song
-77,Uターンラッシュ,yūtānrasshu,U-turn rush (where 'U-turn' is referring to people returning home from vacation),heavy traffic after a long holiday,rush hour,round trip,diaper rash
+77,Uターンラッシュ,yūtānrasshu,"U-turn rush (where ""U-turn"" is referring to people returning home from vacation)",heavy traffic after a long holiday,rush hour,round trip,diaper rash
 78,ナルシスト,narushisuto,narcissist,narcissist,nutritionist,neurologist,narrator
 79,コンビニ,konbini,conveni(ence store),convenience store,company,combination,combine
 80,スーパー,sūpā,super(market),supermarket,spa,soup,dinner
@@ -157,6 +157,8 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 156,クレーム,kurēmu,claim,customer complaint,cremate,clean,clementine
 157,クレーンゲーム,kurēngēmu,crane game,claw machine,cranberry,insurance claim,cringe
 158,キャベツ,kyabetsu,cabbage,cabbage,cabinet,alphabet,casino
+159,オーライ,ōrai,a(ll) righ(t),"""keep coming"" (when guiding a driver)",overwrite,override,"""watch out"""
+160,ライオン,raion,lion,lion,liar,right on time,"""right on"""
 
 180,キャンペーン,kyanpēn,campaign,sales campaign,advertisement,product launch,market survey
 181,キャンピングカー,kyanpingukā,camping-car,recreational vehicle,tent,caravan park,pickup truck
@@ -214,7 +216,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 234,オージー,ōjī,orgy,orgy,Australian,foreigner,party
 235,オンリーワン,onrīwan,only one,one-of-a-kind,second-best,limited-time,exclusive member
 236,オープンカー,ōpunkā,open car,convertible,roadster,pickup truck,hatchback
-237,オーライ,ōrai,a(ll) righ(t),all right,go ahead,come back,wait there
 238,パイプカット,paipukatto,pipe cut,vasectomy,appendectomy,circumcision,catheterization
 239,パイン,pain,pine(apple),pineapple,pine nut,coconut,mango
 240,パネリスト,panerisuto,panelist,panelist,moderator,audience member,reporter

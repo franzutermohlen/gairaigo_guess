@@ -167,44 +167,24 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 166,SNS,SNS (esu enu esu),social networking service,social media,text message,fire alarm,smoke detector
 167,マニア,mania,mania,enthusiast,manual,manicure,hallucination
 168,マンション,manshon,mansion,modern apartment,mansion,luxury hotel,office tower
+169,ナイフ,naifu,knife,knife,naive,nightlife,dinner
+170,ランプ,ranpu,lamp,lamp,lump,ramble,random
+171,マスコミ,masukomi,mass comm(unication),mass media,musical comedy,master copy,mascot
+172,メーカー,mēkā,maker,manufacturer,makeup,makeover,place that attracts visitors with a shared interest
+173,メール,mēru,mail,email,mail,mermaid,letter
+174,メタボ,metabo,metabo(lic syndrome),big-bellied,metabolism,metaphor,caterpillar
+175,ミニアルバム,miniarubamu,mini album,extended play (EP),minivan,mineral,"instant camera (e.g., Polaroid)"
+176,ミシン,mishin,machine,sewing machine,machine,mission,typewriter
+177,モーニングコール,mōningukōru,morning call,wake-up call,phone appointment,alarm clock,breakfast order
+178,ナイター,naitā,night + -er,"night game (e.g., baseball)",nightmare,late show,pajamas
+179,ナンバープレート,nanbāpurēto,number plate,license plate,keypad,purée,mashed potato
+180,ナイス,naisu,nice,nice,night shift,smile,favor
+181,ノート,nōto,note(book),notebook,not,textbook,folder
+182,パソコン,pasokon,perso(nal) com(puter),personal computer,passcode,passion fruit,step counter
+183,ハーフ,hāfu,half,half-Japanese person,haircut,hardcover book,middle-aged person
+184,フォーク,fōku,fork,fork,focus,fog,flashlight
+185,オーバー,ōbā,over,exaggerated,oval,oboe,expensive
 
-190,ナイフ,naifu,knife,knife,fork,scissors,razor
-191,ランプ,ranpu,lamp,lamp,candle,lantern,flashlight
-192,マスコミ,masukomi,mass communication,mass media,advertising,public relations,telecommunications
-193,マザコン,mazakon,mother complex,mother fixation,father fixation,social anxiety,homesickness
-194,メーカー,mēkā,maker,manufacturer,retailer,designer,distributor
-195,メモリ,memori,memory,memory,storage,processor,monitor
-196,メンヘラ,menhera,mental health,person with mental-health issues,therapist,medical student,caregiver
-197,メリークリスマス,merīkurisumasu,Merry Christmas,Merry Christmas,Happy New Year,Happy Birthday,Happy Easter
-198,メール,mēru,mail,email,text message,letter,voicemail
-199,メールマガジン,mērumagajin,mail magazine,email newsletter,newspaper,advertisement,magazine subscription
-200,メタボ,metabo,metabolic,metabolic syndrome,obesity,high blood pressure,diabetes
-201,ミクスチャーロック,mikusuchārokku,mixture + rock,rap-rock,hard rock,punk rock,folk rock
-202,ミニアルバム,miniarubamu,mini + album,EP,single,mixtape,box set
-203,ミシン,mishin,machine,sewing machine,typewriter,printer,knitting machine
-204,モバイル,mobairu,mobile,mobile device,laptop,desktop computer,landline
-205,モバメ,mobame,mobile + mail,fan mailing service,text message,online forum,news alert
-206,モボ,mobo,mo(dern) bo(y),modern boy,office worker,schoolboy,athlete
-207,モガ,moga,mo(dern) gi(rl),modern girl,schoolgirl,actress,housewife
-208,モーニングコール,mōningukōru,morning call,wake-up call,phone appointment,alarm clock,breakfast order
-209,モーニング,mōningu,morning service. Note: Can also mean morning coat (formal menswear) or morning.,breakfast special,lunch buffet,coffee break,room service
-210,ムーディ,mūdi,moody,romantic,angry,gloomy,unpredictable
-211,ミュージック,myūjikku,music,music,sound,effect,rhythm
-212,ナイター,naitā,night + -er,night game,night shift,evening class,late show
-213,ナンバーディスプレイ,nanbādisupurei,number display,caller ID,phone number,call waiting,voicemail
-214,ネーム,nēmu,name,manga storyboard,character name,pen name,title
-215,ナンバープレート,nanbāpurēto,number plate,license plate,parking permit,driver's license,registration card
-216,ナイス,naisu,nice,nice,kind,polite,beautiful
-218,ノークレームノーリターン,nōkurēmunōritān,no claim no return,sold as-is,refundable,exchangeable,under warranty
-219,ノンステップバス,nonsuteppubasu,non-step bus,low-floor bus,double-decker bus,school bus,shuttle bus
-220,ノート,nōto,note,notebook,not,textbook,folder
-221,ノートパソコン,nōtopasokon,note + personal computer,laptop,tablet,desktop,netbook
-222,ハーフ,hāfu,half,mixed-race person,foreigner,immigrant,tourist
-223,フォーク,fōku,fork,fork,spoon,knife,ladle
-224,ニューハーフ,nyūhāfu,new-half,transgender woman,drag queen,cross-dresser,actress
-225,オーバー,ōbā,over,overreaction,accident,argument,delay
-226,オーバーライド,ōbāraido,override,override,overwrite,upload,restart
-227,オブ,obu,of,of,from,with,for
 228,オーダーメード,ōdāmēdo,order + made,custom-made,ready-made,secondhand,hand-me-down
 229,オーディエンス,ōdiensu,audience,audience,performer,producer,host
 230,オーエル,ōeru, OL (office lady),female office worker,office manager,receptionist,executive
@@ -219,7 +199,6 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 240,パネリスト,panerisuto,panelist,panelist,moderator,audience member,reporter
 241,パンク,panku,punc(ture),flat tire,engine failure,traffic jam,flat battery
 242,パンスト,pansuto,pan(ty) + sto(cking),pantyhose,leggings,socks,underwear
-243,パソコン,pasokon,perso(nal) com(puter),personal computer,smartphone,tablet,server
 244,パンツ,pantsu,pants,underpants,jeans,shorts,trousers
 245,ペアルック,pearukku,pair look,matching outfits,formalwear,school uniform,matching jewelry
 246,ペンギン,pengin,penguin,penguin,pelican,puffin,seal
@@ -227,7 +206,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 248,ペーパードライバー,pēpādoraibā,paper driver,licensed non-driver,unlicensed driver,learner driver,driving instructor
 249,ペーパーテスト,pēpātesuto,paper test,written test,oral exam,driving test,medical test
 250,ピクニック,pikunikku,picnic,picnic,barbecue,camping,hiking
-251,ピンサロン,pinsaron,pink + salon,sex parlor,massage salon,beauty salon,dance club
+251,ピンサロン,pinsaron,pink salon,sex parlor,massage salon,beauty salon,dance club
 252,ピンチ,pinchi,pinch,tight spot,minor inconvenience,close call,short break
 253,ポエマー,poemā,poem + -er,poet,writer,lyricist,novelist
 254,ポケベル,pokeberu,pocke(t) bell,pager,smartphone,walkie-talkie,radio
@@ -272,7 +251,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 294,サラダ,sarada,salad,salad,soup,stew,side dish
 295,サラリーマン,sararīman,salaried man,salaried office worker,business owner,freelancer,manual laborer
 296,サイエンス,saiensu,science,science,technology,history,mathematics
-297,セフレ,sefure,se(x) + frie(nd),casual sexual partner,spouse,dating partner,roommate
+297,セフレ,sefure,se(x) frie(nd),casual sexual partner,spouse,dating partner,roommate
 299,センス,sensu,sense,taste,ability,feeling,knowledge
 300,セレブ,serebu,celeb(rity),wealthy person,celebrity,politician,aristocrat
 301,シャープペンシル,shāpupenshiru,Sharp pencil,mechanical pencil,wooden pencil,fountain pen,highlighter
@@ -319,7 +298,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 342,トイレ,toire,toilet,restroom,bathroom,kitchen,bedroom
 343,タン,tan,tongue,beef tongue,liver,beef cheek,pork belly
 344,トマト,tomato,tomato,tomato,potato,onion,pepper
-345,トンカツ,tonkatsu,ton + katsu,pork cutlet,chicken cutlet,pork chop,meatball
+345,カツ,katsu,cut(let),cutlet,chicken,pork chop,meatball
 346,トップページ,toppupēji,top + page,homepage,landing page,web address,search page
 347,トラブル,toraburu,trouble,problem,accident,argument,delay
 348,トラックメーカー,torakkumēkā,track maker,music producer,sound engineer,recording artist,disc jockey

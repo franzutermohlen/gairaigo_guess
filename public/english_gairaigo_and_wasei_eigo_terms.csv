@@ -1,11 +1,11 @@
 id,japanese,romaji,origin,correct,fake1,fake2,fake3
-1,OB/OG,OB (ōbī)/OG (ōjī),old boy/old girl,alumnus/alumna,popular boy/popular girl,only child (male/female),all-boys school/all-girls school
+1,OB/OG,ō-bī/ō-jī,old boy/old girl,alumnus/alumna,popular boy/girl,only child (male/female),all-boys school/all-girls school
 2,アイスクリーム,aisukurīmu,ice cream,ice cream,sorbet,scream,shocked facial expression
 3,アーカイブ,ākaibu,archive,archive,chives,cherry,açaí berry
 4,アフレコ,afureko,af(ter) recor(ding),post-production dubbing (dialogue or sounds),subtitles,remix,Africa
 5,パーマ,pāma,perma(nent wave),perm,parmesan cheese,pummel,permanent tattoo
 6,チョコレート,chokorēto,chocolate,chalk,chalkboard,brown,dark
-7,ジーパン,jīpan,jea(ns) + pan(ts),jeans,thong,frying pan,G-force
+7,ジーパン,jīpan,jea(ns) + pan(ts),jeans,thong,frying pan,g-force
 8,アイドル,aidoru,idol,pop idol,door,door peephole,altar
 9,アフターサービス,afutāsābisu,after service,after-sales service,customer discount,product recall,price after savings
 10,アメリカンドッグ,amerikandoggu,American dog,corn dog,hot dog,American dog,Boston Terrier (dog breed)
@@ -51,7 +51,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 50,ビール,bīru,bier (Dutch),beer,build,building,bridge
 51,ボールペン,bōrupen,ball(point) pen,ballpoint pen,bullpen (baseball),marker,bowl
 52,ブレザー,burezā,blazer,blazer,bra,breakfast,hoodie
-53,CA,CA (shīē),cabin attendant,flight attendant,circus animal,valet parking,car rental
+53,CA,shī-ē,cabin attendant,flight attendant,circus animal,valet parking,car rental
 54,チャージ,chāji,charge,add money to prepaid card,refund,chart,ChatGPT
 55,チャレンジ,charenji,challenge,attempt,defeat,change,chant
 56,チェリーボーイ,cherībōi,cherry boy,male virgin,cherry pie,red-haired male,office chair
@@ -164,7 +164,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 163,キャッチホン,kyatchihon,catch (p)ho(ne),call waiting,catch (game),ketchup,stay home
 164,マグカップ,magukappu,mug cup,mug,baseball cap,fridge magnet,fish
 165,マジック,majikku,magic (from Japanese permanent marker brand Magic Ink),permanent marker,highlighter (pen),sparkler (firework),magnet
-166,SNS,SNS (esu enu esu),social networking service,social media,text message,fire alarm,smoke detector
+166,SNS,esu-enu-esu,social networking service,social media,text message,fire alarm,smoke detector
 167,マニア,mania,mania,enthusiast,manual,manicure,hallucination
 168,マンション,manshon,mansion,modern apartment,mansion,luxury hotel,office tower
 169,ナイフ,naifu,knife,knife,naive,nightlife,dinner
@@ -184,14 +184,11 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 183,ハーフ,hāfu,half,half-Japanese person,haircut,hardcover book,middle-aged person
 184,フォーク,fōku,fork,fork,focus,fog,flashlight
 185,オーバー,ōbā,over,exaggerated,oval,oboe,expensive
+186,OL,ō-eru,office lady,female office worker,online,alone,bathroom
+187,Gジャン,jījan,jea(ns) + jum(per),jean jacket,grape jam,"""good job""",g-force
+188,インスト,insuto,inst(rumental),instrumental,instant coffee,insult,moment
 
-228,オーダーメード,ōdāmēdo,order + made,custom-made,ready-made,secondhand,hand-me-down
-229,オーディエンス,ōdiensu,audience,audience,performer,producer,host
-230,オーエル,ōeru, OL (office lady),female office worker,office manager,receptionist,executive
-231,オフ,ofu,off,sale,closure,holiday,discount coupon
-232,オフヴォーカル,ofuvōkaru,off + vocal,instrumental backing track,vocal solo,live recording,acoustic version
 233,オイルショック,oirushokku,oil + shock,oil crisis,energy surplus,gas shortage,stock market crash
-234,オージー,ōjī,orgy,orgy,Australian,foreigner,party
 235,オンリーワン,onrīwan,only one,one-of-a-kind,second-best,limited-time,exclusive member
 236,オープンカー,ōpunkā,open car,convertible,roadster,pickup truck,hatchback
 238,パイプカット,paipukatto,pipe cut,vasectomy,appendectomy,circumcision,catheterization
@@ -307,7 +304,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 351,トレーニングパンツ,torēningupantsu,training pants,potty-training pants,jeans,shorts,school uniform
 352,ウインカー,uinkā,winker,turn signal,windshield wiper,headlight,horn
 353,ウーパールーパー,ūpārūpā,wooper looper,axolotl,salamander,newt,lizard
-354,ヴァージンロード,vājinrōdo,virgin road,wedding aisle,red carpet,church entrance,processional stage
+354,ヴァージンロード,vājinrōdo,virgin road,wedding aisle,red carpet,church entrance,cervix
 355,ワイドショー,waidoshō,wide show,talk show,game show,news bulletin,documentary
 356,Ｙシャツ,waishattsu,whi(te) shirt,dress shirt,white T-shirt,undershirt,formal jacket
 357,ワンパターン,wan patān,one pattern,predictable routine,unique style,random behavior,flexible plan

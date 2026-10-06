@@ -17,7 +17,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 16,ランチ,ranchi,lunch,lunch,rancid,ranch chicken,raunchy
 17,アパート,apāto,apart(ment),apartment,apart,part,mansion
 18,ホテル,hoteru,hotel,hotel,house,mansion,hut
-19,ハンドルキーパー,handorukīpā,handle keeper (""handle"" here means ""steering wheel""),designated driver,valet parking,groundskeeper,housekeeper
+19,ハンドルキーパー,handorukīpā,"handle keeper (""handle"" here means ""steering wheel"")",designated driver,valet parking,groundskeeper,housekeeper
 20,センチ,senchi,centi(meter),centimeter,centipede,center,send
 21,メートル,mētoru,meter,meter (unit of length),meteor,meat,metro/subway
 22,アポ,apo,appo(intment),appointment,apple,apostrophe,airport
@@ -188,27 +188,17 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 187,Gジャン,jījan,jea(ns) + jum(per),jean jacket,grape jam,"""good job""",g-force
 188,インスト,insuto,inst(rumental),instrumental,instant coffee,insult,moment
 189,オープンカー,ōpunkā,open car,convertible (car),keycard,car key,punk rock
-190,パイプカット,paipukatto,pipe cut,vasectomy,paper cut,scissors,circumcision
+190,パイプカット,paipukatto,pipe cut,vasectomy,paper cut,stray cat,circumcision
 191,パイン,pain,pine(apple),pineapple,pain,paint,pint
+192,パンク,panku,punc(ture),flat tire,pancake,pumpkin,crouton
+193,パンツ,pantsu,pants,underpants,jeans,mime,dress shirt
+194,ペーパーテスト,pēpātesuto,paper test,written test,paper towel,pepper grinder,spicy (food)
+195,ピンチ,pinchi,"pinch (from ""in a pinch"")",difficult situation,pink,pinky finger,blushing
+196,パンチ,panchi,punch,punch,pancake,pantry,napkin
+197,ポスト,posuto,post,mailbox,post office,poster,letter
+198,ポテチ,potechi,pota(to) + chi(ps),potato chips,potential,protein shake,French fries
+199,プラスアルファ,purasuarufa,plus alpha,something extra,plus-one (guest),plastic utensils,purified water
 
-241,パンク,panku,punc(ture),flat tire,engine failure,traffic jam,flat battery
-242,パンスト,pansuto,pan(ty) + sto(cking),pantyhose,leggings,socks,underwear
-244,パンツ,pantsu,pants,underpants,jeans,shorts,trousers
-245,ペアルック,pearukku,pair look,matching outfits,formalwear,school uniform,matching jewelry
-246,ペンギン,pengin,penguin,penguin,pelican,puffin,seal
-247,ペーパーカンパニー,pēpākanpanī,paper company,shell company,nonprofit,holding company,startup
-248,ペーパードライバー,pēpādoraibā,paper driver,licensed non-driver,unlicensed driver,learner driver,driving instructor
-249,ペーパーテスト,pēpātesuto,paper test,written test,oral exam,driving test,medical test
-250,ピクニック,pikunikku,picnic,picnic,barbecue,camping,hiking
-251,ピンサロン,pinsaron,pink salon,sex parlor,massage salon,beauty salon,dance club
-252,ピンチ,pinchi,pinch,tight spot,minor inconvenience,close call,short break
-253,ポエマー,poemā,poem + -er,poet,writer,lyricist,novelist
-254,ポケベル,pokeberu,pocke(t) bell,pager,smartphone,walkie-talkie,radio
-255,パンチ,panchi,punch,punch,kick,slap,throw
-256,ポスト,posuto,post,mailbox,mail carrier,post office,letter
-257,ポテチ,potechi,potato + chips,potato chips,potato wedges,French fries,corn chips
-258,プラスアルファ,purasuarufa,plus alpha,something extra,additional cost,negative balance,bonus point
-259,プレイガイド,pureigaido,play + guide,theater ticket agency,travel agency,tour guide,box office
 260,プリクラ,purikura,Pri(nt) Clu(b),photo booth,photo studio,passport office,photocopier
 261,プロ,puro,professional,professional,amateur,expert,manager
 262,プロレス,puroresu,pro(fessional) wrest(ling),professional wrestling,boxing,martial arts,amateur wrestling

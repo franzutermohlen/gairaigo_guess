@@ -204,22 +204,17 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 203,ライブ,raibu,live,"live (broadcasting, music, etc.)",library,rival,active
 204,ライブハウス,raibuhausu,live house,small live music venue,lighthouse,movie theater,small apartment
 205,ライフライン,raifurain,lifeline,"essential utilities (e.g., electricity, water)",emergency phone,health insurance,backup plan
+206,タン,tan,tongue,animal tongue (food),suntan,fuel tank (vehicle),tin
+207,ヴァージンロード,vājinrōdo,virgin road,wedding aisle,red carpet,church entrance,cervix
 
 269,ランニングシャツ,ranningushatsu,running shirt,sleeveless shirt,running shoes,sports bra,track jacket
-270,レースクイーン,rēsukuīn,race queen,racing promotional model,car mechanic,race driver,track official
 271,リベンジ,ribenji,revenge,rematch,revenge,retirement,championship
-272,リーチ,rīchi,reach,one tile from winning,winning move,final round,draw
 273,リフォーム,rifōmu,reform,remodel,repair,replacement,decoration
 274,リモコン,rimokon,remo(te) con(trol),remote control,remote sensor,game controller,keyboard
-275,リンクフリー,rinku furī,link free,free to link,private link,broken link,paid link
 276,リニューアル,rinyūaru,renewal,renovation,refund,replacement,extension
-277,リサイクルショップ,risaikurushoppu,recycle shop,secondhand shop,repair shop,antique museum,charity center
-278,リセマラ,risemara,reset marathon,rerolling,leveling,cheating,modding
-279,リストラ,risutora,restru(cturing),downsizing,promotion,recruitment,retirement
 280,ロードショー,rōdoshō,roadshow,film premiere,rodeo,circular saw,action movie
 281,ロケハン,rokehan,loca(tion) hun(ting),location scout,film director,camera operator,travel agent
 282,ロマンスグレー,romansugurē,romance grey,silver-gray hair,blond hair,black hair,curly hair
-283,ロンパリ,ronpari,Lon(don) + Paris,strabismus,short-sightedness,color blindness,hearing loss
 284,ロープウェー,rōpuwē,ropeway,aerial tramway,roller coaster,zip line,railway
 285,ロスタイム,rosutaimu,loss time,stoppage time,timeout,half-time,extra inning
 286,サービス,sābisu,service,complimentary extra,customer service,repair service,subscription
@@ -236,14 +231,13 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 297,セフレ,sefure,se(x) frie(nd),casual sexual partner,spouse,dating partner,roommate
 299,センス,sensu,sense,taste,ability,feeling,knowledge
 300,セレブ,serebu,celeb(rity),wealthy person,celebrity,politician,aristocrat
-301,シャープペンシル,shāpupenshiru,Sharp pencil,mechanical pencil,wooden pencil,fountain pen,highlighter
+301,シャーペン,shāpen,Sha(rp) pen(cil) (referring to pencil manufacturer Sharp),mechanical pencil,wooden pencil,fountain pen,highlighter
 302,シャッターチャンス,shattāchansu,shutter + chance,photo opportunity,camera angle,photo filter,flash setting
 303,シール,shīru,seal,sticker,stamp,label,poster
 304,シルバーシート,shirubāshīto,silver seat,priority seat,window seat,folding seat,driver's seat
 305,ソファー,sofā,sofa,sofa,armchair,bench,stool
 306,ソフト,sofuto,soft(ware),software,hardware,firmware,device
 307,ソフトクリーム,sofutokurīmu,soft ice cream,soft-serve ice cream,frozen yogurt,gelato,sherbet
-308,ソーラーシステム,sōrāshisutemu,solar system,solar heating system,solar battery,wind turbine,geothermal system
 309,スイートルーム,suītorūmu,suite room,hotel suite,honeymoon room,penthouse,candy shop
 310,スケボー,sukebō,ska(te)bo(ard),skateboard,surfboard,snowboard,roller skates
 311,スケルトン,sukeruton,skeleton,translucent,transparent,opaque,reflective
@@ -258,14 +252,13 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 320,スリーサイズ,surīsaizu,three size,bust-waist-hip measurements,height-weight-age,shoe measurements,body temperature
 321,スター,sutā,star,star,suit,dress,sit
 322,スタイル,sutairu,style,body shape,fashion,method,design
-323,スタジオ,sutajio,studio,studio,theater,office,workshop
+323,スタジオ,sutajio,studio,studio,stage,office,workshop
 324,ステップ,suteppu,step,step,staircase,platform,stage
 325,ストライキ,sutoraiki,strike,labor strike,strike (baseball),stripe,suit
 326,ストレートティー,sutorētotī,straight tea,black tea,green tea,unsweetened tea,herbal tea
 327,ストーブ,sutōbu,stove,space heater,cooking stove,fireplace,boiler
 328,スーツアクター,sūtsuakutā,suit actor,stunt performer wearing full-body costume,young actor,voice actor,stage manager
 329,タイムオーバー,taimuōbā,time over,time expired,late arrival,extra time,early finish
-330,タイムリー,taimurī,timely hit,clutch hit,home run,perfect pitch,winning run
 331,タンク,tanku,tank,tank,barrel,container,drum
 332,タオルケット,taoruketto,towelket,towel blanket,quilt,bedspread,comforter
 333,テーブル,tēburu,table,table,desk,counter,shelf
@@ -275,26 +268,20 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 337,テレビ,terebi,televi(sion),television,radio,computer,projector
 338,テレビゲーム,terebigēmu,televi(sion) game,video game,board game,arcade machine,card game
 339,テレフォン,terefon,telephone,telephone,telegraph,intercom,radio
-340,テレカ,tereka,tele(phone) ca(rd),prepaid phone card,credit card,ID card,train pass
 341,ティーンエージャー,tīnējā,teenager,teenager,child,adult,college professor
-342,トイレ,toire,toilet,restroom,bathroom,kitchen,bedroom
-343,タン,tan,tongue,beef tongue,liver,beef cheek,pork belly
+342,トイレ,toire,toilet,restroom,towel,kitchen,trouble
 344,トマト,tomato,tomato,tomato,potato,onion,pepper
 345,カツ,katsu,cut(let),cutlet,chicken,pork chop,meatball
 346,トップページ,toppupēji,top + page,homepage,landing page,web address,search page
 347,トラブル,toraburu,trouble,problem,accident,argument,delay
 348,トラックメーカー,torakkumēkā,track maker,music producer,sound engineer,recording artist,disc jockey
-349,トランプ,toranpu,trump(s),playing cards,board game,tarot cards,puzzle
+349,トランプ,toranpu,trump(s),playing cards,trumpet,tarot cards,puzzle
 350,トレーナー,torēnā,trainer,sweatshirt,tracksuit,hoodie,jacket
-351,トレーニングパンツ,torēningupantsu,training pants,potty-training pants,jeans,shorts,school uniform
 352,ウインカー,uinkā,winker,turn signal,windshield wiper,headlight,horn
 353,ウーパールーパー,ūpārūpā,wooper looper,axolotl,salamander,newt,lizard
-354,ヴァージンロード,vājinrōdo,virgin road,wedding aisle,red carpet,church entrance,cervix
 355,ワイドショー,waidoshō,wide show,talk show,game show,news bulletin,documentary
-356,Ｙシャツ,waishattsu,whi(te) shirt,dress shirt,white T-shirt,undershirt,formal jacket
+356,Ｙシャツ,wai-shattsu,whi(te) shirt,dress shirt,white T-shirt,undershirt,formal jacket
 357,ワンパターン,wan patān,one pattern,predictable routine,unique style,random behavior,flexible plan
 358,ワンピース,wan pīsu,one piece,one-piece dress,skirt suit,jumpsuit,nightgown
 359,ワープロ,wāpuro,wor(d) pro(cessor),word processor,typewriter,printer,spreadsheet
-360,ウォシュレット,woshuretto,washlet,washlet toilet,bidet,automatic faucet,shower
 361,ヨット,yotto,yacht,yacht,sailboat,canoe,ferry
-362,ユニットバス,yunittobasu,unit bath,modular bathroom,hotel bathroom,public bath,shower room

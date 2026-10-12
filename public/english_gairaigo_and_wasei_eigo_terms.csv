@@ -69,8 +69,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 67,キャッチコピー,kyatchikopī,catch copy,slogan,carbon copy,cheat (on an exam),catcher (baseball)
 68,ダンプカー,danpukā,dump car,dump truck,bumper car,tow truck,wet wipe
 69,ダストボックス,dasutobokkusu,dust box,trash can,dustpan,toolbox,ashtray
-70,ダッチワイフ,datchiwaifu,Dutch wife,sex doll,Dutch oven,dollhouse,Dachshund (dog breed)
-71,ラブドール,rabudōru,love doll,sex doll,Labrador Retriever (dog breed),revolving door,robot
+70,ラブドール,rabudōru,love doll,sex doll,Labrador Retriever (dog breed),revolving door,wedding altar
 71,ケーキ,kēki,cake,cake,cookie,cheesecake,cracker
 72,デコレーションケーキ,dekorēshonkēki,decoration cake,decorated cake,wedding cake,fake cake,birthday cake
 73,スキー,sukī,ski,skiing,skating,zucchini,zookeeper
@@ -217,22 +216,19 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 216,サンドイッチ,sandoitchi,sandwich,sandwich,sandpaper,beach,flea
 217,サンドバッグ,sandobaggu,sandbag,punching bag,sandbagging,baguette sandwich,jellyfish
 218,サラリーマン,sararīman,salaried man,office worker,boss,business owner,sailor
+219,セフレ,sefure,se(x) frie(nd),friends with benefits,sapphire,safari,time travel
+220,センス,sensu,sense,"taste (in fashion, music, etc.)",gut feeling,sexy,touch
+220,セクシー,sekushī,sexy,sexy,security,secret agent,cushion
+221,セレブ,serebu,celeb(rity),rich person,celebration,brain,selection
+222,シャーペン,shāpen,"Sha(rp) pen(cil) (referring to the ""Ever-Ready Sharp Pencil"", a mechanical pencil invented by Tokuji Hayakawa in 1915)",mechanical pencil,pencil sharpener,fountain pen,highlighter
+223,シャッターチャンス,shattāchansu,shutter + chance,best moment to take a picture,second chance,shatterproof glass,dangerous situation
+224,シール,shīru,seal,sticker,cheerleader,shield,syrup
+225,ソフト,sofuto,soft(ware),software,soccer,sofa,pillow
 
-296,サイエンス,saiensu,science,science,technology,history,mathematics
-297,セフレ,sefure,se(x) frie(nd),casual sexual partner,spouse,dating partner,roommate
-299,センス,sensu,sense,taste,ability,feeling,knowledge
-300,セレブ,serebu,celeb(rity),wealthy person,celebrity,politician,aristocrat
-301,シャーペン,shāpen,Sha(rp) pen(cil) (referring to pencil manufacturer Sharp),mechanical pencil,wooden pencil,fountain pen,highlighter
-302,シャッターチャンス,shattāchansu,shutter + chance,photo opportunity,camera angle,photo filter,flash setting
-303,シール,shīru,seal,sticker,stamp,label,poster
-304,シルバーシート,shirubāshīto,silver seat,priority seat,window seat,folding seat,driver's seat
-305,ソファー,sofā,sofa,sofa,armchair,bench,stool
-306,ソフト,sofuto,soft(ware),software,hardware,firmware,device
-307,ソフトクリーム,sofutokurīmu,soft ice cream,soft-serve ice cream,frozen yogurt,gelato,sherbet
-309,スイートルーム,suītorūmu,suite room,hotel suite,honeymoon room,penthouse,candy shop
-310,スケボー,sukebō,ska(te)bo(ard),skateboard,surfboard,snowboard,roller skates
-311,スケルトン,sukeruton,skeleton,translucent,transparent,opaque,reflective
-312,スキンシップ,sukinshippu,skin + -ship,physical affection,friendship,teamwork,conversation
+226,スイートルーム,suītorūmu,suite room,hotel suite,honeymoon room,penthouse,candy shop
+227,スケボー,sukebō,ska(te)bo(ard),skateboard,surfboard,snowboard,roller skates
+228,スケルトン,sukeruton,skeleton,translucent,transparent,opaque,reflective
+229,スキンシップ,sukinshippu,skin + -ship,physical affection,friendship,teamwork,conversation
 313,スマート,sumāto,smart,slim,clever,polite,quiet
 314,スマホ,sumaho,sma(rt) + (p)ho(ne),smartphone,tablet,laptop,smartwatch
 315,スムーズ,sumūzu,smooth,without problems,quickly,quietly,carefully

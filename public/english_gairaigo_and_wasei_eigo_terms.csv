@@ -14,7 +14,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 13,アニメ,anime,anima(tion),animation,video game,excited,spirit
 14,アニソン,anison,ani(me) son(g),anime song,anise,game soundtrack,happy birthday song
 15,アンチ,anchi,anti(-fan),hater,American cheese,lactose intolerant,chicken wings
-16,ランチ,ranchi,lunch,lunch,rancid,ranch chicken,raunchy
+16,ランチ,ranchi,lunch,lunch,lunchbox,rancid,raunchy
 17,アパート,apāto,apart(ment),apartment,apart,part,mansion
 18,ホテル,hoteru,hotel,hotel,house,mansion,hut
 19,ハンドルキーパー,handorukīpā,"handle keeper (""handle"" here means ""steering wheel"")",designated driver,valet parking,groundskeeper,housekeeper
@@ -75,7 +75,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 73,スキー,sukī,ski,skiing,skating,zucchini,zookeeper
 74,サッカー,sakkā,soccer,soccer,sack,race car,taxi
 75,パトカー,patokā,patrol car,police car,potato,photocopy,patio
-76,ワープ,wāpu,warp,warp (sci-fi),whirlpool,washing machine,popular Cardi B song
+76,ワープ,wāpu,warp,warp (sci-fi),whirlpool,washing machine,wet
 77,Uターンラッシュ,yūtānrasshu,"U-turn rush (where ""U-turn"" is referring to people returning home from vacation)",heavy traffic after a long holiday,rush hour,round trip,diaper rash
 78,ナルシスト,narushisuto,narcissist,narcissist,nutritionist,neurologist,narrator
 79,コンビニ,konbini,conveni(ence store),convenience store,company,combination,combine
@@ -216,7 +216,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 216,サンドイッチ,sandoitchi,sandwich,sandwich,sandpaper,beach,flea
 217,サンドバッグ,sandobaggu,sandbag,punching bag,sandbagging,baguette sandwich,jellyfish
 218,サラリーマン,sararīman,salaried man,office worker,boss,business owner,sailor
-219,セフレ,sefure,se(x) frie(nd),friends with benefits,sapphire,safari,time travel
+219,セフレ,sefure,se(x) frie(nd),friends with benefits,sapphire,safari,life jacket
 220,センス,sensu,sense,"taste (in fashion, music, etc.)",gut feeling,sexy,touch
 220,セクシー,sekushī,sexy,sexy,security,secret agent,cushion
 221,セレブ,serebu,celeb(rity),rich person,celebration,brain,selection
@@ -229,39 +229,28 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 228,スキンシップ,sukinshippu,skin + -ship,bonding through physical contact,friendship,tattoo,kayak
 229,スマート,sumāto,smart,slim,supermarket,polite,quiet
 230,スマホ,sumaho,sma(rt) + (p)ho(ne),smartphone,supermarket,smoke,smash
+231,スムーズ,sumūzu,smooth,smooth (without problems),smoothie,soft,quiet
+232,スパッツ,supattsu,spats (an accessory worn over shoes that covers the ankle and the instep),leggings,sports,super,applause
+233,スペル,superu,spell,spelling (of words),super,"spare (e.g., parts)",magic
+234,スリーサイズ,surīsaizu,three size,bust/waist/hip measurements,shoe size,height/weight/age,triangle
+235,スター,sutā,star,star,suit,sweater,statue
+236,スタイル,sutairu,style,physique,stairs,pen,humor
+237,スタジオ,sutajio,studio,studio,stadium,stage,office
+238,ストライキ,sutoraiki,strike,labor strike,strike (baseball),stripe,punch (combat)
+239,ストレートティー,sutorētotī,straight tea,plain black tea,straight teeth,white T-shirt,reusable shopping bag
+240,ストーブ,sutōbu,stove,space heater,stubborn,snow boots,very hungry
+241,タイムオーバー,taimuōbā,time over,run out of time,overtime (work),time travel,retirement
+242,テーブル,tēburu,table,table,tablet,terrible,temple
+243,テレビ,terebi,televi(sion),television,therapy,terrible,teddy bear
+244,テンキー,tenkī,ten key,numeric keypad (numpad),thank you,turkey,ready to use upon purchase
+245,テンション,tenshon,tension,excitement,attention,argument,rope
+246,トイレ,toire,toilet,bathroom,towel,toy car,hard work
+247,カツ,katsu,cut(let),cutlet,cat,ketchup,pork
 
-315,スムーズ,sumūzu,smooth,without problems,quickly,quietly,carefully
-316,スパッツ,supattsu,spats,leggings,sports,super,soup
-317,スペイン,supein,Spain,Spain,Portugal,Italy,France
-318,スペル,superu,spell,spelling,pronunciation,vocabulary,grammar
-319,スピン,supin,spin,bookmark ribbon,book cover,page number,dust jacket
-320,スリーサイズ,surīsaizu,three size,bust-waist-hip measurements,height-weight-age,shoe measurements,body temperature
-321,スター,sutā,star,star,suit,dress,sit
-322,スタイル,sutairu,style,body shape,fashion,method,design
-323,スタジオ,sutajio,studio,studio,stage,office,workshop
-324,ステップ,suteppu,step,step,staircase,platform,stage
-325,ストライキ,sutoraiki,strike,labor strike,strike (baseball),stripe,suit
-326,ストレートティー,sutorētotī,straight tea,black tea,green tea,unsweetened tea,herbal tea
-327,ストーブ,sutōbu,stove,space heater,cooking stove,fireplace,boiler
-328,スーツアクター,sūtsuakutā,suit actor,stunt performer wearing full-body costume,young actor,voice actor,stage manager
-329,タイムオーバー,taimuōbā,time over,time expired,late arrival,extra time,early finish
-331,タンク,tanku,tank,tank,barrel,container,drum
-332,タオルケット,taoruketto,towelket,towel blanket,quilt,bedspread,comforter
-333,テーブル,tēburu,table,table,desk,counter,shelf
-334,テレビ,terebi,television,television,radio,computer,projector
-335,テンキー,tenkī,ten key,numeric keypad,keyboard,calculator,control panel
-336,テンション,tenshon,tension,excitement,stress,pressure,anger
-337,テレビ,terebi,televi(sion),television,radio,computer,projector
-338,テレビゲーム,terebigēmu,televi(sion) game,video game,board game,arcade machine,card game
-339,テレフォン,terefon,telephone,telephone,telegraph,intercom,radio
-341,ティーンエージャー,tīnējā,teenager,teenager,child,adult,college professor
-342,トイレ,toire,toilet,restroom,towel,kitchen,trouble
-344,トマト,tomato,tomato,tomato,potato,onion,pepper
-345,カツ,katsu,cut(let),cutlet,chicken,pork chop,meatball
 346,トップページ,toppupēji,top + page,homepage,landing page,web address,search page
 347,トラブル,toraburu,trouble,problem,accident,argument,delay
 348,トラックメーカー,torakkumēkā,track maker,music producer,sound engineer,recording artist,disc jockey
-349,トランプ,toranpu,trump(s),playing cards,trumpet,tarot cards,puzzle
+349,トランプ,toranpu,trump(s),playing cards,trumpet,tarot cards,orange
 350,トレーナー,torēnā,trainer,sweatshirt,tracksuit,hoodie,jacket
 352,ウインカー,uinkā,winker,turn signal,windshield wiper,headlight,horn
 353,ウーパールーパー,ūpārūpā,wooper looper,axolotl,salamander,newt,lizard

@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Gairaigo Guess</title>
   <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&amp;family=Fraunces:opsz,wght@9..144,500;9..144,600&amp;family=Manrope:wght@400;500;600;700&amp;display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&amp;family=Fraunces:opsz,wght@9..144,500;9..144,600&amp;family=Manrope:wght@400;500;600;700&amp;display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&amp;family=Fraunces:opsz,wght@9..144,500;9..144,600&amp;family=Manrope:wght@400;500;600;700&amp;display=swap"></noscript>
 </head>
 <body>
   <main class="shell">
@@ -12,8 +17,8 @@
       <a class="brand" href="."><span class="mark">外</span><span><strong>Gairaigo</strong><em>Guess</em></span></a>
 
       <div class="gairaigo-help">
-        <button class="gairaigo-help-button" type="button">What is gairaigo?</button>
-        <div class="gairaigo-help-panel">
+        <button class="gairaigo-help-button" type="button" aria-expanded="false" aria-controls="gairaigo-help-panel">What is gairaigo?</button>
+        <div class="gairaigo-help-panel" id="gairaigo-help-panel">
           <p><strong>Gairaigo (外来語)</strong> are Japanese words from (or based on) a foreign language, such as <span class="example">チョコレート (chokorēto)</span>, which means "chocolate." This game focuses on gairaigo derived from English.</p>
           <p><strong>Wasei-eigo (和製英語)</strong> are English-style words or expressions created in Japan but not used in standard English, such as <span class="example">ハンドルキーパー (handorukīpā)</span>, which comes from "handle-keeper" but means "designated driver." These are also included in this game.</p>
         </div>

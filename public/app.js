@@ -12,6 +12,21 @@ const state = {
 const $ = (id) => document.getElementById(id);
 const letters = ['A', 'B', 'C', 'D'];
 
+function fitJapaneseTerm() {
+    const japanese = $('japanese');
+
+    japanese.style.fontSize = '';
+
+    const availableWidth = japanese.clientWidth;
+    const textWidth = japanese.scrollWidth;
+
+    if (availableWidth > 0 && textWidth > availableWidth) {
+        const baseFontSize = parseFloat(getComputedStyle(japanese).fontSize);
+        japanese.style.fontSize =
+            `${baseFontSize * (availableWidth / textWidth) * 0.99}px`;
+    }
+}
+
 function getSessionId() {
     const key = 'gairaigo-guess-session-id';
 
@@ -134,6 +149,7 @@ function render() {
     state.answered = false;
 
     $('japanese').textContent = row.japanese;
+    fitJapaneseTerm();
 
     $('romaji').textContent =
         row['romaji'] || 'romaji unavailable';
@@ -416,6 +432,34 @@ function next() {
 $('next').addEventListener('click', next);
 
 $('skip').addEventListener('click', next);
+
+const help = document.querySelector('.gairaigo-help');
+const helpButton = help.querySelector('.gairaigo-help-button');
+
+function closeHelp() {
+    help.classList.remove('is-open');
+    helpButton.setAttribute('aria-expanded', 'false');
+}
+
+helpButton.addEventListener('click', () => {
+    const isOpen = help.classList.toggle('is-open');
+    helpButton.setAttribute('aria-expanded', String(isOpen));
+});
+
+document.addEventListener('click', (event) => {
+    if (!help.contains(event.target)) {
+        closeHelp();
+    }
+});
+
+document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && help.classList.contains('is-open')) {
+        closeHelp();
+        helpButton.focus();
+    }
+});
+
+window.addEventListener('resize', fitJapaneseTerm);
 
 $('show-romaji').addEventListener('change', (event) => {
     $('romaji').hidden = !event.target.checked;

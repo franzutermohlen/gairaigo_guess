@@ -16,7 +16,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 15,アンチ,anchi,anti(-fan),hater,American cheese,lactose intolerant,chicken wings
 16,ランチ,ranchi,lunch,lunch,lunchbox,rancid,raunchy
 17,アパート,apāto,apart(ment),apartment,apart,part,mansion
-18,ホテル,hoteru,hotel,hotel,house,mansion,hut
+18,ホテル,hoteru,hotel,hotel,house,hot air balloon,mansion
 19,ハンドルキーパー,handorukīpā,"handle keeper (""handle"" here means ""steering wheel"")",designated driver,valet parking,groundskeeper,housekeeper
 20,センチ,senchi,centi(meter),centimeter,centipede,center,send
 21,メートル,mētoru,meter,meter (unit of length),meteor,meat,metro/subway
@@ -31,12 +31,12 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 30,ブルース,burūsu,blues,blues (music),bruise,brew,beer
 31,ブックカバー,bukkukabā,book cover,dust jacket (books),bookmark,booklet,audiobook
 32,レバー,rebā,liver,liver (food),rebel,rebar,level
-33,レベル,reberu,level,level,reverb,party,reverse
+33,レベル,reberu,level,level,reverb,reverse,party
 34,ルール,rūru,rule,rule,lure,lore,roar
 35,バックミラー,bakkumirā,back mirror,rearview mirror,side mirror,backup camera,hindsight
 36,バックナンバー,bakkunanbā,back number,back issue (of a publication),license plate,phone number,serial number
 37,バンパー,banpā,bumper,bumper,backpack,bandage,bandmate
-38,バリアフリー,bariafurī,barrier-free,accessible (for people with disabilities and older people),free,cage-free,wild (of an animal)
+38,バリアフリー,bariafurī,barrier-free,accessible (for people with disabilities and older people),free,cage-free,(of an animal) wild
 39,バター,batā,butter,butter,batter (baseball),batter (food),boot
 40,ベビーカー,bebīkā,baby car,stroller,baby carrier,baby carrot,toy car
 41,ページ,pēji,page,page,pig,beige,pager
@@ -57,7 +57,7 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 56,チェリーボーイ,cherībōi,cherry boy,male virgin,cherry pie,red-haired male,office chair
 57,チアガール,chiagāru,cheer girl,female cheerleader,chia seed,flower girl,female flight attendant
 58,ナッツ,nattsu,nuts,nuts,gnats,seeds,deez
-59,コンピュータ,konpyūta,computer,computer,calculator,television,robot
+59,コンピューター,konpyūtā,computer,computer,calculator,television,robot
 60,コラボ,korabo,collabo(ration),collaboration,club,crab,corroboration
 60,クラブ,kurabu,club,club,clap,collaborate,lobster
 61,ダブル,daburu,double,double,devil,dabble,dribble
@@ -246,17 +246,12 @@ id,japanese,romaji,origin,correct,fake1,fake2,fake3
 245,テンション,tenshon,tension,excitement,attention,argument,rope
 246,トイレ,toire,toilet,bathroom,towel,toy car,hard work
 247,カツ,katsu,cut(let),cutlet,cat,ketchup,pork
-
-346,トップページ,toppupēji,top + page,homepage,landing page,web address,search page
-347,トラブル,toraburu,trouble,problem,accident,argument,delay
-348,トラックメーカー,torakkumēkā,track maker,music producer,sound engineer,recording artist,disc jockey
-349,トランプ,toranpu,trump(s),playing cards,trumpet,tarot cards,orange
-350,トレーナー,torēnā,trainer,sweatshirt,tracksuit,hoodie,jacket
-352,ウインカー,uinkā,winker,turn signal,windshield wiper,headlight,horn
-353,ウーパールーパー,ūpārūpā,wooper looper,axolotl,salamander,newt,lizard
-355,ワイドショー,waidoshō,wide show,talk show,game show,news bulletin,documentary
-356,Ｙシャツ,wai-shattsu,whi(te) shirt,dress shirt,white T-shirt,undershirt,formal jacket
-357,ワンパターン,wan patān,one pattern,predictable routine,unique style,random behavior,flexible plan
-358,ワンピース,wan pīsu,one piece,one-piece dress,skirt suit,jumpsuit,nightgown
-359,ワープロ,wāpuro,wor(d) pro(cessor),word processor,typewriter,printer,spreadsheet
-361,ヨット,yotto,yacht,yacht,sailboat,canoe,ferry
+248,トランプ,toranpu,trump (referring to trump cards in some card games),playing cards,trumpet,trample,orange
+249,トレーナー,torēnā,trainer,sweatshirt,tournament,tornado,schoolteacher
+250,ウインカー,uinkā,winker,turn signal,windshield wiper,sports car,eyelid
+251,ワイシャツ,waishatsu,"whi(te) shirt (note: this Japanese term is used for dress shirts of any color)",dress shirt,white T-shirt,white socks,interrogation
+252,ワンパターン,wanpatān,one pattern,repetitive,one percent,(of clothing) solid-colored,"buy one, get one free"
+253,ワンピース,wanpīsu,one-piece (as in a one-piece dress),dress,whole,a little bit,treasure
+254,ヨット,yotto,yacht,yacht,yogurt,yodel,yo-yo
+255,カード,kādo,card,card,car door,avocado,cod
+256,ドア,doa,door,door,dough,dollar,female deer

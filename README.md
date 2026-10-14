@@ -57,10 +57,10 @@ The application has three main components:
 
 The frontend is a conventional HTML/CSS/JavaScript application:
 
-* `index.html` — page structure and UI
-* `style.css` — visual styling
-* `app.js` — game logic
-* `english_gairaigo_and_wasei_eigo_terms.csv` — quiz question data
+* `index.html`: page structure and UI
+* `style.css`: visual styling
+* `app.js`: game logic
+* `english_gairaigo_and_wasei_eigo_terms.csv`: quiz question data
 
 The frontend does **not** retrieve quiz questions from the database. The CSV is the source of truth for the quiz content.
 
@@ -690,8 +690,6 @@ This project was developed with the assistance of:
 
 # License
 
-The original source code of Gairaigo Guess is licensed under the [MIT License](LICENSE).
+The original source code for Gairaigo Guess is © 2026 Franz Utermohlen. All rights reserved.
 
-The quiz data in `public/english_gairaigo_and_wasei_eigo_terms.csv` includes material derived from [List of gairaigo and wasei-eigo terms](https://en.wikipedia.org/wiki/List_of_gairaigo_and_wasei-eigo_terms) on Wikipedia and is **not necessarily covered by the MIT License**. See [Data Sources & Attribution](#data-sources--attribution) for information about the source and applicable licensing terms.
-
-Unless otherwise indicated, the original code and other original contributions in this repository are © 2026 Franz Utermohlen.
+The quiz data in `public/english_gairaigo_and_wasei_eigo_terms.csv` includes material derived from [List of gairaigo and wasei-eigo terms](https://en.wikipedia.org/wiki/List_of_gairaigo_and_wasei-eigo_terms) on Wikipedia and may be subject to separate licensing terms. It is not necessarily covered by the same copyright or licensing terms as the original code. See [Data Sources & Attribution](#data-sources--attribution) for information about the source and applicable licensing terms.

@@ -714,7 +714,7 @@ footer .footer-separator {
         gap: 2px;
         font-size: 14px;
         white-space: nowrap;
-        transform: translate(10px, -10px);
+        transform: translate(8px, -10px);
     }
 
     .card-head .score-panel #score {
@@ -726,7 +726,7 @@ footer .footer-separator {
         gap: 3px;
         font-size: 14px;
         justify-content: center;
-        transform: translate(21px, -10px);
+        transform: translate(19px, -10px);
     }
 
     .card-head .toggle input {
@@ -738,7 +738,7 @@ footer .footer-separator {
         grid-column: auto;
         font-size: 14px;
         white-space: nowrap;
-        transform: translate(21px, -10px);
+        transform: translate(19px, -10px);
     }
 
     .card {

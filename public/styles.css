@@ -302,10 +302,12 @@ footer {
 }
 
 .term p {
+    width: 100%;
     font-size: 56px;
     font-weight: 600;
     color: var(--darkcoral);
     margin: 15px 0 0;
+    white-space: nowrap;
 }
 
 .rule {
@@ -743,11 +745,15 @@ footer a:hover {
     }
 
     footer {
-        display: block;
-        line-height: 1.8;
+        flex-direction: column;
+        gap: 8px;
+        line-height: 1.6;
+        text-align: center;
     }
 
     footer span:last-child {
-        float: right;
+        justify-content: center;
+        gap: 16px;
+        flex-wrap: wrap;
     }
 }

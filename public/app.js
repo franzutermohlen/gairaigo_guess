@@ -12,19 +12,22 @@ const state = {
 const $ = (id) => document.getElementById(id);
 const letters = ['A', 'B', 'C', 'D'];
 
-function fitJapaneseTerm() {
-    const japanese = $('japanese');
+function fitSingleLine(element) {
+    element.style.fontSize = '';
 
-    japanese.style.fontSize = '';
-
-    const availableWidth = japanese.clientWidth;
-    const textWidth = japanese.scrollWidth;
+    const availableWidth = element.clientWidth;
+    const textWidth = element.scrollWidth;
 
     if (availableWidth > 0 && textWidth > availableWidth) {
-        const baseFontSize = parseFloat(getComputedStyle(japanese).fontSize);
-        japanese.style.fontSize =
+        const baseFontSize = parseFloat(getComputedStyle(element).fontSize);
+        element.style.fontSize =
             `${baseFontSize * (availableWidth / textWidth) * 0.99}px`;
     }
+}
+
+function fitTerms() {
+    fitSingleLine($('japanese'));
+    fitSingleLine($('romaji'));
 }
 
 function getSessionId() {
@@ -149,12 +152,12 @@ function render() {
     state.answered = false;
 
     $('japanese').textContent = row.japanese;
-    fitJapaneseTerm();
 
     $('romaji').textContent =
         row['romaji'] || 'romaji unavailable';
 
     $('romaji').hidden = !$('show-romaji').checked;
+    fitTerms();
 
     $('current').textContent = state.index + 1;
 
@@ -459,10 +462,12 @@ document.addEventListener('keydown', (event) => {
     }
 });
 
-window.addEventListener('resize', fitJapaneseTerm);
+window.addEventListener('resize', fitTerms);
+document.fonts.ready.then(fitTerms);
 
 $('show-romaji').addEventListener('change', (event) => {
     $('romaji').hidden = !event.target.checked;
+    fitTerms();
 });
 
 $('feedback-button').addEventListener('click', openFeedback);

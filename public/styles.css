@@ -17,7 +17,6 @@
 
 body {
     margin: 0;
-    min-width: 320px;
     color: var(--ink);
     background: var(--paper);
     font-family: Manrope, sans-serif;
@@ -669,20 +668,40 @@ footer .footer-separator {
     }
 
     .topbar {
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 6px;
         padding-bottom: 17px;
     }
 
+    .gairaigo-help-button {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .gairaigo-help-panel {
+        right: 0;
+        left: auto;
+        width: min(485px, calc(100vw - 32px));
+        transform: none;
+    }
+
     .card-head .progress {
-        width: 100%;
+        width: 90%;
         min-width: 0;
         padding: 0;
         margin-right: 0;
+        transform: translateY(-10px);
+    }
+
+    .card-head .progress small {
+        font-size: 12px;
     }
 
     .card-head {
         grid-template-columns: repeat(4, minmax(0, 1fr));
         gap: 0;
         justify-items: center;
+        padding-bottom: 0;
     }
 
     .card-head .card-actions {
@@ -693,27 +712,33 @@ footer .footer-separator {
         grid-column: auto;
         min-width: 0;
         gap: 2px;
-        font-size: 12px;
+        font-size: 14px;
         white-space: nowrap;
+        transform: translate(10px, -10px);
     }
 
     .card-head .score-panel #score {
-        font-size: 12px;
+        font-size: 14px;
     }
 
     .card-head .toggle {
+        width: 100%;
         gap: 3px;
-        font-size: 12px;
+        font-size: 14px;
+        justify-content: center;
+        transform: translate(21px, -10px);
     }
 
     .card-head .toggle input {
         margin: 0;
+        flex: 0 0 auto;
     }
 
     .card-head button {
         grid-column: auto;
-        font-size: 12px;
+        font-size: 14px;
         white-space: nowrap;
+        transform: translate(21px, -10px);
     }
 
     .card {
@@ -721,7 +746,12 @@ footer .footer-separator {
     }
 
     .term {
-        padding: 30px 3px 25px;
+        padding: 14px 3px 10px;
+    }
+
+    .term p {
+        font-size: clamp(26px, 9vw, 40px);
+        margin-top: 4px;
     }
 
     .term div {
@@ -761,5 +791,45 @@ footer .footer-separator {
         justify-content: center;
         gap: 12px;
         flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 360px) {
+    .topbar {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        gap: 10px;
+    }
+
+    .brand,
+    .gairaigo-help {
+        grid-column: 1;
+    }
+}
+
+@media (max-width: 280px) {
+    .card-head .progress small {
+        font-size: 10px;
+    }
+
+    .card-head .score-panel,
+    .card-head .score-panel #score,
+    .card-head .toggle,
+    .card-head button {
+        font-size: 11px;
+    }
+
+    .card-head .score-panel,
+    .card-head .toggle {
+        transform: translateX(1px);
+    }
+
+    .card-head .toggle {
+        font-size: 10px;
+        transform: translateX(0.5px);
+    }
+
+    .card-head .toggle input {
+        width: 11px;
     }
 }

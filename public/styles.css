@@ -596,11 +596,16 @@ footer span:last-child {
 
 footer a {
     color: var(--muted);
-    text-decoration: none;
+    text-decoration: underline;
+    text-underline-offset: 3px;
 }
 
 footer a:hover {
     color: var(--darkcoral);
+}
+
+footer .footer-separator {
+    color: #a49e91;
 }
 
 .page-card {
@@ -752,8 +757,9 @@ footer a:hover {
     }
 
     footer span:last-child {
+        order: -1;
         justify-content: center;
-        gap: 16px;
+        gap: 12px;
         flex-wrap: wrap;
     }
 }

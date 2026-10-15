@@ -406,7 +406,7 @@ async function handleFeedbackSubmit(event) {
 function finish() {
     state.finished = true;
 
-    status('You completed all the words.', 'good');
+    status("You've completed all the words!", 'good');
 
     [...$('answers').children].forEach((button) => {
         button.disabled = true;

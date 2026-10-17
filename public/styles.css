@@ -85,9 +85,9 @@ footer {
     display: flex;
     align-items: center;
     padding: 0 18px;
-    border: 1px solid var(--line);
+    border: 1px solid var(--muted);
     background: var(--paper);
-    color: var(--muted);
+    color: var(--ink);
     cursor: pointer;
     transition: color 0.2s, border-color 0.2s, background 0.2s;
 }

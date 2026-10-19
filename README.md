@@ -699,6 +699,6 @@ This project was developed with the assistance of:
 
 # License
 
-The original source code for Gairaigo Guess is © 2026 Franz Utermohlen. All rights reserved.
+The original source code and other original contributions to Gairaigo Guess are © 2026 Franz Utermohlen. All rights reserved and are not licensed for public use. No permission is granted to use, copy, modify, or distribute them without prior written permission. See [LICENSE](LICENSE).
 
-The quiz data in `public/english_gairaigo_and_wasei_eigo_terms.csv` includes material derived from [List of gairaigo and wasei-eigo terms](https://en.wikipedia.org/wiki/List_of_gairaigo_and_wasei-eigo_terms) on Wikipedia and may be subject to separate licensing terms. It is not necessarily covered by the same copyright or licensing terms as the original code. See [Data Sources & Attribution](#data-sources--attribution) for information about the source and applicable licensing terms.
+The quiz data in `public/english_gairaigo_and_wasei_eigo_terms.csv` includes material derived from [List of gairaigo and wasei-eigo terms](https://en.wikipedia.org/wiki/List_of_gairaigo_and_wasei-eigo_terms) on Wikipedia and may be subject to separate licensing terms. It is not covered by the same terms as the original code. See [Data Sources & Attribution](#data-sources--attribution) for information about the source and applicable licensing terms.

@@ -3,6 +3,7 @@
 		db-init-local db-init-remote \
 		db-tables-local db-tables-remote \
 		db-stats-local db-stats-remote \
+		db-count-sessions-local db-count-sessions-remote \
 		db-feedback-local db-feedback-remote \
 		db-clear-local db-clear-remote \
 		clean-local
@@ -57,6 +58,12 @@ db-stats-local:
 
 db-stats-remote:
 	npx wrangler d1 execute gairaigo-guess-db --remote --command="SELECT * FROM answer_stats ORDER BY question_id, answer_id;"
+
+db-count-sessions-local:
+	npx wrangler d1 execute gairaigo-guess-db --local --command="SELECT COUNT(DISTINCT session_id) FROM responses;"
+
+db-count-sessions-remote:
+	npx wrangler d1 execute gairaigo-guess-db --remote --command="SELECT COUNT(DISTINCT session_id) FROM responses;"
 
 db-count-responses-local:
 	npx wrangler d1 execute gairaigo-guess-db --local --command="SELECT COUNT(*) FROM responses;"

@@ -312,19 +312,6 @@ After creating the D1 database and whenever the local database needs to be initi
 make db-init-local
 ```
 
-Check that the tables exist:
-
-```bash
-make db-tables-local
-```
-
-Expected tables include:
-
-```text
-answer_stats
-responses
-```
-
 ---
 
 ## Run Locally
@@ -474,12 +461,6 @@ The contents of `public/` are deployed as static assets, while `index.js` is dep
 
 # Database Maintenance
 
-## View Production Tables
-
-```bash
-make db-tables-remote
-```
-
 ## Count Number of Play Sessions
 
 ```bash
@@ -489,7 +470,7 @@ make db-count-sessions-remote
 ## View Answer Statistics
 
 ```bash
-make db-stats-remote
+make db-all-responses-remote
 ```
 
 ## Count Responses
@@ -662,17 +643,20 @@ make db-create-remote         # Create production Cloudflare D1 database and ret
 make db-init-local            # Create and initialize local D1 database
 make db-init-remote           # Initialize production D1 database
 
-make db-tables-local          # List local database tables
-make db-tables-remote         # List production database tables
+make db-session-stats-local   # List local database session statistics
+make db-session-stats-remote  # List production database session statistics
 
 make db-count-sessions-local  # Count number of local sessions
 make db-count-sessions-remote # Count number of production sessions
 
-make db-stats-local           # View local answer statistics
-make db-stats-remote          # View production answer statistics
+make db-count-responses-local  # Count number of total local responses across all sessions
+make db-count-responses-remote # Count number of total production responses across all sessions
 
 make db-feedback-local        # View local feedback
 make db-feedback-remote       # View production feedback
+
+make db-all-responses-local   # View local answer statistics
+make db-all-responses-remote  # View production answer statistics
 
 make db-clear-local           # Clear all test data from local database
 make db-clear-remote          # Clear all answer data from production database

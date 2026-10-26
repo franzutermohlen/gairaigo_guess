@@ -2,7 +2,7 @@
     "name": "gairaigo-guess",
     "private": true,
     "devDependencies": {
-        "wrangler": "^4.151.1"
+        "wrangler": "^4.152.0"
     },
     "version": "1.0.0",
     "description": "",
